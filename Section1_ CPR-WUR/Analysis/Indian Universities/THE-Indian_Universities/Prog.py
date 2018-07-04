@@ -1,0 +1,19 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import csv
+
+arrays = []
+# declare the format of you csv file and Python will turn line into
+# lists for you 
+parser = csv.reader(open('abc.txt'), delimiter=',')
+for l in parser: 
+    arrays.append(np.arrays((arrays.float(i) for i in l)))
+
+plt.plot(arrays[:0],arrays[:6],'ro')
+plt.axis([0,100,0,100])
+
+
+plt.show()
+
+
+

@@ -1,0 +1,100 @@
+University,Rank11,Rank12,R11-R12,D2/ R11,E2^2,,,
+Harvard University,1,1,0,0,0,,0,0
+Stanford University,2,2,0,0,0,,0,0
+Massachusetts Institute of Technology (MIT),3,3,0,0,0,,0,0
+"University of California, Berkeley",4,4,0,0,0,,0,0
+University of Cambridge,5,5,0,0,0,,0,0
+California Institute of Technology,6,6,0,0,0,,0,0
+Princeton University,7,7,0,0,0,,0,0
+Columbia University,8,8,0,0,0,,0,0
+University of Chicago,9,9,0,0,0,,0,0
+University of Oxford,10,10,0,0,0,,0,0
+Yale University,11,11,0,0,0,,0,0
+"University of California, Los Angeles",12,12,0,0,0,,0,0
+Cornell University,13,13,0,0,0,,0,0
+University of Pennsylvania,14,14,0,0,0,,0,0
+"University of California, San Diego",15,15,0,0,0,,0,0
+University of Washington,16,16,0,0,0,,0,0
+The Johns Hopkins University,18,17,1,0.0555555556,0.0030864198,,1,0.0555555556
+"University of California, San Francisco",17,18,-1,-0.0588235294,0.0034602076,,1,0.0588235294
+University of Wisconsin - Madison,19,19,0,0,0,,0,0
+The University of Tokyo,21,20,1,0.0476190476,0.0022675737,,1,0.0476190476
+University College London,20,21,-1,-0.05,0.0025,,1,0.05
+University of Michigan - Ann Arbor,22,22,0,0,0,,0,0
+Swiss Federal Institute of Technology Zurich,23,23,0,0,0,,0,0
+"The Imperial College of Science, Technology and Medicine",24,24,0,0,0,,0,0
+University of Illinois at Urbana-Champaign,25,25,0,0,0,,0,0
+Kyoto University,27,26,1,0.037037037,0.0013717421,,1,0.037037037
+University of Toronto,26,27,-1,-0.0384615385,0.0014792899,,1,0.0384615385
+New York University,29,27,2,0.0689655172,0.0047562426,,2,0.0689655172
+"University of Minnesota, Twin Cities",28,29,-1,-0.0357142857,0.0012755102,,1,0.0357142857
+Northwestern University,30,30,0,0,0,,0,0
+Washington University in St. Louis,31,31,0,0,0,,0,0
+Rockefeller University,33,32,1,0.0303030303,0.0009182736,,1,0.0303030303
+University of Colorado at Boulder,32,33,-1,-0.03125,0.0009765625,,1,0.03125
+"University of California, Santa Barbara",33,34,-1,-0.0303030303,0.0009182736,,1,0.0303030303
+The University of Texas at Austin,35,35,0,0,0,,0,0
+Duke University,35,36,-1,-0.0285714286,0.0008163265,,1,0.0285714286
+University of Paris Sud (Paris 11),40,37,3,0.075,0.005625,,3,0.075
+"University of Maryland, College Park",38,38,0,0,0,,0,0
+University of British Columbia,37,39,-2,-0.0540540541,0.0029218408,,2,0.0540540541
+The University of Manchester,38,40,-2,-0.0526315789,0.0027700831,,2,0.0526315789
+University of North Carolina at Chapel Hill,42,41,1,0.0238095238,0.0005668934,,1,0.0238095238
+Pierre and Marie  Curie University - Paris 6,41,42,-1,-0.0243902439,0.000594884,,1,0.0243902439
+Karolinska Institute,44,42,2,0.0454545455,0.0020661157,,2,0.0454545455
+University of Copenhagen,43,44,-1,-0.023255814,0.0005408329,,1,0.023255814
+"University of California, Irvine",48,45,3,0.0625,0.00390625,,3,0.0625
+University of Southern California,46,46,0,0,0,,0,0
+"University of California, Davis",48,47,1,0.0208333333,0.0004340278,,1,0.0208333333
+The University of Texas Southwestern Medical Center at Dallas,51,48,3,0.0588235294,0.0034602076,,3,0.0588235294
+Pennsylvania State University - University Park,45,49,-4,-0.0888888889,0.0079012346,,4,0.0888888889
+Vanderbilt University,52,50,2,0.0384615385,0.0014792899,,2,0.0384615385
+The University of Edinburgh,53,51,2,0.0377358491,0.0014239943,,2,0.0377358491
+Carnegie Mellon University,55,51,4,0.0727272727,0.0052892562,,4,0.0727272727
+Technical University Munich,47,53,-6,-0.1276595745,0.016296967,,6,0.1276595745
+Utrecht University,48,53,-5,-0.1041666667,0.0108506944,,5,0.1041666667
+The Hebrew University of Jerusalem,57,53,4,0.0701754386,0.0049245922,,4,0.0701754386
+Purdue University - West Lafayette,61,56,5,0.0819672131,0.006718624,,5,0.0819672131
+University of Melbourne,60,57,3,0.05,0.0025,,3,0.05
+University of Pittsburgh,57,58,-1,-0.0175438596,0.000307787,,1,0.0175438596
+University of Zurich,56,59,-3,-0.0535714286,0.002869898,,3,0.0535714286
+University of Munich,54,60,-6,-0.1111111111,0.012345679,,6,0.1111111111
+"Rutgers, The State University of New Jersey - New Brunswick",59,61,-2,-0.0338983051,0.0011490951,,2,0.0338983051
+University of Heidelberg,62,62,0,0,0,,0,0
+McGill University,64,63,1,0.015625,0.0002441406,,1,0.015625
+The Australian National University,70,64,6,0.0857142857,0.0073469388,,6,0.0857142857
+The Ohio State University - Columbus,63,65,-2,-0.0317460317,0.0010078105,,2,0.0317460317
+Brown University,65,65,0,0,0,,0,0
+University of Oslo,75,67,8,0.1066666667,0.0113777778,,8,0.1066666667
+King's College London,68,68,0,0,0,,0,0
+University of Geneva,73,69,4,0.0547945205,0.0030024395,,4,0.0547945205
+University of Bristol,70,70,0,0,0,,0,0
+Boston University,76,71,5,0.0657894737,0.0043282548,,5,0.0657894737
+University of Florida,72,72,0,0,0,,0,0
+Leiden University,65,73,-8,-0.1230769231,0.015147929,,8,0.1230769231
+Uppsala University,67,73,-6,-0.0895522388,0.0080196035,,6,0.0895522388
+Ecole Normale Superieure - Paris,69,73,-4,-0.0579710145,0.0033606385,,4,0.0579710145
+University of Helsinki,74,73,1,0.0135135135,0.000182615,,1,0.0135135135
+University of Arizona,80,77,3,0.0375,0.00140625,,3,0.0375
+Arizona State University - Tempe,78,79,-1,-0.0128205128,0.0001643655,,1,0.0128205128
+Moscow State University,77,80,-3,-0.038961039,0.0015179626,,3,0.038961039
+Stockholm University,81,81,0,0,0,,0,0
+University of Utah,79,82,-3,-0.0379746835,0.0014420766,,3,0.0379746835
+Osaka University,82,83,-1,-0.012195122,0.000148721,,1,0.012195122
+Indiana University Bloomington,82,84,-2,-0.0243902439,0.000594884,,2,0.0243902439
+University of Basel,89,85,4,0.0449438202,0.002019947,,4,0.0449438202
+University of Rochester,84,86,-2,-0.0238095238,0.0005668934,,2,0.0238095238
+University of Nottingham,85,86,-1,-0.0117647059,0.0001384083,,1,0.0117647059
+Aarhus University,86,86,0,0,0,,0,0
+Ghent University,89,89,0,0,0,,0,0
+The University of Queensland,86,90,-4,-0.0465116279,0.0021633315,,4,0.0465116279
+Rice University,93,91,2,0.0215053763,0.0004624812,,2,0.0215053763
+McMaster University,89,92,-3,-0.0337078652,0.0011362202,,3,0.0337078652
+University of Sydney,96,93,3,0.03125,0.0009765625,,3,0.03125
+Texas A&M University - College Station,100,93,7,0.07,0.0049,,7,0.07
+Michigan State University,92,96,-4,-0.0434782609,0.0018903592,,4,0.0434782609
+Nagoya University,94,96,-2,-0.0212765957,0.0004526935,,2,0.0212765957
+Case Western Reserve University,97,99,-2,-0.0206185567,0.0004251249,,2,0.0206185567
+,,,,SUM,0.1951940986,,,
+,,,,V^2,0.0020332719,,SUM,3.0184213716
+,,,,v,0.0450918159,,V*,0.0314418893

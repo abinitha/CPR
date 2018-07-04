@@ -1,0 +1,1 @@
+plot 'abc.txt' using 6:1 title 'Teaching' pt 7 ps 1 lc rgb '#808000', 'abc.txt' using 6:2 title 'Int_Outlook' pt 7 ps 1 lc rgb '#FF4500', 'abc.txt' using 6:3 title 'Reseach' pt 7 ps 1 lc rgb '#800080', 'abc.txt' using 6:4 title 'Citation' pt 7 ps 1 lc rgb '#008000', 'abc.txt' using 6:5 'Ind_Income' pt 7 ps 1 lc rgb '#000080', 'ab.txt' w l lc rgb 'red' notitle 

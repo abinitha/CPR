@@ -1,0 +1,20 @@
+set xlabel "Employer Reputation score-15" font "Verdana,18"
+set ylabel "Employer Reputation score-14" font "Verdana,18"
+set ylabel offset 1,0
+set title "QS 2014-2015" font "Verdana,18" 
+set border lw 3
+set lmargin at screen 0.15
+set xtics font ",14"
+set ytics font ",14"
+set xtics nomirror
+set ytics nomirror
+set xrange[0:100]
+set yrange[0:100]
+set key left top box 1
+set datafile separator ","
+set term png
+set output "Emp_Rep.png"
+set label "σ1=0.0623" at 80,25 right
+set label "σ2=0.0930" at 80,20 right 
+plot "Emp_Rep.csv" using 3:2 pt 20 ps 1 title "Top400-Non Indian", "line.csv" using 1:2 with line lw 1.85 lc rgb "black" notitle,"Emp_Rep.csv" using 5:4 pt 9 title "Top400-Indian"
+

@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+ <!--<meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex, nofollow">-->
+
+  <script type="text/javascript" src="http://code.jquery.com/jquery-2.2.3.js"></script>
+  <script type="text/javascript" src="http://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  
+<!-- Styling -->
+  <style type="text/css">
+    .button {
+      background-color: #228C3A;
+      border: none;
+      color: white;
+      padding: 10px 17px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+  </style>
+
+  <title>Charts</title>
+
+
+</head>
+
+<body>
+
+  <br/>
+  <p> Times Higher Education(QS): Metric comparison over two consecutive years, 2017-18. </p>
+  <button class="button" id="chart1">QS-Rank </button>
+  <button class="button" id="chart5">QS-Overall Score </button>
+  <button class="button" id="chart2">QS-Academic Reputation </button>
+  <button class="button" id="chart3">QS-Employer Reputation </button>
+  <button class="button" id="chart4">QS-Citation </button>
+  <button class="button" id="chart6">QS-International Faculty </button>
+  <button class="button" id="chart7">QS-International Students </button>
+  <button class="button" id="chart8">QS-Faculty Student Ratio </button>
+  <br/>
+
+  <br/>
+  <!-- Container that holds the chart-->
+  <div id="chartContainer1" style="height: 400px; width: 400px;"></div>
+  <br/>
+
+
+  <script type="text/javascript" src="canvasjs.min.js"></script>
+
+  <script type='text/javascript'>
+    window.onload=function(){
+    var data = [];
+    }
+    /*function to read data from csv file, split the columns and push each row into x and y value*/
+    function processData(csvurl,chart) {
+        var allText;
+        $.ajax({
+            type: "GET",
+            url: csvurl,
+            dataType: "text",
+            async: false,
+            success: function (dataCSV) { allText = dataCSV;}
+        });
+        var allLinesArray = allText.split('\n');
+        if (allLinesArray.length > 0) {
+        var dataPoints = [];  
+          for (var i = 0; i <= allLinesArray.length - 1; i++) {
+            var rowData = allLinesArray[i].split(',');
+            if(rowData && rowData.length > 1)
+              dataPoints.push({ x: parseInt(rowData[2]), y: parseInt(rowData[1]), name:rowData[0] });
+                }
+                chart.options.data[0].dataPoints = dataPoints;
+          }
+        }
+        /* Chart1 to display Rank comparison */
+    document.getElementById("chart1").onclick = function() {
+      data = [];
+      var chart1 = new CanvasJS.Chart("chartContainer1", {
+       
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:false,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: Rank"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:203
+        },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:200
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>QS-Rank 2017:</strong> {y} <br/> <strong>QS-Rank 2018:</strong> {x} ",
+          color:"darkblue",
+          dataPoints: []
+        },
+        {        
+          type: "line",  
+          lineThickness: 2,
+          color: "black",
+          dataPoints: [
+          
+          { x:  0, y:200},
+          { x:200, y:200}
+                ]
+        },
+        {        
+          type: "line",  
+          lineThickness: 1,
+          color: "black",
+          dataPoints: [
+          {x: 200, y:200},
+          { x:  200, y: 0 }
+                ]
+        },
+        {
+          type: "area",
+          fillOpacity: .5,
+          color:"orange",
+          dataPoints: [
+          {x:0, y:0},
+          {x:180, y:200},
+          {x:200, y:200},
+          {x:200, y:180},
+          {x:0, y:0}
+          ]
+        }    
+            ]    
+        });
+      var dataCsv1="Rank.csv";
+       processData(dataCsv1,chart1);
+      chart1.render();
+       
+    }
+    /* Chart2 to display Academic Reputation comparison */
+    document.getElementById("chart2").onclick = function() {
+      data = [];
+      var chart2 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: Academic Reputation"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Academic Reputation 2017:</strong> {y} <br/> <strong>Academic Reputation 2018:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv2="Acad_Rep.csv";
+      processData(dataCsv2,chart2);
+      chart2.render();
+    }
+    /* Chart3 to display Employer Reputation comparison */
+    document.getElementById("chart3").onclick = function() {
+      data = [];
+      var chart3 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: Employer Reputation"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Employer Reputation 2017:</strong> {y} <br/> <strong>Employer Reputation 2018:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv3="Emp_Rep.csv";
+      processData(dataCsv3,chart3);
+      chart3.render();
+    }
+    /* Chart4 to display Citation comparison */
+    document.getElementById("chart4").onclick = function() {
+      data = [];
+      var chart4 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: Citation"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Citation 2017:</strong> {y} <br/> <strong>Citation 2018:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv4="Citation.csv";
+      processData(dataCsv4,chart4);
+      chart4.render();
+    }    
+    /* Chart5 to display Overall comparison */
+    document.getElementById("chart5").onclick = function() {
+      data = [];
+      var chart5 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: Overall"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Overall 2017:</strong> {y} <br/> <strong>Overall 2018:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv5="Overall.csv";
+      processData(dataCsv5,chart5);
+      chart5.render();
+    }    
+    /* Chart1 to display Rank comparison */
+    document.getElementById("chart6").onclick = function() {
+      data = [];
+      var chart6 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: International Faculty"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>International Faculty 2017:</strong> {y} <br/> <strong>International Faculty 2018:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv6="Int_Fac.csv";
+      processData(dataCsv6,chart6);
+      chart6.render();
+    }    
+    /* Chart7 to display International Students comparison */
+    document.getElementById("chart7").onclick = function() {
+      data = [];
+      var chart7 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: International Students"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>International Students 2017:</strong> {y} <br/> <strong>International Students 2018:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv7="Int_Stud.csv";
+      processData(dataCsv7,chart7);
+      chart7.render();
+    }    
+    /* Chart6 to display International Faculty comparison */
+    document.getElementById("chart6").onclick = function() {
+      data = [];
+      var chart6 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: International Faculty"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>International Faculty 2017:</strong> {y} <br/> <strong>International Faculty 2018:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv6="Int_Fac.csv";
+      processData(dataCsv6,chart6);
+      chart6.render();
+    }    
+    /* Chart8 to display Faculty Student Ratio comparison */
+    document.getElementById("chart8").onclick = function() {
+      data = [];
+      var chart8 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS 2017-18: Faculty Student Ratio"
+            },
+        axisX: {            
+          title: "2018 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Faculty Student Ratio 2017:</strong> {y} <br/> <strong>Faculty Student Ratio 2018:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv8="Fac_Stud.csv";
+      processData(dataCsv8,chart8);
+      chart8.render();
+    }  
+  </script>
+</body>
+
+</html>

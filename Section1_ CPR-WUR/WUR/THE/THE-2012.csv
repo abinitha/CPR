@@ -1,0 +1,403 @@
+Rank,Name,Overall,Teaching,Research,Citations,Industry Income,International Outlook
+1,California Institute of TechnologyUnited StatesExplore,94.8,95.7,98.2,99.9,97.0,56.0
+2,Harvard UniversityUnited StatesExplore,93.9,95.8,97.4,99.8,35.9,67.5
+2,Stanford UniversityUnited StatesExplore,93.9,94.8,98.9,99.8,63.8,57.2
+4,University of OxfordUnited KingdomExplore,93.6,89.5,96.6,97.9,62.1,91.9
+5,Princeton UniversityUnited StatesExplore,92.9,91.5,99.1,100.0,81.0,49.6
+6,University of CambridgeUnited KingdomExplore,92.4,90.5,94.2,97.3,55.5,85.3
+7,Massachusetts Institute of TechnologyUnited StatesExplore,92.3,92.7,87.4,100.0,94.4,79.2
+8,Imperial College LondonUnited KingdomExplore,90.7,88.8,88.7,93.9,93.1,92.2
+9,University of ChicagoUnited StatesExplore,90.2,89.4,90.8,99.4,-,58.8
+10,"University of California, BerkeleyUnited StatesExplore",89.8,82.8,99.4,99.4,62.5,50.4
+11,Yale UniversityUnited StatesExplore,89.1,92.3,91.2,96.7,34.7,55.5
+12,Columbia UniversityUnited StatesExplore,87.5,89.1,81.8,97.8,-,67.6
+13,"University of California, Los AngelesUnited StatesExplore",87.3,85.9,92.5,97.3,-,41.0
+14,Johns Hopkins UniversityUnited StatesExplore,85.8,78.9,86.5,97.3,100.0,59.9
+15,ETH Zurich – Swiss Federal Institute of Technology ZurichSwitzerlandExplore,85.0,79.1,85.8,87.2,-,97.5
+16,University of PennsylvaniaUnited StatesExplore,84.9,87.0,86.1,97.9,41.9,34.3
+17,UCLUnited KingdomExplore,83.2,77.8,84.3,89.0,41.4,91.8
+18,University of MichiganUnited StatesExplore,82.8,75.4,90.0,94.3,53.3,47.2
+19,University of TorontoCanadaExplore,81.6,76.9,87.4,86.5,44.9,69.0
+20,Cornell UniversityUnited StatesExplore,80.5,70.4,87.2,93.5,-,53.4
+21,Carnegie Mellon UniversityUnited StatesExplore,78.4,65.7,79.5,97.4,60.7,55.0
+22,Duke UniversityUnited StatesExplore,77.4,62.6,77.9,97.4,100.0,46.9
+22,University of British ColumbiaCanadaExplore,77.4,68.6,78.6,85.2,40.6,88.7
+24,Georgia Institute of TechnologyUnited StatesExplore,77.0,66.6,73.8,91.9,99.2,65.0
+25,University of WashingtonUnited StatesExplore,76.5,70.8,74.0,98.2,31.8,36.9
+26,Northwestern UniversityUnited StatesExplore,76.2,66.3,75.5,98.6,56.6,35.3
+27,University of Wisconsin-MadisonUnited StatesExplore,75.8,74.3,77.3,90.6,55.3,23.8
+28,McGill UniversityCanadaExplore,75.5,72.8,78.4,77.1,35.1,81.4
+29,University of Texas at AustinUnited StatesExplore,74.9,69.5,76.1,89.6,57.7,38.8
+30,The University of TokyoJapanExplore,74.3,86.1,80.3,69.1,76.6,23.0
+31,University of Illinois at Urbana-ChampaignUnited StatesExplore,74.2,67.9,81.3,81.5,-,50.7
+32,Karolinska InstituteSwedenExplore,73.1,69.9,73.8,73.1,78.5,82.0
+33,"University of California, San DiegoUnited StatesExplore",73.0,61.4,72.0,97.8,51.8,31.5
+34,University of Hong KongHong KongExplore,72.3,74.0,80.1,60.5,64.1,83.7
+35,"University of California, Santa BarbaraUnited StatesExplore",72.1,55.0,65.3,99.9,85.0,52.6
+36,University of EdinburghUnited KingdomExplore,72.0,63.0,61.4,92.3,41.3,79.8
+37,University of MelbourneAustraliaExplore,71.9,62.2,72.4,80.7,44.4,82.5
+38,Australian National UniversityAustraliaExplore,71.2,62.8,75.1,72.6,41.7,93.8
+38,"University of California, DavisUnited StatesExplore",71.2,68.0,68.7,83.4,52.5,51.4
+40,National University of SingaporeSingaporeExplore,70.9,65.7,79.0,63.4,60.7,93.0
+41,Washington University in St LouisUnited StatesExplore,70.5,64.0,58.9,96.1,-,45.7
+42,University of MinnesotaUnited StatesExplore,70.0,66.1,72.5,85.4,-,25.6
+43,University of North Carolina at Chapel HillUnited StatesExplore,69.3,67.6,62.6,92.6,35.5,20.2
+44,New York UniversityUnited StatesExplore,69.0,60.2,65.4,92.3,30.9,38.1
+45,LMU MunichGermanyExplore,67.6,63.8,59.9,84.6,40.7,54.3
+46,École Polytechnique Fédérale de LausanneSwitzerlandExplore,66.3,53.1,43.9,95.3,46.7,98.9
+47,London School of Economics and Political ScienceUnited KingdomExplore,66.0,66.4,75.4,50.6,41.1,96.0
+48,University of ManchesterUnited KingdomExplore,65.7,59.0,61.1,75.6,37.7,80.4
+49,Brown UniversityUnited StatesExplore,65.6,59.8,53.6,93.9,34.9,33.4
+49,Peking UniversityChinaExplore,65.6,82.3,64.1,51.0,99.9,51.7
+51,Pennsylvania State UniversityUnited StatesExplore,64.9,53.5,66.7,83.4,61.6,29.5
+52,Kyoto UniversityJapanExplore,64.8,76.4,72.0,56.3,71.7,21.1
+53,Pohang University of Science and TechnologySouth KoreaExplore,64.6,56.4,51.9,92.3,100.0,25.0
+54,Boston UniversityUnited StatesExplore,64.2,60.7,46.2,95.6,27.6,37.2
+55,University of Southern CaliforniaUnited StatesExplore,64.0,65.8,48.7,80.2,99.3,41.1
+56,King’s College LondonUnited KingdomExplore,63.2,49.8,54.2,80.9,40.8,90.0
+57,Ohio State UniversityUnited StatesExplore,63.0,61.8,56.2,77.5,49.9,42.2
+58,University of SydneyAustraliaExplore,62.4,55.4,65.7,57.2,92.1,88.1
+59,University of PittsburghUnited StatesExplore,62.0,54.3,53.9,88.7,37.5,26.5
+59,École Normale SupérieureFranceExplore,62.0,56.6,33.5,96.4,44.7,66.2
+61,University of ZurichSwitzerlandExplore,61.9,56.7,45.9,78.4,43.5,87.4
+62,Hong Kong University of Science and TechnologyHong KongExplore,61.7,51.0,58.6,71.0,59.0,80.1
+63,École PolytechniqueFranceExplore,61.5,50.4,38.8,89.1,63.0,86.1
+64,University of MassachusettsUnited StatesExplore,61.1,54.0,58.3,80.1,53.2,27.3
+65,McMaster UniversityCanadaExplore,61.0,41.9,49.9,85.5,97.5,72.0
+66,University of BristolUnited KingdomExplore,60.9,44.2,47.7,89.9,34.8,73.7
+67,KU LeuvenBelgiumExplore,60.8,52.5,64.7,63.0,99.9,56.7
+68,Utrecht UniversityNetherlandsExplore,60.4,42.8,53.2,85.7,59.3,58.1
+69,University of GöttingenGermanyExplore,60.3,51.4,50.9,84.1,32.7,48.0
+70,Vanderbilt UniversityUnited StatesExplore,59.6,52.1,47.6,86.8,64.4,26.8
+71,Tsinghua UniversityChinaExplore,59.5,74.1,70.1,37.4,99.8,33.4
+72,Rice UniversityUnited StatesExplore,59.0,45.9,38.0,99.9,36.2,39.7
+73,Heidelberg UniversityGermanyExplore,58.7,57.1,41.5,78.5,37.6,62.3
+74,University of QueenslandAustraliaExplore,58.6,47.5,52.3,70.2,62.6,80.8
+75,Emory UniversityUnited StatesExplore,57.4,48.4,39.8,90.9,34.4,37.3
+75,Wageningen University & ResearchNetherlandsExplore,57.4,50.1,47.6,66.3,100.0,75.9
+77,Tufts UniversityUnited StatesExplore,57.3,45.8,37.4,94.5,35.4,41.3
+77,University of Colorado BoulderUnited StatesExplore,57.3,39.5,42.6,98.2,-,30.8
+79,Leiden UniversityNetherlandsExplore,57.0,45.4,55.3,71.7,48.6,54.4
+80,Lund UniversitySwedenExplore,56.9,40.4,58.5,72.8,32.6,61.2
+81,"Rutgers, the State University of New JerseyUnited StatesExplore",56.8,51.6,60.0,69.0,-,25.3
+81,University of RochesterUnited StatesExplore,56.8,47.0,33.5,94.5,36.4,45.7
+83,Durham UniversityUnited KingdomExplore,56.4,32.5,37.9,96.2,30.5,75.8
+84,Pierre and Marie Curie UniversityFranceExplore,56.0,56.3,30.5,81.1,26.2,66.7
+85,University of St AndrewsUnited KingdomExplore,55.7,37.1,40.2,83.0,34.1,89.1
+86,"University of California, IrvineUnited StatesExplore",55.4,36.2,42.3,93.5,45.6,36.3
+87,Uppsala UniversitySwedenExplore,55.2,47.2,65.1,53.3,43.4,59.1
+88,Technical University of MunichGermanyExplore,55.1,50.0,37.1,76.3,47.2,65.2
+89,University of Notre DameUnited StatesExplore,55.0,42.6,36.2,94.1,27.3,33.1
+90,Dartmouth CollegeUnited StatesExplore,54.9,44.8,38.7,89.9,-,30.6
+91,University of HelsinkiFinlandExplore,54.8,39.3,54.2,75.1,28.9,46.8
+92,University of AmsterdamNetherlandsExplore,54.7,41.7,54.7,68.3,42.5,56.4
+93,Case Western Reserve UniversityUnited StatesExplore,54.6,54.2,40.2,78.4,-,29.9
+94,Korea Advanced Institute of Science and Technology (KAIST)South KoreaExplore,54.5,64.2,54.6,47.1,100.0,29.3
+94,"University of Maryland, College ParkUnited StatesExplore",54.5,41.1,43.6,85.8,28.5,35.3
+96,Michigan State UniversityUnited StatesExplore,54.4,47.4,49.6,73.6,28.0,34.0
+97,University of ArizonaUnited StatesExplore,54.2,45.1,43.0,78.3,86.0,28.4
+98,Purdue UniversityUnited StatesExplore,54.0,56.6,49.4,57.8,-,52.6
+99,University of SussexUnited KingdomExplore,53.9,30.6,34.8,92.0,28.1,79.8
+100,University of AlbertaCanadaExplore,53.7,50.6,54.4,51.7,53.7,71.9
+101,University of SheffieldUnited KingdomExplore,53.6,44.6,46.0,67.5,40.2,68.2
+102,University of GlasgowUnited KingdomExplore,53.4,37.5,41.0,77.5,61.4,68.1
+103,University of Cape TownSouth AfricaExplore,53.2,34.3,41.1,75.3,97.5,73.9
+104,Delft University of TechnologyNetherlandsExplore,53.1,53.5,66.1,31.2,100.0,71.3
+104,University of MontrealCanadaExplore,53.1,54.5,47.0,48.7,81.3,79.5
+106,Ghent UniversityBelgiumExplore,53.0,41.1,52.2,63.4,97.8,47.3
+107,"Royal Holloway, University of LondonUnited KingdomExplore",52.9,28.6,24.1,98.2,25.9,93.3
+108,Tokyo Institute of TechnologyJapanExplore,52.8,56.0,58.9,49.5,66.3,24.9
+109,Humboldt University of BerlinGermanyExplore,52.6,51.3,54.5,50.1,-,64.5
+110,"University of California, Santa CruzUnited StatesExplore",52.5,28.5,36.6,99.9,29.5,29.8
+111,University of BaselSwitzerlandExplore,52.2,38.9,21.9,86.0,48.6,92.4
+112,University of BernSwitzerlandExplore,52.1,43.0,34.6,73.5,38.2,77.6
+113,University of UtahUnited StatesExplore,51.9,42.1,41.0,82.3,-,23.3
+114,Stony Brook UniversityUnited StatesExplore,51.4,37.7,28.7,88.3,29.2,56.5
+115,Eindhoven University of TechnologyNetherlandsExplore,51.3,35.6,48.0,62.1,100.0,67.3
+116,University of LausanneSwitzerlandExplore,51.2,27.5,40.4,77.8,40.3,86.7
+117,Monash UniversityAustraliaExplore,51.1,40.5,48.5,57.1,62.2,75.8
+117,Trinity College DublinIrelandExplore,51.1,30.3,23.5,91.7,29.7,89.4
+119,Osaka UniversityJapanExplore,51.0,61.8,56.5,40.0,75.0,21.1
+120,Tohoku UniversityJapanExplore,50.8,57.7,55.7,42.9,78.9,25.6
+121,Hebrew University of JerusalemIsraelExplore,50.4,47.7,56.4,48.4,25.0,53.0
+121,University of YorkUnited KingdomExplore,50.4,36.7,38.8,71.6,33.9,72.7
+123,Indiana UniversityUnited StatesExplore,50.2,46.8,34.5,73.7,-,37.7
+124,Seoul National UniversitySouth KoreaExplore,50.1,64.6,50.8,44.0,42.6,16.3
+125,Aarhus UniversityDenmarkExplore,50.0,30.7,49.0,64.0,67.0,69.3
+125,University of FloridaUnited StatesExplore,50.0,46.7,59.9,50.9,-,25.9
+127,Arizona State UniversityUnited StatesExplore,49.9,38.2,39.0,80.3,28.7,26.1
+127,Queen Mary University of LondonUnited KingdomExplore,49.9,29.0,28.6,83.7,36.6,88.8
+127,University of SouthamptonUnited KingdomExplore,49.9,35.6,35.5,72.5,39.3,78.3
+130,University of GenevaSwitzerlandExplore,49.8,34.9,39.0,65.1,32.7,97.5
+131,Lancaster UniversityUnited KingdomExplore,49.7,32.6,35.7,75.4,27.5,78.6
+131,Stockholm UniversitySwedenExplore,49.7,25.0,36.0,90.2,26.8,48.8
+133,University of LeedsUnited KingdomExplore,49.5,44.6,43.9,57.1,36.4,64.8
+134,University of GroningenNetherlandsExplore,49.2,32.4,52.4,62.4,59.9,47.3
+135,George Washington UniversityUnited StatesExplore,49.0,44.2,33.6,73.2,-,38.3
+135,University of CopenhagenDenmarkExplore,49.0,37.8,31.6,72.1,37.0,74.8
+135,University of VirginiaUnited StatesExplore,49.0,37.0,42.2,74.7,34.7,26.4
+138,Georgetown UniversityUnited StatesExplore,48.0,52.5,40.4,57.7,-,29.1
+139,University of ViennaAustriaExplore,47.9,49.5,41.2,45.2,25.4,86.6
+140,University of NottinghamUnited KingdomExplore,47.7,40.2,40.0,57.6,36.7,72.6
+141,University of IowaUnited StatesExplore,47.6,47.7,42.1,61.3,-,21.9
+141,École Normale Supérieure de LyonFranceExplore,47.6,35.3,21.4,85.1,25.1,58.8
+143,"University of California, RiversideUnited StatesExplore",47.5,27.8,30.9,89.6,31.0,30.0
+144,Rensselaer Polytechnic InstituteUnited StatesExplore,47.4,31.7,40.4,73.6,49.0,32.7
+145,University of East AngliaUnited KingdomExplore,47.3,26.5,26.1,85.6,28.0,68.5
+146,Newcastle UniversityUnited KingdomExplore,47.0,34.2,28.4,72.2,32.3,76.2
+146,William & MaryUnited StatesExplore,47.0,40.0,18.9,90.7,27.0,19.7
+148,University of BirminghamUnited KingdomExplore,46.9,42.6,42.6,50.6,36.0,70.3
+149,"Birkbeck, University of LondonUnited KingdomExplore",46.8,25.9,25.8,80.8,25.1,85.3
+150,Brandeis UniversityUnited StatesExplore,46.7,25.3,27.3,90.2,33.7,40.3
+151,Chinese University of Hong KongHong KongExplore,46.6,47.0,50.2,37.8,36.4,69.5
+151,Free University of BerlinGermanyExplore,46.6,46.3,48.5,42.5,30.6,62.1
+151,University of AberdeenUnited KingdomExplore,46.6,30.6,32.2,67.7,44.4,84.8
+154,National Taiwan UniversityTaiwanExplore,46.2,47.8,58.5,39.2,40.0,20.7
+154,Yeshiva UniversityUnited StatesExplore,46.2,43.6,27.0,75.3,-,26.4
+156,University of ExeterUnited KingdomExplore,46.1,31.3,33.3,67.8,35.4,73.4
+157,Erasmus University RotterdamNetherlandsExplore,46.0,28.8,27.2,77.4,45.0,65.0
+157,University of WarwickUnited KingdomExplore,46.0,39.7,44.5,45.0,31.3,85.5
+159,Radboud University NijmegenNetherlandsExplore,45.9,27.7,43.8,65.5,33.1,52.3
+159,University College DublinIrelandExplore,45.9,25.2,23.7,80.5,32.3,83.2
+159,Vrije Universiteit AmsterdamNetherlandsExplore,45.9,30.4,35.3,70.2,63.2,48.0
+162,Medical University of South CarolinaUnited StatesExplore,45.8,43.9,38.9,56.6,87.8,23.9
+162,Wake Forest UniversityUnited StatesExplore,45.8,36.4,21.6,86.1,49.1,17.2
+164,Texas A&M UniversityUnited StatesExplore,45.7,42.3,51.8,45.7,43.8,36.0
+164,University of ReadingUnited KingdomExplore,45.7,36.9,38.6,55.4,31.6,75.1
+166,Tel Aviv UniversityIsraelExplore,45.4,47.3,60.7,33.0,35.0,30.1
+167,University of Illinois at ChicagoUnited StatesExplore,45.2,53.3,43.9,43.3,38.6,27.2
+168,RWTH Aachen UniversityGermanyExplore,45.1,36.1,25.1,67.2,61.8,67.1
+169,"Nanyang Technological University, SingaporeSingaporeExplore",45.0,41.4,47.8,34.5,44.4,89.8
+169,Paris Diderot University – Paris 7FranceExplore,45.0,23.3,18.7,88.9,-,70.7
+169,Université Catholique de LouvainBelgiumExplore,45.0,29.2,34.7,65.5,30.8,72.5
+172,University of MiamiUnited StatesExplore,44.8,45.7,23.3,70.3,-,30.3
+173,Queen’s UniversityCanadaExplore,44.6,39.7,36.1,49.3,87.5,65.0
+173,University of AucklandNew ZealandExplore,44.6,28.3,35.0,55.7,76.6,92.9
+173,University of New South WalesAustraliaExplore,44.6,36.1,40.2,46.8,53.1,85.1
+176,University of DundeeUnited KingdomExplore,44.5,20.8,20.1,87.1,55.3,62.5
+177,University of VictoriaCanadaExplore,44.2,16.8,31.5,79.2,26.8,70.5
+178,Technical University of DenmarkDenmarkExplore,44.1,31.9,24.1,66.8,95.7,65.2
+178,University of São PauloBrazilExplore,44.1,61.7,58.0,18.8,33.3,22.9
+180,University of DelawareUnited StatesExplore,43.8,26.4,37.2,66.7,98.0,29.8
+181,Goethe University FrankfurtGermanyExplore,43.6,30.5,21.7,75.1,42.4,57.6
+181,University of LiverpoolUnited KingdomExplore,43.6,34.8,33.5,55.6,37.1,73.1
+181,University of OsloNorwayExplore,43.6,33.5,36.9,56.6,29.0,63.9
+184,Iowa State UniversityUnited StatesExplore,43.4,32.8,30.1,70.4,49.2,28.3
+185,University of OttawaCanadaExplore,43.2,38.9,34.8,54.8,36.9,49.6
+186,Pompeu Fabra UniversitySpainExplore,43.1,23.4,16.1,87.6,37.6,54.3
+187,KTH Royal Institute of TechnologySwedenExplore,43.0,40.9,39.5,34.1,100.0,82.1
+187,University of TübingenGermanyExplore,43.0,34.4,24.1,67.6,31.0,58.1
+189,University of FreiburgGermanyExplore,42.9,35.7,18.7,67.8,81.8,55.6
+189,University of Western AustraliaAustraliaExplore,42.9,32.1,35.8,47.8,58.7,90.0
+191,University of BergenNorwayExplore,42.8,29.0,26.6,65.2,42.1,73.5
+192,University of Science and Technology of ChinaChinaExplore,42.7,38.9,23.5,73.6,29.7,14.8
+193,City University of Hong KongHong KongExplore,42.6,30.2,35.0,57.4,50.1,61.6
+194,University of KonstanzGermanyExplore,42.5,29.0,29.7,62.8,49.9,63.7
+195,Boston CollegeUnited StatesExplore,42.4,26.5,18.9,83.5,24.2,41.4
+196,Karlsruhe Institute of TechnologyGermanyExplore,41.6,34.6,19.6,65.5,35.6,64.9
+197,Georgia Health Sciences UniversityUnited StatesExplore,41.5,49.0,14.2,63.5,40.7,32.1
+197,Maastricht UniversityNetherlandsExplore,41.5,30.6,30.5,53.9,-,86.4
+197,University of LeicesterUnited KingdomExplore,41.5,27.6,30.3,56.3,34.4,84.9
+200,University of TwenteNetherlandsExplore,41.4,32.9,30.4,54.4,76.8,56.2
+201-225,Autonomous University of BarcelonaSpainExplore,-,33.7,27.9,57.9,37.0,45.9
+201-225,Bilkent UniversityTurkeyExplore,-,27.9,22.3,60.8,29.4,48.5
+201-225,Cardiff UniversityUnited KingdomExplore,-,28.9,34.0,51.7,35.5,67.8
+201-225,Colorado School of MinesUnited StatesExplore,-,24.6,22.8,63.7,99.4,38.4
+201-225,Nagoya UniversityJapanExplore,-,45.5,39.2,43.8,33.1,21.2
+201-225,National Tsing Hua UniversityTaiwanExplore,-,42.7,44.5,39.7,46.8,17.7
+201-225,Northeastern UniversityUnited StatesExplore,-,30.4,18.9,70.0,31.1,38.0
+201-225,Technion Israel Institute of TechnologyIsraelExplore,-,38.7,45.0,34.0,33.6,48.9
+201-225,Tulane UniversityUnited StatesExplore,-,28.0,34.1,58.8,-,29.8
+201-225,Ulm UniversityGermanyExplore,-,40.8,18.8,46.7,69.8,50.8
+201-225,Umeå UniversitySwedenExplore,-,20.8,29.2,59.4,26.3,52.0
+201-225,University at BuffaloUnited StatesExplore,-,44.3,35.6,42.0,40.9,49.2
+201-225,University of AdelaideAustraliaExplore,-,32.2,33.4,43.8,50.7,81.7
+201-225,University of BarcelonaSpainExplore,-,24.5,22.2,71.9,29.5,44.1
+201-225,University of CincinnatiUnited StatesExplore,-,29.0,24.9,69.0,32.9,20.6
+201-225,University of EssexUnited KingdomExplore,-,31.7,35.9,37.0,28.3,90.1
+201-225,University of GeorgiaUnited StatesExplore,-,44.4,36.4,37.3,27.7,30.6
+201-225,University of GothenburgSwedenExplore,-,25.8,37.7,55.7,37.7,48.4
+201-225,University of InnsbruckAustriaExplore,-,23.1,13.8,65.7,32.8,90.7
+201-225,University of Medicine and Dentistry of New JerseyUnited StatesExplore,-,48.5,14.4,55.6,34.3,31.0
+201-225,University of OtagoNew ZealandExplore,-,24.5,28.0,48.0,27.8,88.8
+201-225,University of South CarolinaUnited StatesExplore,-,34.3,29.3,52.1,27.3,26.0
+201-225,University of StrasbourgFranceExplore,-,26.7,17.3,70.3,32.1,70.4
+201-225,University of WaterlooCanadaExplore,-,35.8,44.2,32.5,32.7,62.1
+201-225,University of WürzburgGermanyExplore,-,31.3,18.0,63.0,27.9,44.0
+201-225,Université Libre de BruxellesBelgiumExplore,-,23.6,25.9,53.5,52.8,80.4
+201-225,Western UniversityCanadaExplore,-,38.8,34.3,38.5,41.9,55.7
+226-250,Carleton UniversityCanadaExplore,-,17.0,24.2,61.6,-,58.6
+226-250,Chalmers University of TechnologySwedenExplore,-,25.9,37.2,36.3,79.3,66.0
+226-250,Colorado State UniversityUnited StatesExplore,-,26.9,32.0,51.2,-,25.5
+226-250,Creighton UniversityUnited StatesExplore,-,43.6,10.5,55.7,24.2,25.0
+226-250,Dalhousie UniversityCanadaExplore,-,25.5,30.7,43.0,72.5,64.8
+226-250,Drexel UniversityUnited StatesExplore,-,36.9,12.2,59.4,29.9,37.8
+226-250,Fudan UniversityChinaExplore,-,42.4,26.2,42.9,40.5,36.1
+226-250,Korea UniversitySouth KoreaExplore,-,39.5,39.6,30.2,49.7,23.4
+226-250,Macquarie UniversityAustraliaExplore,-,21.3,23.2,46.5,42.3,93.0
+226-250,National Chiao Tung UniversityTaiwanExplore,-,36.4,44.5,25.1,100.0,24.2
+226-250,Simon Fraser UniversityCanadaExplore,-,19.6,30.0,53.0,37.6,56.8
+226-250,State University of New York AlbanyUnited StatesExplore,-,25.7,30.8,53.5,92.9,25.9
+226-250,Swedish University of Agricultural SciencesSwedenExplore,-,28.9,22.2,49.8,100.0,43.5
+226-250,Tokyo Metropolitan UniversityJapanExplore,-,19.0,10.3,84.3,27.6,17.8
+226-250,University of BolognaItalyExplore,-,32.7,22.0,52.1,32.2,34.9
+226-250,University of CalgaryCanadaExplore,-,34.0,34.4,39.7,39.5,42.7
+226-250,University of HamburgGermanyExplore,-,35.2,21.3,50.0,27.4,56.3
+226-250,University of MilanItalyExplore,-,37.1,24.3,51.3,35.0,34.3
+226-250,University of Milan-BicoccaItalyExplore,-,22.5,12.3,78.3,35.6,33.2
+226-250,University of MissouriUnited StatesExplore,-,38.5,33.7,37.7,26.5,26.9
+226-250,University of PaduaItalyExplore,-,24.2,26.0,56.2,31.1,34.3
+226-250,University of TriesteItalyExplore,-,16.7,12.9,76.9,31.3,45.5
+226-250,Yonsei UniversitySouth KoreaExplore,-,41.5,33.6,36.9,47.9,23.3
+251-275,Bangor UniversityUnited KingdomExplore,-,24.9,23.8,48.0,29.0,67.1
+251-275,Bielefeld UniversityGermanyExplore,-,19.1,17.0,61.6,28.6,45.2
+251-275,Brunel University LondonUnited KingdomExplore,-,17.4,20.3,51.7,30.0,89.9
+251-275,Hong Kong Polytechnic UniversityHong KongExplore,-,30.1,37.3,22.2,72.8,62.5
+251-275,Johannes Kepler University of LinzAustriaExplore,-,18.4,11.1,62.8,73.4,56.6
+251-275,Kyushu UniversityJapanExplore,-,46.8,30.7,23.2,75.1,19.5
+251-275,Nanjing UniversityChinaExplore,-,40.9,24.2,42.3,42.9,25.0
+251-275,National Sun Yat-Sen UniversityTaiwanExplore,-,24.9,30.4,48.5,42.1,16.0
+251-275,Norwegian University of Science and TechnologyNorwayExplore,-,26.9,26.9,41.5,49.7,57.7
+251-275,Queen’s University BelfastUnited KingdomExplore,-,26.5,21.3,42.0,41.9,89.5
+251-275,Ruhr University BochumGermanyExplore,-,34.9,28.3,36.0,59.7,46.6
+251-275,Stellenbosch UniversitySouth AfricaExplore,-,25.4,30.0,36.6,99.6,44.4
+251-275,Tilburg UniversityNetherlandsExplore,-,22.6,49.4,23.6,36.0,69.1
+251-275,TU DresdenGermanyExplore,-,27.3,13.8,57.4,31.9,49.2
+251-275,University of BathUnited KingdomExplore,-,25.2,23.2,39.9,38.9,80.6
+251-275,University of GrazAustriaExplore,-,24.9,14.0,55.1,25.5,63.8
+251-275,University of Hawai’i at MānoaUnited StatesExplore,-,31.3,29.2,44.3,-,34.6
+251-275,University of KielGermanyExplore,-,29.3,20.9,52.1,33.6,47.3
+251-275,University of Southern DenmarkDenmarkExplore,-,19.7,12.4,58.0,67.9,73.7
+251-275,University of Texas at DallasUnited StatesExplore,-,23.6,36.7,44.2,31.1,35.9
+251-275,University of the WitwatersrandSouth AfricaExplore,-,25.6,32.4,32.7,100.0,71.7
+251-275,University of TsukubaJapanExplore,-,37.2,26.2,41.4,32.0,27.2
+251-275,University of WollongongAustraliaExplore,-,21.4,23.0,43.5,40.4,88.7
+251-275,Victoria University of WellingtonNew ZealandExplore,-,16.5,21.5,51.1,25.8,89.0
+251-275,Virginia Polytechnic Institute and State UniversityUnited StatesExplore,-,36.9,40.4,30.3,24.2,25.1
+251-275,Wayne State UniversityUnited StatesExplore,-,34.7,16.4,55.2,-,24.6
+276-300,Aberystwyth UniversityUnited KingdomExplore,-,19.8,15.5,56.6,35.5,63.8
+276-300,Autonomous University of MadridSpainExplore,-,28.8,21.4,47.5,32.5,39.7
+276-300,Hokkaido UniversityJapanExplore,-,44.5,34.3,21.6,38.7,18.8
+276-300,Hong Kong Baptist UniversityHong KongExplore,-,20.0,11.2,59.7,25.3,58.9
+276-300,Istanbul Technical UniversityTurkeyExplore,-,25.1,18.2,48.9,99.1,18.9
+276-300,Lomonosov Moscow State UniversityRussian FederationExplore,-,47.9,27.5,11.0,80.0,53.3
+276-300,Middle East Technical UniversityTurkeyExplore,-,37.0,28.9,35.1,43.2,23.5
+276-300,Montpellier UniversityFranceExplore,-,24.3,8.7,62.3,24.9,52.9
+276-300,Queensland University of TechnologyAustraliaExplore,-,21.0,26.7,35.5,62.5,76.7
+276-300,State University of CampinasBrazilExplore,-,52.3,33.1,15.2,43.2,19.1
+276-300,Sun Yat-sen UniversityChinaExplore,-,33.3,14.3,50.5,42.1,20.7
+276-300,Technical University of DarmstadtGermanyExplore,-,28.0,15.5,39.2,45.1,71.0
+276-300,Tokyo Medical and Dental University (TMDU)JapanExplore,-,42.8,22.6,36.7,40.8,18.0
+276-300,UiT The Arctic University of NorwayNorwayExplore,-,24.4,14.4,53.0,32.8,63.5
+276-300,University of AntwerpBelgiumExplore,-,21.8,10.9,55.3,56.2,70.7
+276-300,University of CreteGreeceExplore,-,13.1,12.6,66.7,33.2,42.6
+276-300,University of GuelphCanadaExplore,-,24.2,31.4,38.6,48.9,33.3
+276-300,University of IcelandIcelandExplore,-,10.7,17.3,62.4,75.4,56.9
+276-300,University of KansasUnited StatesExplore,-,33.2,20.1,43.0,27.6,23.5
+276-300,University of KentuckyUnited StatesExplore,-,38.7,28.4,35.2,-,18.3
+276-300,University of MünsterGermanyExplore,-,27.8,18.5,49.1,35.1,43.3
+276-300,University of NewcastleAustraliaExplore,-,18.2,27.1,35.8,64.8,76.3
+276-300,University of Texas at San AntonioUnited StatesExplore,-,14.1,15.4,70.3,25.3,22.6
+276-300,University of TrentoItalyExplore,-,21.9,20.0,51.5,51.0,49.7
+276-300,York UniversityCanadaExplore,-,19.9,27.7,41.2,41.7,57.7
+301-350,Aalborg UniversityDenmarkExplore,-,19.0,20.0,27.1,36.4,75.3
+301-350,Aalto UniversityFinlandExplore,-,26.2,22.2,37.5,61.9,49.0
+301-350,Alexandria UniversityEgyptExplore,-,15.2,7.8,61.4,34.5,31.6
+301-350,Bar-Ilan UniversityIsraelExplore,-,27.9,32.2,15.7,28.5,47.0
+301-350,"Binghamton University, State University of New YorkUnited StatesExplore",-,18.7,20.3,46.2,29.5,30.8
+301-350,Boğaziçi UniversityTurkeyExplore,-,24.5,19.7,45.7,34.7,36.2
+301-350,Charles Darwin UniversityAustraliaExplore,-,16.4,19.4,52.6,31.3,46.7
+301-350,Charles University in PragueCzech RepublicExplore,-,32.3,24.6,31.0,24.5,51.4
+301-350,George Mason UniversityUnited StatesExplore,-,29.3,17.7,42.6,25.1,23.8
+301-350,Indian Institute of Technology BombayIndiaExplore,-,43.8,15.7,38.8,24.2,14.3
+301-350,Jagiellonian UniversityPolandExplore,-,25.1,16.0,43.1,25.8,39.5
+301-350,Keele UniversityUnited KingdomExplore,-,18.0,18.1,39.8,28.1,62.6
+301-350,Keio UniversityJapanExplore,-,32.3,21.9,26.1,40.0,18.3
+301-350,Kent State UniversityUnited StatesExplore,-,15.9,13.9,58.3,24.6,26.9
+301-350,Lehigh UniversityUnited StatesExplore,-,20.2,18.1,44.9,38.6,26.5
+301-350,Linköping UniversitySwedenExplore,-,19.6,18.9,42.8,31.8,48.6
+301-350,National Taiwan University of Science and Technology (Taiwan Tech)TaiwanExplore,-,24.3,37.0,19.4,42.9,15.6
+301-350,Plymouth UniversityUnited KingdomExplore,-,12.9,13.7,58.1,25.8,49.0
+301-350,Polytechnic University of MilanItalyExplore,-,24.1,17.6,33.9,69.8,33.6
+301-350,Sapienza University of RomeItalyExplore,-,29.6,27.2,29.2,32.8,32.4
+301-350,Shanghai Jiao Tong UniversityChinaExplore,-,39.4,29.7,19.1,85.2,20.5
+301-350,Sharif University of TechnologyIranExplore,-,28.5,29.7,19.3,93.1,12.7
+301-350,Sungkyunkwan University (SKKU)South KoreaExplore,-,31.4,32.1,23.9,99.4,26.6
+301-350,University College CorkIrelandExplore,-,20.6,19.2,29.4,36.8,77.0
+301-350,University of AveiroPortugalExplore,-,17.0,15.9,40.9,34.7,48.4
+301-350,University of CanterburyNew ZealandExplore,-,17.3,24.3,30.5,26.6,76.3
+301-350,University of Eastern FinlandFinlandExplore,-,23.2,16.1,51.1,30.2,33.5
+301-350,University of FerraraItalyExplore,-,15.8,14.1,59.3,34.3,37.1
+301-350,University of HertfordshireUnited KingdomExplore,-,12.2,7.7,55.5,27.1,76.5
+301-350,University of HoustonUnited StatesExplore,-,36.5,23.6,23.6,31.2,27.7
+301-350,University of HullUnited KingdomExplore,-,14.5,16.7,40.2,28.1,66.2
+301-350,University of LiègeBelgiumExplore,-,23.5,16.4,38.9,64.8,68.7
+301-350,University of ManitobaCanadaExplore,-,29.5,31.7,27.7,40.7,40.2
+301-350,"University of Maryland, Baltimore CountyUnited StatesExplore",-,17.6,14.5,52.8,29.9,18.6
+301-350,University of Modena and Reggio EmiliaItalyExplore,-,14.5,15.7,50.8,27.9,26.8
+301-350,University of OklahomaUnited StatesExplore,-,33.8,16.1,31.6,32.3,20.7
+301-350,University of PisaItalyExplore,-,18.3,18.5,50.8,35.3,26.2
+301-350,University of PortoPortugalExplore,-,17.7,13.0,43.9,33.7,42.0
+301-350,University of South FloridaUnited StatesExplore,-,22.1,30.1,36.6,94.4,15.0
+301-350,University of StirlingUnited KingdomExplore,-,18.2,22.2,42.0,26.6,69.5
+301-350,University of SurreyUnited KingdomExplore,-,32.6,25.2,12.4,46.9,81.5
+301-350,University of TampereFinlandExplore,-,22.5,22.1,44.4,55.1,38.3
+301-350,University of TasmaniaAustraliaExplore,-,18.5,15.0,34.9,42.1,70.5
+301-350,University of ValenciaSpainExplore,-,15.8,10.2,64.3,32.1,36.4
+301-350,University of WaikatoNew ZealandExplore,-,13.3,13.9,47.8,24.5,87.0
+301-350,University of WarsawPolandExplore,-,21.6,15.7,44.3,-,35.8
+301-350,Vienna University of TechnologyAustriaExplore,-,26.3,14.1,24.3,35.2,82.5
+301-350,Vrije Universiteit BrusselBelgiumExplore,-,23.4,21.1,36.7,66.2,49.4
+301-350,Washington State UniversityUnited StatesExplore,-,28.8,24.5,33.5,34.3,31.0
+301-350,Zhejiang UniversityChinaExplore,-,38.8,27.2,23.0,84.4,13.9
+350-400,Aston UniversityUnited KingdomExplore,-,16.2,19.9,11.7,26.8,84.5
+350-400,Auburn UniversityUnited StatesExplore,-,33.7,18.7,10.3,47.3,22.5
+350-400,Clemson UniversityUnited StatesExplore,-,20.8,17.0,25.5,30.8,28.5
+350-400,Curtin UniversityAustraliaExplore,-,17.1,12.3,28.7,31.3,91.4
+350-400,Deakin UniversityAustraliaExplore,-,17.7,16.8,26.2,27.9,56.3
+350-400,Flinders UniversityAustraliaExplore,-,18.2,19.1,20.3,36.2,59.9
+350-400,Georgia State UniversityUnited StatesExplore,-,19.6,20.2,34.4,39.1,27.9
+350-400,Griffith UniversityAustraliaExplore,-,15.7,16.2,20.3,30.7,79.0
+350-400,Harbin Institute of TechnologyChinaExplore,-,29.0,12.5,21.0,97.2,21.0
+350-400,Heriot-Watt UniversityUnited KingdomExplore,-,21.5,16.2,18.8,41.1,82.6
+350-400,Hiroshima UniversityJapanExplore,-,27.7,16.3,20.1,39.4,18.8
+350-400,Kansas State UniversityUnited StatesExplore,-,20.9,13.8,33.9,36.0,23.6
+350-400,Kobe UniversityJapanExplore,-,28.3,15.5,24.3,33.5,18.1
+350-400,Kyung Hee UniversitySouth KoreaExplore,-,37.1,17.9,6.6,79.9,31.4
+350-400,La Trobe UniversityAustraliaExplore,-,19.0,19.5,13.6,28.9,71.3
+350-400,Leibniz University of HanoverGermanyExplore,-,28.2,15.9,21.7,38.9,51.4
+350-400,Liverpool John Moores UniversityUnited KingdomExplore,-,12.3,9.3,48.4,26.9,52.6
+350-400,Loughborough UniversityUnited KingdomExplore,-,27.9,25.7,9.2,39.4,66.7
+350-400,Mahidol UniversityThailandExplore,-,29.9,14.7,20.9,29.0,45.0
+350-400,Massey UniversityNew ZealandExplore,-,17.4,17.2,24.5,-,77.8
+350-400,Maynooth UniversityIrelandExplore,-,22.9,18.6,22.1,27.1,74.8
+350-400,Michigan Technological UniversityUnited StatesExplore,-,21.2,13.8,24.8,41.9,32.3
+350-400,National Central UniversityTaiwanExplore,-,24.7,21.4,27.1,78.6,22.2
+350-400,National Taiwan Ocean UniversityTaiwanExplore,-,12.5,19.7,31.0,68.0,14.3
+350-400,"National University of Ireland, GalwayIrelandExplore",-,17.9,12.2,31.3,32.7,72.6
+350-400,New Jersey Institute of TechnologyUnited StatesExplore,-,17.1,14.5,26.4,37.5,41.3
+350-400,NOVA University of LisbonPortugalExplore,-,18.0,10.9,28.3,38.3,48.3
+350-400,Old Dominion UniversityUnited StatesExplore,-,17.1,12.5,46.9,-,27.3
+350-400,Polytechnic University of CataloniaSpainExplore,-,23.0,12.5,23.3,44.6,42.0
+350-400,Polytechnic University of TurinItalyExplore,-,19.3,12.1,29.1,67.6,32.4
+350-400,Polytechnic University of ValenciaSpainExplore,-,19.6,9.8,45.3,36.6,23.6
+350-400,Pontifical Catholic University of ChileChileExplore,-,17.1,16.3,30.1,29.7,45.5
+350-400,Saint Petersburg State UniversityRussian FederationExplore,-,37.6,19.7,3.1,26.0,38.1
+350-400,Swansea UniversityUnited KingdomExplore,-,17.6,18.1,25.6,28.8,63.3
+350-400,Swinburne University of TechnologyAustraliaExplore,-,15.5,11.3,35.6,40.3,64.6
+350-400,Tokyo University of Agriculture and TechnologyJapanExplore,-,26.5,15.8,21.7,41.5,18.0
+350-400,University of Bari Aldo MoroItalyExplore,-,23.1,17.4,35.1,30.6,30.5
+350-400,University of CoimbraPortugalExplore,-,20.6,11.6,27.4,29.4,55.8
+350-400,University of IdahoUnited StatesExplore,-,29.4,16.2,24.0,25.5,27.4
+350-400,University of KentUnited KingdomExplore,-,15.6,18.5,19.1,26.5,82.5
+350-400,University of Paris North – Paris 13FranceExplore,-,13.4,11.8,39.4,24.2,59.9
+350-400,University of SalentoItalyExplore,-,26.5,19.1,27.2,73.1,24.4
+350-400,University of South AustraliaAustraliaExplore,-,20.6,18.0,19.4,87.7,81.8
+350-400,University of StrathclydeUnited KingdomExplore,-,24.4,17.7,19.3,33.1,63.0
+350-400,University of TartuEstoniaExplore,-,17.8,17.8,34.4,26.3,42.0
+350-400,University of TurkuFinlandExplore,-,20.4,21.5,28.9,32.3,41.4
+350-400,University of WyomingUnited StatesExplore,-,18.4,20.9,36.7,29.8,21.8
+350-400,University of ZaragozaSpainExplore,-,14.5,9.3,38.4,42.9,28.8
+350-400,Waseda UniversityJapanExplore,-,25.4,17.3,29.7,27.3,27.1
+350-400,Wuhan UniversityChinaExplore,-,31.3,12.9,25.3,66.7,21.7
+350-400,Yuan Ze UniversityTaiwanExplore,-,10.8,9.6,58.3,29.2,12.8

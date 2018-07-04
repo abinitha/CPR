@@ -1,0 +1,24 @@
+set xlabel "Academic Reputation score-16" font "Verdana,18"
+set ylabel "Academic Reputation score-15" font "Verdana,18"
+set ylabel offset 1,0
+set title "QS 2015-2016" font "Verdana,18" 
+set border lw 3
+set lmargin at screen 0.15
+set xtics font ",14"
+set ytics font ",14"
+set xtics nomirror
+set ytics nomirror
+set xrange[0:100]
+set yrange[0:100]
+set key left top box 1
+set datafile separator ","
+set term png
+set output "Acad_Rep.png"
+
+set label "σ1=0.12262" at 80,25 right
+set label "σ2=0.14219" at 80,21 right 
+
+
+
+plot "Acad_Rep.csv" using 3:2 pt 20 ps 1 title "Top400-Non Indian", "line.csv" using 1:2 with line lw 1.85 lc rgb "black" notitle,"Acad_Rep.csv" using 5:4 pt 9 title "Top400-Indian"
+

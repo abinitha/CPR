@@ -1,0 +1,15 @@
+set xlabel "Overall score-15" font "Verdana,16"
+set ylabel "Overall score-16" font "Verdana,16"
+set ylabel offset -0.10
+set title "QS 2015-2016" font "Verdana,16" 
+set border lw 2
+set lmargin at screen 0.15
+set xtics font ",14"
+set ytics font ",14"
+set xtics nomirror
+set ytics nomirror
+set xrange[0:100]
+set yrange[0:100]
+set key left top box 1
+set datafile separator ","
+plot "Overall.csv" using 2:3 pt 7 ps 1, "Overall.csv" using 4:5 with line lt 5

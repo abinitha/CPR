@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+ <!--<meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex, nofollow">-->
+
+  <script type="text/javascript" src="http://code.jquery.com/jquery-2.2.3.js"></script>
+  <script type="text/javascript" src="http://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  
+<!-- Styling -->
+  <style type="text/css">
+    .button {
+      background-color: #228C3A;
+      border: none;
+      color: white;
+      padding: 10px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 15px;
+    }
+  </style>
+
+  <title>Charts</title>
+
+
+</head>
+
+<body>
+
+  <br/>
+  <p> Shanghai Rankings: Metric comparison over two consecutive years, 2016-17. </p>
+  <button class="button" id="chart1">Shanghai-Rank </button>
+  <button class="button" id="chart5">Shanghai-Overall Score </button>
+  <button class="button" id="chart2">Shanghai-Alumini </button>
+  <button class="button" id="chart3">Shanghai-Award </button>
+  <button class="button" id="chart4">Shanghai-HiCi </button>
+  <button class="button" id="chart6">Shanghai-N and S </button>
+  <button class="button" id="chart7">Shanghai-PUB </button>
+  <button class="button" id="chart8">Shanghai-PCP </button>
+  <br/>
+
+  <br/>
+  <div id="chartContainer1" style="height: 400px; width: 400px;"></div>
+  <br/>
+
+
+  <script type="text/javascript" src="canvasjs.min.js"></script>
+
+  <script type='text/javascript'>
+    window.onload=function(){
+    var data = [];
+    }
+    
+    function processData(csvurl,chart) {
+        var allText;
+        $.ajax({
+            type: "GET",
+            url: csvurl,
+            dataType: "text",
+            async: false,
+            success: function (dataCSV) { allText = dataCSV;}
+        });
+        var allLinesArray = allText.split('\n');
+        if (allLinesArray.length > 0) {
+        var dataPoints = [];  
+          for (var i = 0; i <= allLinesArray.length - 1; i++) {
+            var rowData = allLinesArray[i].split(',');
+            if(rowData && rowData.length > 1)
+              dataPoints.push({ x: parseInt(rowData[2]), y: parseInt(rowData[1]), name:rowData[0] });
+                }
+                chart.options.data[0].dataPoints = dataPoints;
+          }
+        }
+    document.getElementById("chart1").onclick = function() {
+      data = [];
+      var chart1 = new CanvasJS.Chart("chartContainer1", {
+       
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:false,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "Shanghai 2016-17: Rank"
+            },
+        axisX: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:203
+        },
+        axisY: {            
+          title: "2016 Score",
+          minimum:0,
+          maximum:200
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Shanghai-Rank 2016:</strong> {y} <br/> <strong>Shanghai-Rank 2017:</strong> {x} ",
+          color:"darkblue",
+          dataPoints: []
+        },
+        {        
+          type: "line",  
+          lineThickness: 2,
+          color: "black",
+          dataPoints: [
+          
+          { x:  0, y:200},
+          { x:200, y:200}
+                ]
+        },
+        {        
+          type: "line",  
+          lineThickness: 1,
+          color: "black",
+          dataPoints: [
+          {x: 200, y:200},
+          { x:  200, y: 0 }
+                ]
+        },
+        {
+          type: "area",
+          fillOpacity: .5,
+          color:"orange",
+          dataPoints: [
+          {x:0, y:0},
+          {x:180, y:200},
+          {x:200, y:200},
+          {x:200, y:180},
+          {x:0, y:0}
+          ]
+        }    
+            ]    
+        });
+      var dataCsv1="Rank.csv";
+       processData(dataCsv1,chart1);
+      chart1.render();
+       
+    }
+    document.getElementById("chart2").onclick = function() {
+      data = [];
+      var chart2 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "Shanghai 2016-17: Alumini"
+            },
+        axisX: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2016 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Alumini 2016:</strong> {y} <br/> <strong>Alumini 2017:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv2="Alumini.csv";
+      processData(dataCsv2,chart2);
+      chart2.render();
+    }
+    document.getElementById("chart3").onclick = function() {
+      data = [];
+      var chart3 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "Shanghai 2016-17: Award"
+            },
+        axisX: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2016 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Award 2016:</strong> {y} <br/> <strong>Award 2017:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv3="Award.csv";
+      processData(dataCsv3,chart3);
+      chart3.render();
+    }
+    document.getElementById("chart4").onclick = function() {
+      data = [];
+      var chart4 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "Shanghai 2016-17: HiCi"
+            },
+        axisX: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2016 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>HiCi 2016:</strong> {y} <br/> <strong>HiCi 2017:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv4="HiCi.csv";
+      processData(dataCsv4,chart4);
+      chart4.render();
+    }    
+    document.getElementById("chart5").onclick = function() {
+      data = [];
+      var chart5 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "Shanghai 2016-17: Overall"
+            },
+        axisX: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2016 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>Overall 2016:</strong> {y} <br/> <strong>Overall 2017:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv5="Overall.csv";
+      processData(dataCsv5,chart5);
+      chart5.render();
+    }    
+    document.getElementById("chart6").onclick = function() {
+      data = [];
+      var chart6 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "Shanghai 2016-17: N and S"
+            },
+        axisX: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2016 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          /*toolTipContent:and <span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>N and S 2016:</strong> {y} <br/> <strong>N and S 2017:</strong> {x} ",
+          color:"darkblue",*/
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv6="N&S.csv";
+      processData(dataCsv6,chart6);
+      chart6.render();
+    }    
+    document.getElementById("chart7").onclick = function() {
+      data = [];
+      var chart7 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "Shanghai 2016-17: PUB"
+            },
+        axisX: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2016 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>PUB 2016:</strong> {y} <br/> <strong>PUB 2017:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv7="PUB.csv";
+      processData(dataCsv7,chart7);
+      chart7.render();
+    }
+        document.getElementById("chart8").onclick = function() {
+      data = [];
+      var chart8 = new CanvasJS.Chart("chartContainer1", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "Shanghai 2016-17: PCP"
+            },
+        axisX: {            
+          title: "2017 Score",
+          minimum:0,
+          maximum:103
+          },
+        axisY: {            
+          title: "2016 Score",
+          minimum:0,
+          maximum:100
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>PCP 2016:</strong> {y} <br/> <strong>PCP 2017:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:100},
+            { x:100, y:100}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 100, y:100},
+            { x:  100, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:90, y:100},
+            {x:100, y:100},
+            {x:100, y:90},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv8="PCP.csv";
+      processData(dataCsv8,chart8);
+      chart8.render();
+    }        
+
+  </script>
+</body>
+
+</html>

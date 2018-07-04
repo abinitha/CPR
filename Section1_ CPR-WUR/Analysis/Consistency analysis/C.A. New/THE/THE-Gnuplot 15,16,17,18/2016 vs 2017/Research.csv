@@ -1,0 +1,778 @@
+University,Research-16,Research-17,,,,,,,,
+University of OxfordUnited Kingdom,98.9,99.1,,,-0.2,-0.0020222447,4.08947359273499E-006,,,0.0020222447
+Harvard UniversityUnited States,99,98.3,,,0.7,0.0070707071,4.99948984797474E-005,,,0.0070707071
+University of CambridgeUnited Kingdom,96.7,97.2,,,-0.5,-0.0051706308,2.6735423045293E-005,,,0.0051706308
+"University of California, BerkeleyUnited States",91.1,96.1,,,-5,-0.054884742,0.0030123349,,,0.054884742
+Stanford UniversityUnited States,96.2,95.9,,,0.3,0.0031185031,9.72506170011349E-006,,,0.0031185031
+California Institute of TechnologyUnited States,97.6,95.7,,,1.9,0.0194672131,0.0003789724,,,0.0194672131
+ETH Zurich â€“ Swiss Federal Institute of Technology ZurichSwitzerland,95,93.7,,,1.3,0.0136842105,0.0001872576,,,0.0136842105
+Massachusetts Institute of TechnologyUnited States,88.6,92.3,,,-3.7,-0.0417607223,0.0017439579,,,0.0417607223
+University College LondonUnited Kingdom,91,90,,,1,0.010989011,0.0001207584,,,0.010989011
+Tsinghua UniversityChina,83,89.6,,,-6.6,-0.0795180723,0.0063231238,,,0.0795180723
+University of TokyoJapan,83,89.2,,,-6.2,-0.0746987952,0.00557991,,,0.0746987952
+University of ChicagoUnited States,88.9,89.1,,,-0.2,-0.0022497188,5.06123461226457E-006,,,0.0022497188
+"University of California, Los AngelesUnited States",88.6,89,,,-0.4,-0.0045146727,2.0382269463794E-005,,,0.0045146727
+University of PennsylvaniaUnited States,86.9,88.9,,,-2,-0.0230149597,0.0005296884,,,0.0230149597
+Princeton UniversityUnited States,91.9,88.4,,,3.5,0.0380848749,0.0014504577,,,0.0380848749
+Yale UniversityUnited States,87.8,87.8,,,0,0,0,,,0
+National University of SingaporeSingapore,84.5,86.9,,,-2.4,-0.0284023669,0.0008066944,,,0.0284023669
+Imperial College LondonUnited Kingdom,88.5,86.6,,,1.9,0.0214689266,0.0004609148,,,0.0214689266
+Cornell UniversityUnited States,86.1,86.5,,,-0.4,-0.0046457607,2.15830928841898E-005,,,0.0046457607
+University of TorontoCanada,89.3,86.3,,,3,0.0335946249,0.0011285988,,,0.0335946249
+University of MichiganUnited States,85.2,86.1,,,-0.9,-0.0105633803,0.000111585,,,0.0105633803
+Northwestern UniversityUnited States,78.4,85,,,-6.6,-0.0841836735,0.0070868909,,,0.0841836735
+Johns Hopkins UniversityUnited States,90.4,84.3,,,6.1,0.0674778761,0.0045532638,,,0.0674778761
+Carnegie Mellon UniversityUnited States,88.8,84,,,4.8,0.0540540541,0.0029218408,,,0.0540540541
+University of Illinois at Urbana-ChampaignUnited States,81.2,81.4,,,-0.2,-0.0024630542,6.0666359290448E-006,,,0.0024630542
+University of WashingtonUnited States,70,80.4,,,-10.4,-0.1485714286,0.0220734694,,,0.1485714286
+Peking UniversityChina,72.4,80.3,,,-7.9,-0.1091160221,0.0119063063,,,0.1091160221
+Duke UniversityUnited States,78,80,,,-2,-0.0256410256,0.0006574622,,,0.0256410256
+Georgia Institute of TechnologyUnited States,72.7,79.2,,,-6.5,-0.0894085282,0.0079938849,,,0.0894085282
+Columbia UniversityUnited States,82.2,78.9,,,3.3,0.0401459854,0.0016117001,,,0.0401459854
+Karolinska InstituteSweden,81.1,76,,,5.1,0.0628853268,0.0039545643,,,0.0628853268
+University of EdinburghUnited Kingdom,77.2,74.7,,,2.5,0.0323834197,0.0010486859,,,0.0323834197
+London School of Economics and Political ScienceUnited Kingdom,80.6,74.7,,,5.9,0.0732009926,0.0053583853,,,0.0732009926
+University of Hong KongHong Kong,72.8,74.5,,,-1.7,-0.0233516484,0.0005452995,,,0.0233516484
+Australian National UniversityAustralia,77.3,73.9,,,3.4,0.0439844761,0.0019346341,,,0.0439844761
+KU LeuvenBelgium,76.9,73.7,,,3.2,0.0416124837,0.0017315988,,,0.0416124837
+University of MelbourneAustralia,75.5,73.6,,,1.9,0.0251655629,0.0006333056,,,0.0251655629
+LMU MunichGermany,77.4,73.4,,,4,0.0516795866,0.0026707797,,,0.0516795866
+Delft University of TechnologyNetherlands,73.8,72.9,,,0.9,0.012195122,0.000148721,,,0.012195122
+University of British ColumbiaCanada,73.2,72.5,,,0.7,0.0095628415,9.14479381289386E-005,,,0.0095628415
+University of Wisconsin-MadisonUnited States,68.2,71.4,,,-3.2,-0.0469208211,0.0022015635,,,0.0469208211
+Kingâ€™s College LondonUnited Kingdom,75.8,71,,,4.8,0.0633245383,0.0040099971,,,0.0633245383
+Technical University of MunichGermany,66,70.5,,,-4.5,-0.0681818182,0.0046487603,,,0.0681818182
+McGill UniversityCanada,72.1,70.3,,,1.8,0.0249653259,0.0006232675,,,0.0249653259
+Kyoto UniversityJapan,69.3,70.1,,,-0.8,-0.0115440115,0.0001332642,,,0.0115440115
+University of MinnesotaUnited States,61,69.8,,,-8.8,-0.1442622951,0.0208116098,,,0.1442622951
+"Seoul National UniversityKorea, Republic of",70.5,69.8,,,0.7,0.009929078,9.85865902117608E-005,,,0.009929078
+Humboldt University of BerlinGermany,77,69,,,8,0.1038961039,0.0107944004,,,0.1038961039
+New York UniversityUnited States,72.3,68.8,,,3.5,0.0484094053,0.0023434705,,,0.0484094053
+Free University of BerlinGermany,72.2,67.3,,,4.9,0.067867036,0.0046059346,,,0.067867036
+"University of California, DavisUnited States",72.7,67.3,,,5.4,0.0742778542,0.0055171996,,,0.0742778542
+Purdue UniversityUnited States,57.7,66.8,,,-9.1,-0.157712305,0.0248731712,,,0.157712305
+Hong Kong University of Science and TechnologyHong Kong,66.1,66.7,,,-0.6,-0.0090771558,8.23947578624077E-005,,,0.0090771558
+University of ManchesterUnited Kingdom,66,66.3,,,-0.3,-0.0045454545,2.0661157024793E-005,,,0.0045454545
+"University of California, San DiegoUnited States",69.8,66.2,,,3.6,0.0515759312,0.0026600767,,,0.0515759312
+Ã‰cole Polytechnique FÃ©dÃ©rale de LausanneSwitzerland,67.5,66.1,,,1.4,0.0207407407,0.0004301783,,,0.0207407407
+University of Texas at AustinUnited States,69.7,65.9,,,3.8,0.0545193687,0.0029723616,,,0.0545193687
+Heidelberg UniversityGermany,69.6,65,,,4.6,0.066091954,0.0043681464,,,0.066091954
+RWTH Aachen UniversityGermany,56.3,63.7,,,-7.4,-0.1314387211,0.0172761374,,,0.1314387211
+Pennsylvania State UniversityUnited States,61.9,63.3,,,-1.4,-0.0226171244,0.0005115343,,,0.0226171244
+"University of Maryland, College ParkUnited States",42.1,63.2,,,-21.1,-0.5011876485,0.251189059,,,0.5011876485
+University of SydneyAustralia,68.1,63.2,,,4.9,0.0719530103,0.0051772357,,,0.0719530103
+"University of California, Santa BarbaraUnited States",66,62.6,,,3.4,0.0515151515,0.0026538108,,,0.0515151515
+University of AmsterdamNetherlands,64.7,62,,,2.7,0.0417310665,0.0017414819,,,0.0417310665
+Lomonosov Moscow State UniversityRussian Federation,66.7,61.6,,,5.1,0.0764617691,0.0058464021,,,0.0764617691
+Chinese University of Hong KongHong Kong,48.5,60.4,,,-11.9,-0.2453608247,0.0602019343,,,0.2453608247
+Nanyang Technological UniversitySingapore,61.3,60.2,,,1.1,0.0179445351,0.0003220063,,,0.0179445351
+University of SÃ£o PauloBrazil,68.6,60.2,,,8.4,0.1224489796,0.0149937526,,,0.1224489796
+University of QueenslandAustralia,62.8,60.1,,,2.7,0.0429936306,0.0018484523,,,0.0429936306
+University of Southern CaliforniaUnited States,58.9,60,,,-1.1,-0.0186757216,0.0003487826,,,0.0186757216
+University of North Carolina at Chapel HillUnited States,54.5,59.6,,,-5.1,-0.0935779817,0.0087568386,,,0.0935779817
+University of New South WalesAustralia,53.9,58.6,,,-4.7,-0.0871985158,0.0076035812,,,0.0871985158
+Leiden UniversityNetherlands,63.1,57.9,,,5.2,0.0824088748,0.0067912226,,,0.0824088748
+University of HelsinkiFinland,60.4,57.6,,,2.8,0.0463576159,0.0021490286,,,0.0463576159
+Monash UniversityAustralia,59.1,57.4,,,1.7,0.0287648054,0.000827414,,,0.0287648054
+Uppsala UniversitySweden,61,57.1,,,3.9,0.0639344262,0.0040876109,,,0.0639344262
+Texas A&M UniversityUnited States,52.4,57,,,-4.6,-0.0877862595,0.0077064274,,,0.0877862595
+Erasmus University RotterdamNetherlands,55.2,56.8,,,-1.6,-0.0289855072,0.0008401596,,,0.0289855072
+Shanghai Jiao Tong UniversityChina,45.2,56.5,,,-11.3,-0.25,0.0625,,,0.25
+Washington University in St LouisUnited States,55.6,56.2,,,-0.6,-0.0107913669,0.0001164536,,,0.0107913669
+University of TÃ¼bingenGermany,59.8,56.2,,,3.6,0.0602006689,0.0036241205,,,0.0602006689
+Ghent UniversityBelgium,54.5,55.5,,,-1,-0.0183486239,0.000336672,,,0.0183486239
+University of GroningenNetherlands,56.9,55.1,,,1.8,0.0316344464,0.0010007382,,,0.0316344464
+Aarhus UniversityDenmark,50.7,54.7,,,-4,-0.0788954635,0.0062244942,,,0.0788954635
+Brown UniversityUnited States,55.7,54.4,,,1.3,0.0233393178,0.0005447238,,,0.0233393178
+Zhejiang UniversityChina,46,54.2,,,-8.2,-0.1782608696,0.0317769376,,,0.1782608696
+"Korea Advanced Institute of Science and Technology (KAIST)Korea, Republic of",40.5,53.2,,,-12.7,-0.3135802469,0.0983325713,,,0.3135802469
+Ohio State UniversityUnited States,46.6,53.1,,,-6.5,-0.1394849785,0.0194560592,,,0.1394849785
+Lund UniversitySweden,53.6,53.1,,,0.5,0.0093283582,8.70182668745823E-005,,,0.0093283582
+University of AlbertaCanada,48.1,53,,,-4.9,-0.1018711019,0.0103777214,,,0.1018711019
+University of WarwickUnited Kingdom,53.1,52.6,,,0.5,0.0094161959,8.86647444150077E-005,,,0.0094161959
+National Taiwan UniversityTaiwan,58,52.5,,,5.5,0.0948275862,0.0089922711,,,0.0948275862
+Ã‰cole Normale SupÃ©rieureFrance,47.7,52.3,,,-4.6,-0.0964360587,0.0092999134,,,0.0964360587
+University of PittsburghUnited States,50.3,51.9,,,-1.6,-0.0318091451,0.0010118217,,,0.0318091451
+University of BristolUnited Kingdom,51.6,51.7,,,-0.1,-0.0019379845,3.75578390721722E-006,,,0.0019379845
+UniversitÃ© Catholique de LouvainBelgium,40.6,51.3,,,-10.7,-0.263546798,0.0694569148,,,0.263546798
+University of MannheimGermany,47.7,51.3,,,-3.6,-0.0754716981,0.0056959772,,,0.0754716981
+Tel Aviv UniversityIsrael,50.5,51.1,,,-0.6,-0.0118811881,0.0001411626,,,0.0118811881
+Radboud University NijmegenNetherlands,48.5,50.6,,,-2.1,-0.0432989691,0.0018748007,,,0.0432989691
+"Sungkyunkwan University (SKKU)Korea, Republic of",53.5,50.6,,,2.9,0.0542056075,0.0029382479,,,0.0542056075
+Tokyo Institute of TechnologyJapan,47.6,50.5,,,-2.9,-0.0609243697,0.0037117788,,,0.0609243697
+Tilburg UniversityNetherlands,47.1,50.2,,,-3.1,-0.0658174098,0.0043319314,,,0.0658174098
+Wageningen University & ResearchNetherlands,66.9,50.1,,,16.8,0.2511210762,0.0630617949,,,0.2511210762
+University of FreiburgGermany,51.1,49.9,,,1.2,0.0234833659,0.0005514685,,,0.0234833659
+"Rutgers, the State University of New JerseyUnited States",55.7,49.8,,,5.9,0.1059245961,0.01122002,,,0.1059245961
+Osaka UniversityJapan,45.2,49.6,,,-4.4,-0.0973451327,0.0094760749,,,0.0973451327
+Indian Institute of ScienceIndia,47.2,49.2,47.2,49.2,-2,-0.0423728814,0.0017954611,,,0.0423728814
+Durham UniversityUnited Kingdom,51.9,49,,,2.9,0.0558766859,0.003122204,,,0.0558766859
+Arizona State UniversityUnited States,38.1,48.9,,,-10.8,-0.2834645669,0.0803521607,,,0.2834645669
+Michigan State UniversityUnited States,52.6,48.9,,,3.7,0.0703422053,0.0049480258,,,0.0703422053
+"Pohang University of Science and TechnologyKorea, Republic of",47.1,48.7,,,-1.6,-0.033970276,0.0011539797,,,0.033970276
+Maastricht UniversityNetherlands,47.7,48.6,,,-0.9,-0.0188679245,0.0003559986,,,0.0188679245
+Boston UniversityUnited States,49.5,48.5,,,1,0.0202020202,0.0004081216,,,0.0202020202
+Utrecht UniversityNetherlands,64.3,48.5,,,15.8,0.2457231726,0.0603798776,,,0.2457231726
+University of FloridaUnited States,56.8,48.1,,,8.7,0.1531690141,0.0234607469,,,0.1531690141
+University of GÃ¶ttingenGermany,54.5,48,,,6.5,0.119266055,0.0142243919,,,0.119266055
+University of MontrealCanada,45.5,47.8,,,-2.3,-0.0505494505,0.002555247,,,0.0505494505
+University of GlasgowUnited Kingdom,48.3,47.8,,,0.5,0.0103519669,0.0001071632,,,0.0103519669
+University of SheffieldUnited Kingdom,48.8,47.6,,,1.2,0.0245901639,0.0006046762,,,0.0245901639
+Scuola Normale Superiore di PisaItaly,53.1,47.5,,,5.6,0.1054613936,0.0111221055,,,0.1054613936
+Tohoku UniversityJapan,42.7,47.3,,,-4.6,-0.1077283372,0.0116053946,,,0.1077283372
+Fudan UniversityChina,30.4,47,,,-16.6,-0.5460526316,0.2981734765,,,0.5460526316
+University of TwenteNetherlands,45.6,46.7,,,-1.1,-0.024122807,0.0005819098,,,0.024122807
+University of LausanneSwitzerland,45.6,46.6,,,-1,-0.0219298246,0.0004809172,,,0.0219298246
+University of ViennaAustria,50.5,46.6,,,3.9,0.0772277228,0.0059641212,,,0.0772277228
+Stockholm UniversitySweden,51.2,46.2,,,5,0.09765625,0.0095367432,,,0.09765625
+University of SouthamptonUnited Kingdom,43.6,46.1,,,-2.5,-0.0573394495,0.0032878125,,,0.0573394495
+University of YorkUnited Kingdom,46.3,45.9,,,0.4,0.0086393089,7.46376574971189E-005,,,0.0086393089
+TU Dresden Germany,45.8,45.6,,,0.2,0.0043668122,0.000019069,,,0.0043668122
+"Korea UniversityKorea, Republic of",43.4,45.4,,,-2,-0.0460829493,0.0021236382,,,0.0460829493
+McMaster UniversityCanada,44.8,45.4,,,-0.6,-0.0133928571,0.0001793686,,,0.0133928571
+KTH Royal Institute of TechnologySweden,44.3,45.3,,,-1,-0.0225733634,0.0005095567,,,0.0225733634
+Karlsruhe Institute of TechnologyGermany,47.5,45.2,,,2.3,0.0484210526,0.0023445983,,,0.0484210526
+"University of California, IrvineUnited States",41.8,45,,,-3.2,-0.0765550239,0.0058606717,,,0.0765550239
+University of WaterlooCanada,43.9,44.9,,,-1,-0.0227790433,0.0005188848,,,0.0227790433
+University of Western AustraliaAustralia,46.1,44.9,,,1.2,0.0260303688,0.0006775801,,,0.0260303688
+City University of Hong KongHong Kong,26.7,44.5,,,-17.8,-0.6666666667,0.4444444444,,,0.6666666667
+University of StuttgartGermany,44.5,44.5,,,0,0,0,,,0
+University of KonstanzGermany,46.7,44.5,,,2.2,0.0471092077,0.0022192775,,,0.0471092077
+University of St AndrewsUnited Kingdom,47.3,44.3,,,3,0.0634249471,0.0040227239,,,0.0634249471
+University of AdelaideAustralia,43.2,43.9,,,-0.7,-0.0162037037,0.00026256,,,0.0162037037
+University of Colorado BoulderUnited States,37.6,43.7,,,-6.1,-0.1622340426,0.0263198846,,,0.1622340426
+Bielefeld UniversityGermany,46.2,43.7,,,2.5,0.0541125541,0.0029281685,,,0.0541125541
+University of Erlangen-NurembergGermany,39.7,43.6,,,-3.9,-0.0982367758,0.0096504641,,,0.0982367758
+Eindhoven University of TechnologyNetherlands,41,43.5,,,-2.5,-0.0609756098,0.003718025,,,0.0609756098
+University of Science and Technology of ChinaChina,36.6,43.4,,,-6.8,-0.1857923497,0.0345187972,,,0.1857923497
+University of OsloNorway,44.7,43.1,,,1.6,0.0357941834,0.0012812236,,,0.0357941834
+University of LeedsUnited Kingdom,39,43,,,-4,-0.1025641026,0.0105193951,,,0.1025641026
+University of BernSwitzerland,42.5,43,,,-0.5,-0.0117647059,0.0001384083,,,0.0117647059
+Technical University of DarmstadtGermany,43.2,43,,,0.2,0.0046296296,2.14334705075452E-005,,,0.0046296296
+UniversitÃ© Libre de BruxellesBelgium,28.3,42.8,,,-14.5,-0.5123674912,0.262520446,,,0.5123674912
+University of BirminghamUnited Kingdom,41.8,42.4,,,-0.6,-0.014354067,0.0002060392,,,0.014354067
+University of ArizonaUnited States,41.8,42.2,,,-0.4,-0.009569378,0.000091573,,,0.009569378
+Hong Kong Polytechnic UniversityHong Kong,35.2,41.8,,,-6.6,-0.1875,0.03515625,,,0.1875
+Nagoya UniversityJapan,38.9,41.8,,,-2.9,-0.0745501285,0.0055577217,,,0.0745501285
+University of NottinghamUnited Kingdom,39,41.3,,,-2.3,-0.058974359,0.003477975,,,0.058974359
+Dartmouth CollegeUnited States,35.8,41.1,,,-5.3,-0.1480446927,0.021917231,,,0.1480446927
+University of GenevaSwitzerland,40.5,41.1,,,-0.6,-0.0148148148,0.0002194787,,,0.0148148148
+Lancaster UniversityUnited Kingdom,41.4,40.9,,,0.5,0.0120772947,0.000145861,,,0.0120772947
+University of AucklandNew Zealand,39.5,40.8,,,-1.3,-0.0329113924,0.0010831598,,,0.0329113924
+University of BonnGermany,47.5,40.8,,,6.7,0.1410526316,0.0198958449,,,0.1410526316
+University of Notre DameUnited States,48.1,40.7,,,7.4,0.1538461538,0.0236686391,,,0.1538461538
+Ã‰cole PolytechniqueFrance,44.6,40.6,,,4,0.0896860987,0.0080435963,,,0.0896860987
+PanthÃ©on-Sorbonne University â€“ Paris 1France,47.6,40.6,,,7,0.1470588235,0.0216262976,,,0.1470588235
+University of GothenburgSweden,39.8,40.5,,,-0.7,-0.0175879397,0.0003093356,,,0.0175879397
+National Taiwan University of Science and Technology (Taiwan Tech)Taiwan,43.1,40.5,,,2.6,0.060324826,0.0036390846,,,0.060324826
+Indiana UniversityUnited States,27.3,40.2,,,-12.9,-0.4725274725,0.2232822123,,,0.4725274725
+VU University AmsterdamNetherlands,37.1,40.2,,,-3.1,-0.0835579515,0.0069819313,,,0.0835579515
+National Chiao Tung UniversityTaiwan,45.4,40.2,,,5.2,0.1145374449,0.0131188263,,,0.1145374449
+"Yonsei UniversityKorea, Republic of",34.1,40.1,,,-6,-0.1759530792,0.0309594861,,,0.1759530792
+National Tsing Hua UniversityTaiwan,36.6,40.1,,,-3.5,-0.0956284153,0.0091447938,,,0.0956284153
+Virginia Polytechnic Institute and State UniversityUnited States,38.2,39.9,,,-1.7,-0.0445026178,0.001980483,,,0.0445026178
+"Gwangju Institute of Science and TechnologyKorea, Republic of",42,39.9,,,2.1,0.05,0.0025,,,0.05
+University of AntwerpBelgium,40.8,39.8,,,1,0.0245098039,0.0006007305,,,0.0245098039
+York UniversityCanada,30.8,39.7,,,-8.9,-0.288961039,0.083498482,,,0.288961039
+Emory UniversityUnited States,37.1,39.7,,,-2.6,-0.0700808625,0.0049113273,,,0.0700808625
+Queen Mary University of LondonUnited Kingdom,41.3,39.7,,,1.6,0.0387409201,0.0015008589,,,0.0387409201
+Hebrew University of JerusalemIsrael,41.4,39.6,,,1.8,0.0434782609,0.0018903592,,,0.0434782609
+State University of CampinasBrazil,42.3,39.6,,,2.7,0.0638297872,0.0040742417,,,0.0638297872
+Florida State UniversityUnited States,40.1,39.5,,,0.6,0.0149625935,0.0002238792,,,0.0149625935
+Georgetown UniversityUnited States,39.3,39.3,,,0,0,0,,,0
+University of ExeterUnited Kingdom,40,39.2,,,0.8,0.02,0.0004,,,0.02
+Case Western Reserve UniversityUnited States,33.2,38.9,,,-5.7,-0.171686747,0.0294763391,,,0.171686747
+Rice UniversityUnited States,35.1,38.7,,,-3.6,-0.1025641026,0.0105193951,,,0.1025641026
+University of Hawaiâ€™i at MÄnoaUnited States,35.5,38.7,,,-3.2,-0.0901408451,0.008125372,,,0.0901408451
+University of VirginiaUnited States,37.5,38.6,,,-1.1,-0.0293333333,0.0008604444,,,0.0293333333
+Paris-Sorbonne University â€“ Paris 4France,55.8,38.6,,,17.2,0.3082437276,0.0950141956,,,0.3082437276
+University of ZurichSwitzerland,31.5,38.5,,,-7,-0.2222222222,0.049382716,,,0.2222222222
+University of CologneGermany,38,38.3,,,-0.3,-0.0078947368,6.2326869806093E-005,,,0.0078947368
+University of MÃ¼nsterGermany,44.1,38.3,,,5.8,0.1315192744,0.0172973195,,,0.1315192744
+Ulm UniversityGermany,23.9,38.1,,,-14.2,-0.5941422594,0.3530050244,,,0.5941422594
+National Cheng Kung University (NCKU)Taiwan,40.2,38,,,2.2,0.0547263682,0.0029949754,,,0.0547263682
+Queensland University of TechnologyAustralia,35.6,37.9,,,-2.3,-0.0646067416,0.0041740311,,,0.0646067416
+University of SussexUnited Kingdom,37.2,37.9,,,-0.7,-0.0188172043,0.0003540872,,,0.0188172043
+University College DublinIreland,38.5,37.8,,,0.7,0.0181818182,0.0003305785,,,0.0181818182
+University of ReadingUnited Kingdom,37.3,37.5,,,-0.2,-0.0053619303,2.87502964874333E-005,,,0.0053619303
+University of the WitwatersrandSouth Africa,31.5,37.3,,,-5.8,-0.1841269841,0.0339027463,,,0.1841269841
+Vanderbilt UniversityUnited States,44.2,37.3,,,6.9,0.1561085973,0.0243698941,,,0.1561085973
+University of Cape TownSouth Africa,38.7,37.2,,,1.5,0.0387596899,0.0015023136,,,0.0387596899
+Leibniz University of HanoverGermany,36.9,37.1,,,-0.2,-0.0054200542,0.000029377,,,0.0054200542
+University of WÃ¼rzburgGermany,35.8,37,,,-1.2,-0.0335195531,0.0011235604,,,0.0335195531
+Cardiff UniversityUnited Kingdom,31.6,36.9,,,-5.3,-0.167721519,0.0281305079,,,0.167721519
+Nanjing UniversityChina,32.2,36.9,,,-4.7,-0.1459627329,0.0213051194,,,0.1459627329
+University of BaselSwitzerland,33.1,36.8,,,-3.7,-0.1117824773,0.0124953222,,,0.1117824773
+University of DelawareUnited States,34,36.8,,,-2.8,-0.0823529412,0.0067820069,,,0.0823529412
+Macquarie UniversityAustralia,27.2,36.5,,,-9.3,-0.3419117647,0.1169036548,,,0.3419117647
+Autonomous University of BarcelonaSpain,40,36.4,,,3.6,0.09,0.0081,,,0.09
+Ruhr University BochumGermany,30,36.2,,,-6.2,-0.2066666667,0.0427111111,,,0.2066666667
+Hokkaido UniversityJapan,32.8,36.2,,,-3.4,-0.1036585366,0.0107450922,,,0.1036585366
+Technion Israel Institute of TechnologyIsrael,36.1,36.1,,,0,0,0,,,0
+University of EssexUnited Kingdom,33.3,36,,,-2.7,-0.0810810811,0.0065741417,,,0.0810810811
+"Hanyang UniversityKorea, Republic of",32.6,35.6,,,-3,-0.0920245399,0.0084685159,,,0.0920245399
+"Kyung Hee UniversityKorea, Republic of",27.6,35.5,,,-7.9,-0.2862318841,0.0819286915,,,0.2862318841
+University of Illinois at ChicagoUnited States,29.2,35.3,,,-6.1,-0.2089041096,0.043640927,,,0.2089041096
+"University of California, Santa CruzUnited States",34.2,35.3,,,-1.1,-0.0321637427,0.0010345063,,,0.0321637427
+Sapienza University of RomeItaly,37.3,35.3,,,2,0.0536193029,0.0028750296,,,0.0536193029
+Aalborg UniversityDenmark,28.4,35.2,,,-6.8,-0.2394366197,0.0573298949,,,0.2394366197
+Tongji UniversityChina,29.2,35.2,,,-6,-0.2054794521,0.0422218052,,,0.2054794521
+University of LiverpoolUnited Kingdom,30.9,35.2,,,-4.3,-0.1391585761,0.0193651093,,,0.1391585761
+University of CalgaryCanada,36.7,35.2,,,1.5,0.0408719346,0.001670515,,,0.0408719346
+Kyushu UniversityJapan,27.5,35.1,,,-7.6,-0.2763636364,0.0763768595,,,0.2763636364
+"Birkbeck, University of LondonUnited Kingdom",35.1,35.1,,,0,0,0,,,0
+University of GeorgiaUnited States,30.5,35,,,-4.5,-0.1475409836,0.0217683418,,,0.1475409836
+Western UniversityCanada,32.4,34.9,,,-2.5,-0.0771604938,0.0059537418,,,0.0771604938
+University of South FloridaUnited States,35.7,34.9,,,0.8,0.0224089636,0.0005021616,,,0.0224089636
+Queenâ€™s UniversityCanada,35.8,34.8,,,1,0.0279329609,0.0007802503,,,0.0279329609
+University of MassachusettsUnited States,36.3,34.8,,,1.5,0.041322314,0.0017075336,,,0.041322314
+Loughborough UniversityUnited Kingdom,32.2,34.4,,,-2.2,-0.0683229814,0.0046680298,,,0.0683229814
+Tufts UniversityUnited States,33.3,34.3,,,-1,-0.03003003,0.0009018027,,,0.03003003
+Scuola Superiore Santâ€™AnnaItaly,23.2,33.9,,,-10.7,-0.4612068966,0.2127118014,,,0.4612068966
+Pierre and Marie Curie UniversityFrance,32.7,33.7,,,-1,-0.0305810398,0.0009352,,,0.0305810398
+"University of California, RiversideUnited States",33.3,33.7,,,-0.4,-0.012012012,0.0001442884,,,0.012012012
+Rensselaer Polytechnic InstituteUnited States,31.5,33.5,,,-2,-0.0634920635,0.0040312421,,,0.0634920635
+University of LiÃ¨geBelgium,36.6,33.3,,,3.3,0.0901639344,0.0081295351,,,0.0901639344
+Moscow Institute of Physics and TechnologyRussian Federation,18.4,33.1,,,-14.7,-0.7989130435,0.638262051,,,0.7989130435
+University of CopenhagenDenmark,42.7,33.1,,,9.6,0.224824356,0.050545991,,,0.224824356
+Pompeu Fabra UniversitySpain,28,33,,,-5,-0.1785714286,0.0318877551,,,0.1785714286
+University of GuelphCanada,34.2,33,,,1.2,0.0350877193,0.001231148,,,0.0350877193
+University of BarcelonaSpain,37.4,33,,,4.4,0.1176470588,0.0138408304,,,0.1176470588
+National Autonomous University of MexicoMexico,40.2,33,,,7.2,0.1791044776,0.0320784139,,,0.1791044776
+SabancÄ± UniversityTurkey,32.3,32.9,,,-0.6,-0.0185758514,0.0003450623,,,0.0185758514
+Norwegian University of Science and TechnologyNorway,25.8,32.8,,,-7,-0.2713178295,0.0736133646,,,0.2713178295
+University of TsukubaJapan,30,32.7,,,-2.7,-0.09,0.0081,,,0.09
+North Carolina State UniversityUnited States,30.5,32.7,,,-2.2,-0.0721311475,0.0052029024,,,0.0721311475
+University of FribourgSwitzerland,32.9,32.7,,,0.2,0.0060790274,3.69545735904124E-005,,,0.0060790274
+University of OuluFinland,15.9,32.6,,,-16.7,-1.0503144654,1.1031604762,,,1.0503144654
+University of SurreyUnited Kingdom,28.9,32.6,,,-3.7,-0.1280276817,0.0163910873,,,0.1280276817
+Colorado State UniversityUnited States,33,32.6,,,0.4,0.0121212121,0.0001469238,,,0.0121212121
+University of Texas at DallasUnited States,26.7,32.5,,,-5.8,-0.2172284644,0.0471882058,,,0.2172284644
+Paris Descartes UniversityFrance,28.8,32.5,,,-3.7,-0.1284722222,0.0165051119,,,0.1284722222
+University of LeicesterUnited Kingdom,27.8,32.4,,,-4.6,-0.1654676259,0.0273795352,,,0.1654676259
+University of RochesterUnited States,27.9,32.4,,,-4.5,-0.1612903226,0.0260145682,,,0.1612903226
+"Royal Holloway, University of LondonUnited Kingdom",33.2,32.3,,,0.9,0.0271084337,0.0007348672,,,0.0271084337
+Newcastle UniversityUnited Kingdom,27.5,32.1,,,-4.6,-0.1672727273,0.0279801653,,,0.1672727273
+University of WollongongAustralia,28.4,32.1,,,-3.7,-0.1302816901,0.0169733188,,,0.1302816901
+"Chung-Ang UniversityKorea, Republic of",27.6,31.9,,,-4.3,-0.1557971014,0.0242727368,,,0.1557971014
+Simon Fraser UniversityCanada,29.2,31.9,,,-2.7,-0.0924657534,0.0085499156,,,0.0924657534
+Queenâ€™s University BelfastUnited Kingdom,33.3,31.9,,,1.4,0.042042042,0.0017675333,,,0.042042042
+Bayreuth UniversityGermany,31.2,31.4,,,-0.2,-0.0064102564,4.10913872452331E-005,,,0.0064102564
+University of StrathclydeUnited Kingdom,28,31.2,,,-3.2,-0.1142857143,0.0130612245,,,0.1142857143
+University of AberdeenUnited Kingdom,31.4,31.2,,,0.2,0.0063694268,4.05695971439001E-005,,,0.0063694268
+Indian Institute of Technology BombayIndia,28.6,31.1,28.6,31.1,-2.5,-0.0874125874,0.0076409604,,,0.0874125874
+University of East AngliaUnited Kingdom,28.7,31.1,,,-2.4,-0.0836236934,0.0069929221,,,0.0836236934
+Paris-Sud UniversityFrance,29,31.1,,,-2.1,-0.0724137931,0.0052437574,,,0.0724137931
+National Taiwan Normal UniversityTaiwan,31.3,31.1,,,0.2,0.0063897764,4.08292419030507E-005,,,0.0063897764
+University of DundeeUnited Kingdom,26.9,31,,,-4.1,-0.1524163569,0.0232307458,,,0.1524163569
+University of BathUnited Kingdom,27.9,31,,,-3.1,-0.1111111111,0.012345679,,,0.1111111111
+University of OtagoNew Zealand,30.5,30.7,,,-0.2,-0.006557377,4.29991937651166E-005,,,0.006557377
+Saint Petersburg State UniversityRussian Federation,31.4,30.7,,,0.7,0.0222929936,0.0004969776,,,0.0222929936
+University of UtahUnited States,35.3,30.5,,,4.8,0.1359773371,0.0184898362,,,0.1359773371
+Ã‰cole Normale SupÃ©rieure de LyonFrance,30,30.4,,,-0.4,-0.0133333333,0.0001777778,,,0.0133333333
+Polytechnic University of MilanItaly,31.7,30.3,,,1.4,0.0441640379,0.0019504622,,,0.0441640379
+Wuhan UniversityChina,26.8,30.2,,,-3.4,-0.1268656716,0.0160948986,,,0.1268656716
+Victoria University of WellingtonNew Zealand,28.7,30.2,,,-1.5,-0.0522648084,0.0027316102,,,0.0522648084
+University of HohenheimGermany,33.8,30.1,,,3.7,0.1094674556,0.0119831238,,,0.1094674556
+University of LuxembourgLuxembourg,26.7,30,,,-3.3,-0.1235955056,0.015275849,,,0.1235955056
+Technical University of DenmarkDenmark,29.9,30,,,-0.1,-0.0033444816,1.11855572085327E-005,,,0.0033444816
+University of South AustraliaAustralia,26.7,29.9,,,-3.2,-0.1198501873,0.0143640674,,,0.1198501873
+KoÃ§ UniversityTurkey,27.1,29.8,,,-2.7,-0.0996309963,0.0099263354,,,0.0996309963
+Technical University of DortmundGermany,29.8,29.8,,,0,0,0,,,0
+La Trobe UniversityAustralia,28.5,29.7,,,-1.2,-0.0421052632,0.0017728532,,,0.0421052632
+University of CincinnatiUnited States,20.4,29.6,,,-9.2,-0.4509803922,0.2033833141,,,0.4509803922
+University of TasmaniaAustralia,25.7,29.6,,,-3.9,-0.1517509728,0.0230283577,,,0.1517509728
+Washington State UniversityUnited States,28.2,29.6,,,-1.4,-0.0496453901,0.0024646648,,,0.0496453901
+Dalhousie UniversityCanada,29.4,29.6,,,-0.2,-0.0068027211,0.000046277,,,0.0068027211
+Ehime UniversityJapan,11.3,29.5,,,-18.2,-1.610619469,2.594095074,,,1.610619469
+University of HoustonUnited States,26.5,29.4,,,-2.9,-0.1094339623,0.0119757921,,,0.1094339623
+University of BremenGermany,32.7,29.4,,,3.3,0.1009174312,0.0101843279,,,0.1009174312
+Justus Liebig University GiessenGermany,33.9,29.4,,,4.5,0.1327433628,0.0176208004,,,0.1327433628
+University of TampereFinland,13.7,29.3,,,-15.6,-1.1386861314,1.2966061058,,,1.1386861314
+University of BergenNorway,31.5,29.3,,,2.2,0.0698412698,0.004877803,,,0.0698412698
+Tianjin UniversityChina,34.4,29.2,,,5.2,0.1511627907,0.0228501893,,,0.1511627907
+University of Nebraska-LincolnUnited States,30.2,29.1,,,1.1,0.0364238411,0.0013266962,,,0.0364238411
+Aalto UniversityFinland,32.8,29,,,3.8,0.1158536585,0.0134220702,,,0.1158536585
+University at BuffaloUnited States,37.9,29,,,8.9,0.234828496,0.0551444226,,,0.234828496
+San Diego State UniversityUnited States,27,28.8,,,-1.8,-0.0666666667,0.0044444444,,,0.0666666667
+University of Duisburg-EssenGermany,27,28.7,,,-1.7,-0.062962963,0.0039643347,,,0.062962963
+UmeÃ¥ UniversitySweden,25,28.6,,,-3.6,-0.144,0.020736,,,0.144
+Griffith UniversityAustralia,25.2,28.5,,,-3.3,-0.130952381,0.0171485261,,,0.130952381
+University of NewcastleAustralia,26.5,28.5,,,-2,-0.0754716981,0.0056959772,,,0.0754716981
+Chalmers University of TechnologySweden,35.3,28.5,,,6.8,0.1926345609,0.0371080741,,,0.1926345609
+Novosibirsk State UniversityRussian Federation,30.8,28.3,,,2.5,0.0811688312,0.0065883792,,,0.0811688312
+Autonomous University of MadridSpain,30.9,28.3,,,2.6,0.0841423948,0.0070799426,,,0.0841423948
+University of ConnecticutUnited States,25.6,28.2,,,-2.6,-0.1015625,0.0103149414,,,0.1015625
+Oregon State UniversityUnited States,28.5,28.2,,,0.3,0.0105263158,0.0001108033,,,0.0105263158
+King Saud UniversitySaudi Arabia,17.5,27.9,,,-10.4,-0.5942857143,0.3531755102,,,0.5942857143
+"National University of Ireland, GalwayIreland",25.4,27.8,,,-2.4,-0.094488189,0.0089280179,,,0.094488189
+Colorado School of MinesUnited States,30.3,27.8,,,2.5,0.0825082508,0.0068076115,,,0.0825082508
+George Washington UniversityUnited States,23.5,27.7,,,-4.2,-0.1787234043,0.0319420552,,,0.1787234043
+Harbin Institute of TechnologyChina,27.3,27.7,,,-0.4,-0.0146520147,0.0002146815,,,0.0146520147
+University of TrentoItaly,27.4,27.7,,,-0.3,-0.0109489051,0.0001198785,,,0.0109489051
+University of IcelandIceland,27.1,27.6,,,-0.5,-0.0184501845,0.0003404093,,,0.0184501845
+Ben-Gurion University of the NegevIsrael,23.1,27.5,,,-4.4,-0.1904761905,0.0362811791,,,0.1904761905
+"Sogang UniversityKorea, Republic of",24.8,27.5,,,-2.7,-0.1088709677,0.0118528876,,,0.1088709677
+Goethe University FrankfurtGermany,28.6,27.5,,,1.1,0.0384615385,0.0014792899,,,0.0384615385
+University of BolognaItaly,29.5,27.5,,,2,0.0677966102,0.0045963804,,,0.0677966102
+"Sharif University of TechnologyIran, Islamic Republic of",30.1,27.4,,,2.7,0.0897009967,0.0080462688,,,0.0897009967
+Laval UniversityCanada,31.7,27.3,,,4.4,0.1388012618,0.0192657903,,,0.1388012618
+Northwestern Polytechnical UniversityChina,15.4,27.2,,,-11.8,-0.7662337662,0.5871141845,,,0.7662337662
+University of KielGermany,20.5,27.2,,,-6.7,-0.3268292683,0.1068173706,,,0.3268292683
+University of CoimbraPortugal,26.5,27.2,,,-0.7,-0.0264150943,0.0006977572,,,0.0264150943
+National Research Nuclear University MePhIRussian Federation,27.8,27.2,,,0.6,0.0215827338,0.0004658144,,,0.0215827338
+National Sun Yat-Sen UniversityTaiwan,33,27.2,,,5.8,0.1757575758,0.0308907254,,,0.1757575758
+"Pusan National UniversityKorea, Republic of",24.7,27.1,,,-2.4,-0.0971659919,0.00944123,,,0.0971659919
+University of IowaUnited States,26.7,27.1,,,-0.4,-0.0149812734,0.0002244386,,,0.0149812734
+Complutense University of MadridSpain,27.6,27.1,,,0.5,0.018115942,0.0003281874,,,0.018115942
+University of CanterburyNew Zealand,22.5,26.8,,,-4.3,-0.1911111111,0.0365234568,,,0.1911111111
+Dublin City UniversityIreland,25.2,26.7,,,-1.5,-0.0595238095,0.0035430839,,,0.0595238095
+Xiâ€™an Jiaotong UniversityChina,22.5,26.3,,,-3.8,-0.1688888889,0.0285234568,,,0.1688888889
+Sun Yat-sen UniversityChina,24.6,26.3,,,-1.7,-0.0691056911,0.0047755965,,,0.0691056911
+University of ManitobaCanada,26.9,26.3,,,0.6,0.0223048327,0.0004975056,,,0.0223048327
+Lappeenranta University of TechnologyFinland,27.5,26.3,,,1.2,0.0436363636,0.0019041322,,,0.0436363636
+University of AveiroPortugal,26.5,26.2,,,0.3,0.0113207547,0.0001281595,,,0.0113207547
+University of PortoPortugal,28.2,26.2,,,2,0.0709219858,0.0050299281,,,0.0709219858
+Swansea UniversityUnited Kingdom,23.8,26.1,,,-2.3,-0.0966386555,0.0093390297,,,0.0966386555
+Brunel University LondonUnited Kingdom,23.3,26,,,-2.7,-0.1158798283,0.0134281346,,,0.1158798283
+Syracuse UniversityUnited States,20.8,25.9,,,-5.1,-0.2451923077,0.0601192678,,,0.2451923077
+"City, University of LondonUnited Kingdom",21.2,25.9,,,-4.7,-0.2216981132,0.0491500534,,,0.2216981132
+Caâ€™ Foscari University of VeniceItaly,27.8,25.9,,,1.9,0.0683453237,0.0046710833,,,0.0683453237
+Northeastern UniversityUnited States,20.6,25.7,,,-5.1,-0.2475728155,0.061292299,,,0.2475728155
+University College CorkIreland,23.8,25.7,,,-1.9,-0.0798319328,0.0063731375,,,0.0798319328
+Carleton UniversityCanada,24,25.6,,,-1.6,-0.0666666667,0.0044444444,,,0.0666666667
+China University of Petroleum (Beijing)China,26.6,25.5,,,1.1,0.0413533835,0.0017101023,,,0.0413533835
+Vienna University of TechnologyAustria,32,25.5,,,6.5,0.203125,0.0412597656,,,0.203125
+University of CyprusCyprus,28.5,25.4,,,3.1,0.1087719298,0.0118313327,,,0.1087719298
+Oxford Brookes UniversityUnited Kingdom,18.8,25.3,,,-6.5,-0.3457446809,0.1195393843,,,0.3457446809
+University of KwaZulu-NatalSouth Africa,25.7,25.3,,,0.4,0.0155642023,0.0002422444,,,0.0155642023
+Iowa State UniversityUnited States,29.4,25.3,,,4.1,0.1394557823,0.0194479152,,,0.1394557823
+Chang Gung UniversityTaiwan,24.7,25.1,,,-0.4,-0.016194332,0.0002622564,,,0.016194332
+University of SaskatchewanCanada,22.4,25,,,-2.6,-0.1160714286,0.0134725765,,,0.1160714286
+Polytechnic University of ValenciaSpain,12.7,24.8,,,-12.1,-0.9527559055,0.9077438155,,,0.9527559055
+Stellenbosch UniversitySouth Africa,35,24.8,,,10.2,0.2914285714,0.0849306122,,,0.2914285714
+University of GhanaGhana,15.6,24.7,,,-9.1,-0.5833333333,0.3402777778,,,0.5833333333
+Missouri University of Science and TechnologyUnited States,18.4,24.7,,,-6.3,-0.3423913043,0.1172318053,,,0.3423913043
+Beijing Institute of TechnologyChina,21.7,24.7,,,-3,-0.1382488479,0.019112744,,,0.1382488479
+Huazhong University of Science and TechnologyChina,22.7,24.7,,,-2,-0.0881057269,0.0077626191,,,0.0881057269
+Oklahoma State UniversityUnited States,22.7,24.7,,,-2,-0.0881057269,0.0077626191,,,0.0881057269
+Concordia UniversityCanada,23.4,24.7,,,-1.3,-0.0555555556,0.0030864198,,,0.0555555556
+University of StirlingUnited Kingdom,23.5,24.7,,,-1.2,-0.0510638298,0.0026075147,,,0.0510638298
+University of HaifaIsrael,29.5,24.7,,,4.8,0.1627118644,0.0264751508,,,0.1627118644
+University of CanberraAustralia,19.3,24.6,,,-5.3,-0.274611399,0.0754114204,,,0.274611399
+George Mason UniversityUnited States,21.2,24.6,,,-3.4,-0.1603773585,0.0257208971,,,0.1603773585
+Brandeis UniversityUnited States,25.7,24.6,,,1.1,0.0428015564,0.0018319732,,,0.0428015564
+Istanbul Technical UniversityTurkey,25.8,24.6,,,1.2,0.0465116279,0.0021633315,,,0.0465116279
+"Konkuk UniversityKorea, Republic of",19.6,24.5,,,-4.9,-0.25,0.0625,,,0.25
+Deakin UniversityAustralia,21.9,24.5,,,-2.6,-0.1187214612,0.0140947853,,,0.1187214612
+Stony Brook UniversityUnited States,22,24.5,,,-2.5,-0.1136363636,0.0129132231,,,0.1136363636
+University of OregonUnited States,22.7,24.5,,,-1.8,-0.0792951542,0.0062877215,,,0.0792951542
+University of MilanItaly,24.2,24.5,,,-0.3,-0.0123966942,0.000153678,,,0.0123966942
+Western Sydney UniversityAustralia,24.6,24.4,,,0.2,0.0081300813,6.60982219578312E-005,,,0.0081300813
+Copenhagen Business SchoolDenmark,26.5,24.4,,,2.1,0.079245283,0.0062798149,,,0.079245283
+"China Medical University, TaiwanTaiwan",29.4,24.4,,,5,0.1700680272,0.0289231339,,,0.1700680272
+Universiti Putra MalaysiaMalaysia,20.9,24.3,,,-3.4,-0.1626794258,0.0264645956,,,0.1626794258
+"National University of Ireland, MaynoothIreland",22.8,24.2,,,-1.4,-0.0614035088,0.0037703909,,,0.0614035088
+University of PretoriaSouth Africa,21.2,24.1,,,-2.9,-0.1367924528,0.0187121752,,,0.1367924528
+University of LisbonPortugal,18.3,24,,,-5.7,-0.3114754098,0.0970169309,,,0.3114754098
+Swinburne University of TechnologyAustralia,20.2,24,,,-3.8,-0.1881188119,0.0353886874,,,0.1881188119
+Heriot-Watt UniversityUnited Kingdom,22.4,24,,,-1.6,-0.0714285714,0.0051020408,,,0.0714285714
+Paris Diderot University â€“ Paris 7France,22.9,24,,,-1.1,-0.0480349345,0.0023073549,,,0.0480349345
+University of Alaska FairbanksUnited States,23.1,24,,,-0.9,-0.038961039,0.0015179626,,,0.038961039
+Federal University of ParanÃ¡ (UFPR)Brazil,9.6,23.9,,,-14.3,-1.4895833333,2.2188585069,,,1.4895833333
+"Ewha Womans UniversityKorea, Republic of",18.3,23.9,,,-5.6,-0.306010929,0.0936426886,,,0.306010929
+Aston UniversityUnited Kingdom,20.4,23.9,,,-3.5,-0.1715686275,0.0294357939,,,0.1715686275
+University of NavarraSpain,20.8,23.9,,,-3.1,-0.1490384615,0.022212463,,,0.1490384615
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio)Brazil,24.1,23.9,,,0.2,0.0082987552,6.88693376491471E-005,,,0.0082987552
+Indian Institute of Technology DelhiIndia,25.8,23.9,25.8,23.9,1.9,0.0736434109,0.005423352,,,0.0736434109
+BoÄŸaziÃ§i UniversityTurkey,19.2,23.8,,,-4.6,-0.2395833333,0.0574001736,,,0.2395833333
+Georgia State UniversityUnited States,19.5,23.7,,,-4.2,-0.2153846154,0.0463905325,,,0.2153846154
+Tokyo University of ScienceJapan,24.1,23.7,,,0.4,0.0165975104,0.0002754774,,,0.0165975104
+Vrije Universiteit BrusselBelgium,24.5,23.7,,,0.8,0.0326530612,0.0010662224,,,0.0326530612
+"Iran University of Science and TechnologyIran, Islamic Republic of",26,23.7,,,2.3,0.0884615385,0.0078254438,,,0.0884615385
+University of Southern DenmarkDenmark,14.7,23.6,,,-8.9,-0.6054421769,0.3665602295,,,0.6054421769
+National Central UniversityTaiwan,23.2,23.6,,,-0.4,-0.0172413793,0.0002972652,,,0.0172413793
+Istanbul UniversityTurkey,23.3,23.6,,,-0.3,-0.0128755365,0.0001657794,,,0.0128755365
+Murdoch UniversityAustralia,19.6,23.5,,,-3.9,-0.1989795918,0.039592878,,,0.1989795918
+Curtin UniversityAustralia,20.2,23.5,,,-3.3,-0.1633663366,0.0266885599,,,0.1633663366
+University of WaikatoNew Zealand,18.2,23.2,,,-5,-0.2747252747,0.0754739766,,,0.2747252747
+Chung Yuan Christian UniversityTaiwan,22.1,23.2,,,-1.1,-0.0497737557,0.0024774268,,,0.0497737557
+University of KaiserslauternGermany,22.6,23.2,,,-0.6,-0.0265486726,0.000704832,,,0.0265486726
+Southern Cross UniversityAustralia,18.3,23.1,,,-4.8,-0.262295082,0.06879871,,,0.262295082
+University of TartuEstonia,22.8,23.1,,,-0.3,-0.0131578947,0.0001731302,,,0.0131578947
+Bar-Ilan UniversityIsrael,21.3,23,,,-1.7,-0.0798122066,0.0063699883,,,0.0798122066
+Pontifical Catholic University of ChileChile,21.3,23,,,-1.7,-0.0798122066,0.0063699883,,,0.0798122066
+Indian Institute of Technology KanpurIndia,15,22.9,15,22.9,-7.9,-0.5266666667,0.2773777778,,,0.5266666667
+Tokyo University of Agriculture and TechnologyJapan,24.1,22.9,,,1.2,0.0497925311,0.0024792962,,,0.0497925311
+State University of New York AlbanyUnited States,35.3,22.8,,,12.5,0.3541076487,0.1253922269,,,0.3541076487
+Tomsk State UniversityRussian Federation,20.8,22.7,,,-1.9,-0.0913461538,0.0083441198,,,0.0913461538
+University of TurkuFinland,21.2,22.7,,,-1.5,-0.070754717,0.00500623,,,0.070754717
+University of Milan-BicoccaItaly,25.5,22.7,,,2.8,0.1098039216,0.0120569012,,,0.1098039216
+Suez Canal UniversityEgypt,5.9,22.5,,,-16.6,-2.813559322,7.9161160586,,,2.813559322
+University of VictoriaCanada,30,22.5,,,7.5,0.25,0.0625,,,0.25
+University of Technology SydneyAustralia,35.4,22.5,,,12.9,0.3644067797,0.1327923011,,,0.3644067797
+University of Science and Technology BeijingChina,22.4,22.4,,,0,0,0,,,0
+University of KentUnited Kingdom,19.1,22.3,,,-3.2,-0.167539267,0.028069406,,,0.167539267
+Indian Institute of Technology MadrasIndia,20.7,22.3,20.7,22.3,-1.6,-0.077294686,0.0059744685,,,0.077294686
+James Cook UniversityAustralia,22.8,22.3,,,0.5,0.0219298246,0.0004809172,,,0.0219298246
+Swedish University of Agricultural SciencesSweden,32.8,22.3,,,10.5,0.3201219512,0.1024780637,,,0.3201219512
+University of MinhoPortugal,20.1,22.1,,,-2,-0.0995024876,0.009900745,,,0.0995024876
+University of PaviaItaly,22.5,22.1,,,0.4,0.0177777778,0.0003160494,,,0.0177777778
+University of MacauMacao,17,22,,,-5,-0.2941176471,0.0865051903,,,0.2941176471
+Clemson UniversityUnited States,19.7,22,,,-2.3,-0.116751269,0.0136308588,,,0.116751269
+Johannes Gutenberg University of MainzGermany,21.7,22,,,-0.3,-0.0138248848,0.0001911274,,,0.0138248848
+Bangor UniversityUnited Kingdom,22.1,21.9,,,0.2,0.0090497738,8.18984050285644E-005,,,0.0090497738
+China Agricultural UniversityChina,24.9,21.8,,,3.1,0.124497992,0.01549975,,,0.124497992
+Nova University of LisbonPortugal,21.9,21.7,,,0.2,0.0091324201,8.34010967244213E-005,,,0.0091324201
+Xiamen UniversityChina,15.6,21.6,,,-6,-0.3846153846,0.1479289941,,,0.3846153846
+Temple UniversityUnited States,18.2,21.6,,,-3.4,-0.1868131868,0.0348991668,,,0.1868131868
+National Chung Cheng UniversityTaiwan,20.3,21.6,,,-1.3,-0.0640394089,0.0041010459,,,0.0640394089
+"University of Tennessee, KnoxvilleUnited States",23.2,21.5,,,1.7,0.0732758621,0.005369352,,,0.0732758621
+Charles University in PragueCzech Republic,21.5,21.4,,,0.1,0.0046511628,2.16333153055712E-005,,,0.0046511628
+American UniversityUnited States,16.5,21.3,,,-4.8,-0.2909090909,0.0846280992,,,0.2909090909
+Aberystwyth UniversityUnited Kingdom,18.9,21.3,,,-2.4,-0.126984127,0.0161249685,,,0.126984127
+University of StrasbourgFrance,23.4,21.3,,,2.1,0.0897435897,0.0080539119,,,0.0897435897
+Sichuan UniversityChina,18.4,21.2,,,-2.8,-0.152173913,0.0231568998,,,0.152173913
+Aix-Marseille UniversityFrance,22.1,21.2,,,0.9,0.0407239819,0.0016584427,,,0.0407239819
+Taipei Medical UniversityTaiwan,21.7,21.1,,,0.6,0.0276497696,0.0007645098,,,0.0276497696
+New Mexico State UniversityUnited States,19.2,21,,,-1.8,-0.09375,0.0087890625,,,0.09375
+University of OttawaCanada,36.7,21,,,15.7,0.4277929155,0.1830067786,,,0.4277929155
+University of Texas at El PasoUnited States,18.7,20.9,,,-2.2,-0.1176470588,0.0138408304,,,0.1176470588
+Czech Technical University in PragueCzech Republic,9.3,20.8,,,-11.5,-1.2365591398,1.5290785062,,,1.2365591398
+University of HullUnited Kingdom,16.1,20.8,,,-4.7,-0.2919254658,0.0852204776,,,0.2919254658
+Keio UniversityJapan,17.5,20.7,,,-3.2,-0.1828571429,0.0334367347,,,0.1828571429
+RMIT UniversityAustralia,17.7,20.7,,,-3,-0.1694915254,0.0287273772,,,0.1694915254
+"St Georgeâ€™s, University of LondonUnited Kingdom",18.1,20.7,,,-2.6,-0.1436464088,0.0206342908,,,0.1436464088
+Montana State UniversityUnited States,21.8,20.7,,,1.1,0.0504587156,0.002546082,,,0.0504587156
+UniversitÃ© du QuÃ©bec Ã  MontrÃ©alCanada,24.5,20.7,,,3.8,0.1551020408,0.0240566431,,,0.1551020408
+University of Rome IIIItaly,21,20.6,,,0.4,0.019047619,0.0003628118,,,0.019047619
+Athens University of Economics and BusinessGreece,18.8,20.5,,,-1.7,-0.0904255319,0.0081767768,,,0.0904255319
+University of Eastern FinlandFinland,20.7,20.5,,,0.2,0.0096618357,9.33510700366396E-005,,,0.0096618357
+"Binghamton University, State University of New YorkUnited States",17.4,20.4,,,-3,-0.1724137931,0.0297265161,,,0.1724137931
+Keele UniversityUnited Kingdom,17.6,20.4,,,-2.8,-0.1590909091,0.0253099174,,,0.1590909091
+Plymouth UniversityUnited Kingdom,18,20.4,,,-2.4,-0.1333333333,0.0177777778,,,0.1333333333
+University of TurinItaly,22.3,20.4,,,1.9,0.0852017937,0.0072593457,,,0.0852017937
+University of PaduaItaly,22.6,20.4,,,2.2,0.0973451327,0.0094760749,,,0.0973451327
+Wake Forest UniversityUnited States,19.5,20.3,,,-0.8,-0.041025641,0.0016831032,,,0.041025641
+China University of Geosciences (Wuhan)China,21.4,20.3,,,1.1,0.0514018692,0.0026421522,,,0.0514018692
+Louisiana State UniversityUnited States,27.7,20.2,,,7.5,0.2707581227,0.073309961,,,0.2707581227
+Florida International UniversityUnited States,18.1,20.1,,,-2,-0.1104972376,0.0122096395,,,0.1104972376
+Dalian University of TechnologyChina,19,20.1,,,-1.1,-0.0578947368,0.0033518006,,,0.0578947368
+Waseda UniversityJapan,14.6,20,,,-5.4,-0.3698630137,0.1367986489,,,0.3698630137
+"Isfahan University of TechnologyIran, Islamic Republic of",23,20,,,3,0.1304347826,0.0170132325,,,0.1304347826
+Bilkent UniversityTurkey,18.6,19.9,,,-1.3,-0.0698924731,0.0048849578,,,0.0698924731
+University of ParmaItaly,16.6,19.8,,,-3.2,-0.1927710843,0.037160691,,,0.1927710843
+"Inha UniversityKorea, Republic of",20,19.8,,,0.2,0.01,0.0001,,,0.01
+University of GreifswaldGermany,23.5,19.7,,,3.8,0.1617021277,0.0261475781,,,0.1617021277
+Massey UniversityNew Zealand,17.1,19.6,,,-2.5,-0.1461988304,0.021374098,,,0.1461988304
+University of BordeauxFrance,22,19.6,,,2.4,0.1090909091,0.0119008264,,,0.1090909091
+Middle East Technical UniversityTurkey,17.3,19.5,,,-2.2,-0.1271676301,0.0161716061,,,0.1271676301
+Tokyo Medical and Dental University (TMDU)Japan,18.3,19.5,,,-1.2,-0.0655737705,0.0042999194,,,0.0655737705
+Renmin University of ChinaChina,13.7,19.4,,,-5.7,-0.4160583942,0.1731045874,,,0.4160583942
+South China University of TechnologyChina,22.1,19.4,,,2.7,0.1221719457,0.0149259843,,,0.1221719457
+Indian Institute of Technology KharagpurIndia,30.5,19.4,30.5,19.4,11.1,0.3639344262,0.1324482666,,,0.3639344262
+University of MissouriUnited States,21,19.3,,,1.7,0.080952381,0.006553288,,,0.080952381
+Boston CollegeUnited States,29.3,19.3,,,10,0.3412969283,0.1164835933,,,0.3412969283
+Kobe UniversityJapan,15.4,19.2,,,-3.8,-0.2467532468,0.0608871648,,,0.2467532468
+University of ArkansasUnited States,17.4,19.2,,,-1.8,-0.1034482759,0.0107015458,,,0.1034482759
+Edith Cowan UniversityAustralia,16.1,19.1,,,-3,-0.1863354037,0.0347208827,,,0.1863354037
+University of CreteGreece,19.2,19.1,,,0.1,0.0052083333,2.712673611111E-005,,,0.0052083333
+University of LimerickIreland,16.3,19,,,-2.7,-0.1656441718,0.0274379916,,,0.1656441718
+Polytechnic University of TurinItaly,18.6,19,,,-0.4,-0.0215053763,0.0004624812,,,0.0215053763
+Charles Darwin UniversityAustralia,22.6,19,,,3.6,0.1592920354,0.0253739525,,,0.1592920354
+"Amirkabir University of TechnologyIran, Islamic Republic of",25.7,18.9,,,6.8,0.2645914397,0.07000863,,,0.2645914397
+"University of UlsanKorea, Republic of",20.5,18.8,,,1.7,0.0829268293,0.006876859,,,0.0829268293
+SÃ£o Paulo State University (UNESP)Brazil,22.6,18.8,,,3.8,0.1681415929,0.0282715953,,,0.1681415929
+East China Normal UniversityChina,14.7,18.7,,,-4,-0.2721088435,0.0740432227,,,0.2721088435
+University of InnsbruckAustria,16.9,18.7,,,-1.8,-0.1065088757,0.0113441406,,,0.1065088757
+"University of Maryland, Baltimore CountyUnited States",18.2,18.7,,,-0.5,-0.0274725275,0.0007547398,,,0.0274725275
+National Taiwan Ocean UniversityTaiwan,21,18.7,,,2.3,0.1095238095,0.0119954649,,,0.1095238095
+Universiti Kebangsaan MalaysiaMalaysia,15.9,18.6,,,-2.7,-0.1698113208,0.0288358847,,,0.1698113208
+Royal College of Surgeons in IrelandIreland,20.1,18.6,,,1.5,0.0746268657,0.0055691691,,,0.0746268657
+Lehigh UniversityUnited States,15,18.5,,,-3.5,-0.2333333333,0.0544444444,,,0.2333333333
+Miami UniversityUnited States,15.7,18.5,,,-2.8,-0.178343949,0.0318065642,,,0.178343949
+University of PisaItaly,18.9,18.5,,,0.4,0.0211640212,0.0004479158,,,0.0211640212
+University of AntioquiaColombia,21.1,18.5,,,2.6,0.1232227488,0.0151838458,,,0.1232227488
+Kaohsiung Medical UniversityTaiwan,22.2,18.5,,,3.7,0.1666666667,0.0277777778,,,0.1666666667
+"Asia University, TaiwanTaiwan",15.9,18.4,,,-2.5,-0.1572327044,0.0247221233,,,0.1572327044
+University of ValenciaSpain,16.9,18.4,,,-1.5,-0.0887573964,0.0078778754,,,0.0887573964
+University of ChileChile,19.6,18.4,,,1.2,0.0612244898,0.0037484382,,,0.0612244898
+Auburn UniversityUnited States,19.4,18.3,,,1.1,0.0567010309,0.0032150069,,,0.0567010309
+Bauman Moscow State Technical UniversityRussian Federation,23.7,18.3,,,5.4,0.2278481013,0.0519147573,,,0.2278481013
+Royal Veterinary CollegeUnited Kingdom,27.8,18.3,,,9.5,0.3417266187,0.1167770819,,,0.3417266187
+Capital Medical UniversityChina,14.9,18.2,,,-3.3,-0.2214765101,0.0490518445,,,0.2214765101
+Montpellier UniversityFrance,16.7,18.1,,,-1.4,-0.0838323353,0.0070278604,,,0.0838323353
+Masaryk UniversityCzech Republic,22.9,18.1,,,4.8,0.2096069869,0.043935089,,,0.2096069869
+"Kyungpook National UniversityKorea, Republic of",16,17.9,,,-1.9,-0.11875,0.0141015625,,,0.11875
+Kansas State UniversityUnited States,17.5,17.9,,,-0.4,-0.0228571429,0.000522449,,,0.0228571429
+University of TriesteItaly,18.5,17.9,,,0.6,0.0324324324,0.0010518627,,,0.0324324324
+Tokushima UniversityJapan,21.6,17.9,,,3.7,0.1712962963,0.0293424211,,,0.1712962963
+University of Wisconsin-MilwaukeeUnited States,13.8,17.8,,,-4,-0.2898550725,0.084015963,,,0.2898550725
+New Jersey Institute of TechnologyUnited States,16.6,17.8,,,-1.2,-0.0722891566,0.0052257222,,,0.0722891566
+University of NeuchÃ¢telSwitzerland,14.7,17.6,,,-2.9,-0.1972789116,0.0389189689,,,0.1972789116
+Polytechnic University of CataloniaSpain,14.8,17.5,,,-2.7,-0.1824324324,0.0332815924,,,0.1824324324
+Chongqing UniversityChina,15.5,17.5,,,-2,-0.1290322581,0.0166493236,,,0.1290322581
+University of Texas at ArlingtonUnited States,10.1,17.4,,,-7.3,-0.7227722772,0.5223997647,,,0.7227722772
+University of DelhiIndia,10.8,17.3,10.8,17.3,-6.5,-0.6018518519,0.3622256516,,,0.6018518519
+Yokohama National UniversityJapan,16,17.2,,,-1.2,-0.075,0.005625,,,0.075
+University of FerraraItaly,17.2,17.2,,,0,0,0,,,0
+Toyohashi University of TechnologyJapan,18.9,17.2,,,1.7,0.0899470899,0.008090479,,,0.0899470899
+Kent State UniversityUnited States,14.2,17.1,,,-2.9,-0.2042253521,0.0417079944,,,0.2042253521
+University of MiamiUnited States,22.3,17.1,,,5.2,0.2331838565,0.0543747109,,,0.2331838565
+University of Rennes 1France,10.3,17,,,-6.7,-0.6504854369,0.4231313036,,,0.6504854369
+Hunan UniversityChina,15,17,,,-2,-0.1333333333,0.0177777778,,,0.1333333333
+University of GrazAustria,16.3,17,,,-0.7,-0.0429447853,0.0018442546,,,0.0429447853
+UiT The Arctic University of NorwayNorway,18.7,17,,,1.7,0.0909090909,0.0082644628,,,0.0909090909
+University of Bari Aldo MoroItaly,21.6,17,,,4.6,0.212962963,0.0453532236,,,0.212962963
+Claude Bernard University Lyon 1France,13.2,16.9,,,-3.7,-0.2803030303,0.0785697888,,,0.2803030303
+Chulalongkorn UniversityThailand,14.1,16.8,,,-2.7,-0.1914893617,0.0366681756,,,0.1914893617
+University of GranadaSpain,14.7,16.8,,,-2.1,-0.1428571429,0.0204081633,,,0.1428571429
+Memorial University of NewfoundlandCanada,15.8,16.8,,,-1,-0.0632911392,0.0040057683,,,0.0632911392
+King Fahd University of Petroleum and MineralsSaudi Arabia,16.1,16.8,,,-0.7,-0.0434782609,0.0018903592,,,0.0434782609
+William & MaryUnited States,17.5,16.8,,,0.7,0.04,0.0016,,,0.04
+University of GenoaItaly,14.2,16.7,,,-2.5,-0.176056338,0.0309958342,,,0.176056338
+Monterrey Institute of Technology and Higher EducationMexico,12.7,16.6,,,-3.9,-0.3070866142,0.0943021886,,,0.3070866142
+Texas Tech UniversityUnited States,17.2,16.6,,,0.6,0.0348837209,0.001216874,,,0.0348837209
+Indian Institute of Technology GuwahatiIndia,20.7,16.6,20.7,16.6,4.1,0.1980676329,0.0392307872,,,0.1980676329
+University of WarsawPoland,15.8,16.5,,,-0.7,-0.0443037975,0.0019628265,,,0.0443037975
+National and Kapodistrian University of AthensGreece,16.3,16.4,,,-0.1,-0.0061349693,3.76378486205712E-005,,,0.0061349693
+Chiba UniversityJapan,16.8,16.3,,,0.5,0.0297619048,0.000885771,,,0.0297619048
+Rochester Institute of TechnologyUnited States,13.4,16.2,,,-2.8,-0.2089552239,0.0436622856,,,0.2089552239
+Tomsk Polytechnic UniversityRussian Federation,15.1,16.2,,,-1.1,-0.0728476821,0.0053067848,,,0.0728476821
+University of Texas at San AntonioUnited States,16.6,16.2,,,0.4,0.0240963855,0.0005806358,,,0.0240963855
+Drexel UniversityUnited States,14.6,16,,,-1.4,-0.095890411,0.0091949709,,,0.095890411
+Kanazawa UniversityJapan,14.8,16,,,-1.2,-0.0810810811,0.0065741417,,,0.0810810811
+United Arab Emirates UniversityUnited Arab Emirates,14.8,16,,,-1.2,-0.0810810811,0.0065741417,,,0.0810810811
+Universiti Sains MalaysiaMalaysia,16.6,16,,,0.6,0.0361445783,0.0013064305,,,0.0361445783
+Jilin UniversityChina,14.4,15.9,,,-1.5,-0.1041666667,0.0108506944,,,0.1041666667
+Carlos III University of MadridSpain,17.4,15.9,,,1.5,0.0862068966,0.007431629,,,0.0862068966
+Peter the Great St Petersburg Polytechnic UniversityRussian Federation,17.8,15.9,,,1.9,0.106741573,0.0113937634,,,0.106741573
+Soochow UniversityChina,13.7,15.8,,,-2.1,-0.1532846715,0.0234961905,,,0.1532846715
+The Open UniversityUnited Kingdom,13.8,15.8,,,-2,-0.1449275362,0.0210039908,,,0.1449275362
+University of Rovira i VirgiliSpain,14.8,15.8,,,-1,-0.0675675676,0.0045653762,,,0.0675675676
+Aristotle University of ThessalonikiGreece,15,15.8,,,-0.8,-0.0533333333,0.0028444444,,,0.0533333333
+Indian Institute of Technology RoorkeeIndia,17.5,15.8,17.5,15.8,1.7,0.0971428571,0.0094367347,,,0.0971428571
+National Yang-Ming UniversityTaiwan,18.5,15.8,,,2.7,0.1459459459,0.0213002191,,,0.1459459459
+"Sejong UniversityKorea, Republic of",12.2,15.7,,,-3.5,-0.2868852459,0.0823031443,,,0.2868852459
+Wayne State UniversityUnited States,14.2,15.7,,,-1.5,-0.1056338028,0.0111585003,,,0.1056338028
+Universiti Teknologi MalaysiaMalaysia,14.6,15.7,,,-1.1,-0.0753424658,0.0056764871,,,0.0753424658
+Tulane UniversityUnited States,19.3,15.7,,,3.6,0.1865284974,0.0347928803,,,0.1865284974
+Federal University of Rio de JaneiroBrazil,19.7,15.7,,,4,0.2030456853,0.0412275503,,,0.2030456853
+Feng Chia UniversityTaiwan,13.7,15.6,,,-1.9,-0.1386861314,0.019233843,,,0.1386861314
+University of NantesFrance,12.2,15.5,,,-3.3,-0.2704918033,0.0731658156,,,0.2704918033
+Johannes Kepler University of LinzAustria,13.8,15.5,,,-1.7,-0.1231884058,0.0151753833,,,0.1231884058
+University of North Carolina at GreensboroUnited States,15.3,15.5,,,-0.2,-0.0130718954,0.0001708744,,,0.0130718954
+University of MontanaUnited States,13.6,15.4,,,-1.8,-0.1323529412,0.017517301,,,0.1323529412
+Graz University of TechnologyAustria,15.8,15.4,,,0.4,0.0253164557,0.0006409229,,,0.0253164557
+National Chung Hsing UniversityTaiwan,16.8,15.4,,,1.4,0.0833333333,0.0069444444,,,0.0833333333
+Jadavpur UniversityIndia,22.2,15.4,22.2,15.4,6.8,0.3063063063,0.0938235533,,,0.3063063063
+University of TulsaUnited States,12.9,15.3,,,-2.4,-0.1860465116,0.0346133045,,,0.1860465116
+Ulster UniversityUnited Kingdom,13.2,15.3,,,-2.1,-0.1590909091,0.0253099174,,,0.1590909091
+Oregon Health and Science UniversityUnited States,15.7,15.3,,,0.4,0.025477707,0.0006491136,,,0.025477707
+University of Rome II â€“ Tor VergataItaly,17.2,15.3,,,1.9,0.1104651163,0.0122025419,,,0.1104651163
+LinkÃ¶ping UniversitySweden,18.9,15.3,,,3.6,0.1904761905,0.0362811791,,,0.1904761905
+East China University of Science and TechnologyChina,17.1,15.2,,,1.9,0.1111111111,0.012345679,,,0.1111111111
+Bournemouth UniversityUnited Kingdom,12.6,14.9,,,-2.3,-0.1825396825,0.0333207357,,,0.1825396825
+University of the AndesColombia,13.8,14.9,,,-1.1,-0.0797101449,0.0063537072,,,0.0797101449
+University of Santiago de CompostelaSpain,14.1,14.9,,,-0.8,-0.0567375887,0.003219154,,,0.0567375887
+"Chonbuk National UniversityKorea, Republic of",14.7,14.9,,,-0.2,-0.0136054422,0.0001851081,,,0.0136054422
+Tampere University of TechnologyFinland,17.2,14.9,,,2.3,0.1337209302,0.0178812872,,,0.1337209302
+University of St GallenSwitzerland,11.2,14.8,,,-3.6,-0.3214285714,0.1033163265,,,0.3214285714
+I-Shou UniversityTaiwan,11.5,14.8,,,-3.3,-0.2869565217,0.0823440454,,,0.2869565217
+University of IoanninaGreece,17.7,14.8,,,2.9,0.1638418079,0.026844138,,,0.1638418079
+"Shahid Beheshti UniversityIran, Islamic Republic of",19,14.8,,,4.2,0.2210526316,0.0488642659,,,0.2210526316
+University of LjubljanaSlovenia,13.6,14.7,,,-1.1,-0.0808823529,0.006541955,,,0.0808823529
+Jagiellonian UniversityPoland,14.4,14.7,,,-0.3,-0.0208333333,0.0004340278,,,0.0208333333
+Shanghai UniversityChina,16.1,14.7,,,1.4,0.0869565217,0.0075614367,,,0.0869565217
+University of Southern QueenslandAustralia,13.1,14.6,,,-1.5,-0.1145038168,0.0131111241,,,0.1145038168
+Okayama UniversityJapan,14.9,14.6,,,0.3,0.0201342282,0.0004053871,,,0.0201342282
+University of SalfordUnited Kingdom,12.1,14.4,,,-2.3,-0.1900826446,0.0361314118,,,0.1900826446
+University of BradfordUnited Kingdom,15.9,14.4,,,1.5,0.0943396226,0.0088999644,,,0.0943396226
+University of SalamancaSpain,16.9,14.4,,,2.5,0.1479289941,0.0218829873,,,0.1479289941
+Kazan Federal UniversityRussian Federation,12.3,14.3,,,-2,-0.162601626,0.0264392888,,,0.162601626
+Federal University of Minas GeraisBrazil,15.4,14.3,,,1.1,0.0714285714,0.0051020408,,,0.0714285714
+University of the Basque CountrySpain,19.6,14.3,,,5.3,0.2704081633,0.0731205748,,,0.2704081633
+Kingston UniversityUnited Kingdom,12.1,14.2,,,-2.1,-0.173553719,0.0301208934,,,0.173553719
+Otto von Guericke University of MagdeburgGermany,14.4,14.2,,,0.2,0.0138888889,0.0001929012,,,0.0138888889
+Ohio UniversityUnited States,14.9,14.2,,,0.7,0.0469798658,0.0022071078,,,0.0469798658
+Federal University of LavrasBrazil,16.4,14.2,,,2.2,0.1341463415,0.0179952409,,,0.1341463415
+"Tehran University of Medical SciencesIran, Islamic Republic of",20,14.2,,,5.8,0.29,0.0841,,,0.29
+University of ToledoUnited States,13.4,14.1,,,-0.7,-0.052238806,0.0027288928,,,0.052238806
+University of BresciaItaly,14.8,14.1,,,0.7,0.0472972973,0.0022370343,,,0.0472972973
+Yuan Ze UniversityTaiwan,18.3,14.1,,,4.2,0.2295081967,0.0526740124,,,0.2295081967
+University of WestminsterUnited Kingdom,11.7,14,,,-2.3,-0.1965811966,0.0386441668,,,0.1965811966
+Hiroshima UniversityJapan,18.9,14,,,4.9,0.2592592593,0.0672153635,,,0.2592592593
+University of FlorenceItaly,20.4,14,,,6.4,0.3137254902,0.0984236832,,,0.3137254902
+University of SevilleSpain,14.9,13.9,,,1,0.067114094,0.0045043016,,,0.067114094
+National University of Science and Technology (MISiS)Russian Federation,17.5,13.9,,,3.6,0.2057142857,0.0423183673,,,0.2057142857
+University of JyvÃ¤skylÃ¤Finland,25.5,13.9,,,11.6,0.4549019608,0.2069357939,,,0.4549019608
+University of SienaItaly,17.8,13.8,,,4,0.2247191011,0.0504986744,,,0.2247191011
+National Chengchi UniversityTaiwan,12.5,13.7,,,-1.2,-0.096,0.009216,,,0.096
+National Taipei University of TechnologyTaiwan,14.6,13.7,,,0.9,0.0616438356,0.0037999625,,,0.0616438356
+Technical University of MadridSpain,14.6,13.7,,,0.9,0.0616438356,0.0037999625,,,0.0616438356
+Hong Kong Baptist UniversityHong Kong,12.1,13.6,,,-1.5,-0.1239669421,0.0153678027,,,0.1239669421
+Budapest University of Technology and EconomicsHungary,13.7,13.6,,,0.1,0.0072992701,5.32793435984865E-005,,,0.0072992701
+Rush UniversityUnited States,17.4,13.6,,,3.8,0.2183908046,0.0476945435,,,0.2183908046
+University of the West of EnglandUnited Kingdom,11.2,13.4,,,-2.2,-0.1964285714,0.0385841837,,,0.1964285714
+Tokyo Metropolitan UniversityJapan,11.4,13.4,,,-2,-0.1754385965,0.0307787011,,,0.1754385965
+"Chonnam National UniversityKorea, Republic of",11.7,13.4,,,-1.7,-0.1452991453,0.0211118416,,,0.1452991453
+Xidian UniversityChina,12.1,13.4,,,-1.3,-0.1074380165,0.0115429274,,,0.1074380165
+Verona UniversityItaly,13.1,13.4,,,-0.3,-0.0229007634,0.000524445,,,0.0229007634
+Osaka City UniversityJapan,13.4,13.4,,,0,0,0,,,0
+Florida Institute of TechnologyUnited States,13.5,13.4,,,0.1,0.0074074074,5.48696844993137E-005,,,0.0074074074
+Mahidol UniversityThailand,15.1,13.4,,,1.7,0.1125827815,0.0126748827,,,0.1125827815
+UniversitÃ© de SherbrookeCanada,9.5,13.3,,,-3.8,-0.4,0.16,,,0.4
+Liverpool John Moores UniversityUnited Kingdom,11.6,13.3,,,-1.7,-0.1465517241,0.0214774078,,,0.1465517241
+Middlesex UniversityUnited Kingdom,10.6,13.2,,,-2.6,-0.2452830189,0.0601637593,,,0.2452830189
+University of PortsmouthUnited Kingdom,10.9,13.2,,,-2.3,-0.2110091743,0.0445248716,,,0.2110091743
+Northumbria UniversityUnited Kingdom,10.9,13.2,,,-2.3,-0.2110091743,0.0445248716,,,0.2110091743
+"K.N. Toosi University of TechnologyIran, Islamic Republic of",18.1,13.2,,,4.9,0.270718232,0.0732883612,,,0.270718232
+University of MariborSlovenia,11.5,13.1,,,-1.6,-0.1391304348,0.0193572779,,,0.1391304348
+University of Nebraska Medical CenterUnited States,13.3,12.9,,,0.4,0.030075188,0.0009045169,,,0.030075188
+University of CataniaItaly,15.9,12.9,,,3,0.1886792453,0.0355998576,,,0.1886792453
+Qatar UniversityQatar,10.3,12.8,,,-2.5,-0.2427184466,0.0589122443,,,0.2427184466
+Semmelweis UniversityHungary,10.6,12.8,,,-2.2,-0.2075471698,0.0430758277,,,0.2075471698
+American University of BeirutLebanon,11.2,12.8,,,-1.6,-0.1428571429,0.0204081633,,,0.1428571429
+University of MurciaSpain,11.7,12.7,,,-1,-0.0854700855,0.0073051355,,,0.0854700855
+Tokyo University of Marine Science and TechnologyJapan,12.4,12.7,,,-0.3,-0.0241935484,0.0005853278,,,0.0241935484
+Vilnius UniversityLithuania,13.6,12.7,,,0.9,0.0661764706,0.0043793253,,,0.0661764706
+University of HuddersfieldUnited Kingdom,5.4,12.6,,,-7.2,-1.3333333333,1.7777777778,,,1.3333333333
+PalackÃ½ University in OlomoucCzech Republic,11.8,12.6,,,-0.8,-0.0677966102,0.0045963804,,,0.0677966102
+"University of TehranIran, Islamic Republic of",17.7,12.6,,,5.1,0.2881355932,0.0830221201,,,0.2881355932
+Auckland University of TechnologyNew Zealand,9.8,12.5,,,-2.7,-0.2755102041,0.0759058726,,,0.2755102041
+University of ZaragozaSpain,12.7,12.5,,,0.2,0.0157480315,0.0002480005,,,0.0157480315
+University of BelgradeSerbia,13.2,12.5,,,0.7,0.053030303,0.002812213,,,0.053030303
+De Montfort UniversityUnited Kingdom,10.1,12.4,,,-2.3,-0.2277227723,0.051857661,,,0.2277227723
+University of OviedoSpain,10.8,12.4,,,-1.6,-0.1481481481,0.0219478738,,,0.1481481481
+King Abdulaziz UniversitySaudi Arabia,11.8,12.4,,,-0.6,-0.0508474576,0.0025854639,,,0.0508474576
+"Ajou UniversityKorea, Republic of",11.9,12.4,,,-0.5,-0.0420168067,0.001765412,,,0.0420168067
+Federal University of Santa CatarinaBrazil,12.2,12.4,,,-0.2,-0.0163934426,0.000268745,,,0.0163934426
+University of Naples Federico IIItaly,14.8,12.4,,,2.4,0.1621621622,0.0262965668,,,0.1621621622
+American University of SharjahUnited Arab Emirates,10.6,12.3,,,-1.7,-0.1603773585,0.0257208971,,,0.1603773585
+University of BrightonUnited Kingdom,10.7,12.3,,,-1.6,-0.1495327103,0.0223600314,,,0.1495327103
+Kumamoto UniversityJapan,11.6,12.3,,,-0.7,-0.0603448276,0.0036414982,,,0.0603448276
+University of CagliariItaly,13.2,12.2,,,1,0.0757575758,0.0057392103,,,0.0757575758
+University of LincolnUnited Kingdom,11.9,12.1,,,-0.2,-0.0168067227,0.0002824659,,,0.0168067227
+University of PardubiceCzech Republic,11.9,12.1,,,-0.2,-0.0168067227,0.0002824659,,,0.0168067227
+University of LatviaLatvia,10.2,12,,,-1.8,-0.1764705882,0.0311418685,,,0.1764705882
+Brno University of TechnologyCzech Republic,14.7,12,,,2.7,0.1836734694,0.0337359434,,,0.1836734694
+Gifu UniversityJapan,16.9,12,,,4.9,0.2899408284,0.084065684,,,0.2899408284
+National Institute of Applied Sciences of Lyon (INSA Lyon)France,10.6,11.9,,,-1.3,-0.1226415094,0.0150409398,,,0.1226415094
+Saint Louis UniversityUnited States,10.9,11.9,,,-1,-0.0917431193,0.0084167999,,,0.0917431193
+University of ReginaCanada,15.8,11.9,,,3.9,0.246835443,0.0609277359,,,0.246835443
+Pontifical Catholic University of Rio Grande do Sul (PUCRS)Brazil,10.9,11.8,,,-0.9,-0.0825688073,0.0068176079,,,0.0825688073
+Cairo UniversityEgypt,11.1,11.8,,,-0.7,-0.0630630631,0.0039769499,,,0.0630630631
+Makerere UniversityUganda,11.8,11.8,,,0,0,0,,,0
+Oakland UniversityUnited States,11.9,11.8,,,0.1,0.0084033613,7.06164818868719E-005,,,0.0084033613
+EÃ¶tvÃ¶s LorÃ¡nd UniversityHungary,12.1,11.8,,,0.3,0.0247933884,0.0006147121,,,0.0247933884
+University of SalentoItaly,13.2,11.8,,,1.4,0.1060606061,0.0112488522,,,0.1060606061
+Comenius University in BratislavaSlovakia,10.3,11.7,,,-1.4,-0.1359223301,0.0184748798,,,0.1359223301
+University of VigoSpain,10.5,11.7,,,-1.2,-0.1142857143,0.0130612245,,,0.1142857143
+Alexandru Ioan Cuza UniversityRomania,13.6,11.7,,,1.9,0.1397058824,0.0195177336,,,0.1397058824
+VÅ B - Technical University of OstravaCzech Republic,15.7,11.7,,,4,0.2547770701,0.0649113554,,,0.2547770701
+Chiang Mai UniversityThailand,9.4,11.5,,,-2.1,-0.2234042553,0.0499094613,,,0.2234042553
+University of HertfordshireUnited Kingdom,9.5,11.5,,,-2,-0.2105263158,0.0443213296,,,0.2105263158
+Osaka Prefecture UniversityJapan,10.2,11.5,,,-1.3,-0.1274509804,0.0162437524,,,0.1274509804
+University of AlcalÃ¡Spain,11.2,11.5,,,-0.3,-0.0267857143,0.0007174745,,,0.0267857143
+BabeÅŸ-Bolyai UniversityRomania,12.5,11.5,,,1,0.08,0.0064,,,0.08
+Shinshu UniversityJapan,8.3,11.4,,,-3.1,-0.3734939759,0.13949775,,,0.3734939759
+Manchester Metropolitan UniversityUnited Kingdom,10.6,11.4,,,-0.8,-0.0754716981,0.0056959772,,,0.0754716981
+Ocean University of ChinaChina,10.7,11.4,,,-0.7,-0.0654205607,0.0042798498,,,0.0654205607
+"Yeungnam UniversityKorea, Republic of",10.9,11.4,,,-0.5,-0.0458715596,0.0021042,,,0.0458715596
+King Mongkutâ€™s University of Technology ThonburiThailand,11.4,11.4,,,0,0,0,,,0
+University of PatrasGreece,12.1,11.4,,,0.7,0.0578512397,0.0033467659,,,0.0578512397
+Savitribai Phule Pune UniversityIndia,12.4,11.4,12.4,11.4,1,0.0806451613,0.006503642,,,0.0806451613
+Tallinn University of TechnologyEstonia,15,11.4,,,3.6,0.24,0.0576,,,0.24
+Juntendo UniversityJapan,10.5,11.3,,,-0.8,-0.0761904762,0.0058049887,,,0.0761904762
+University of IbadanNigeria,11.1,11.3,,,-0.2,-0.018018018,0.000324649,,,0.018018018
+Flinders UniversityAustralia,25.7,11.3,,,14.4,0.560311284,0.313948735,,,0.560311284
+University of GreenwichUnited Kingdom,9.5,11.2,,,-1.7,-0.1789473684,0.0320221607,,,0.1789473684
+Ural Federal UniversityRussian Federation,10.6,11.2,,,-0.6,-0.0566037736,0.0032039872,,,0.0566037736
+University of CalcuttaIndia,8.7,11.1,8.7,11.1,-2.4,-0.275862069,0.0760998811,,,0.275862069
+University of PalermoItaly,9.1,11.1,,,-2,-0.2197802198,0.048303345,,,0.2197802198
+University of Central LancashireUnited Kingdom,9.4,11.1,,,-1.7,-0.1808510638,0.0327071073,,,0.1808510638
+University of West BohemiaCzech Republic,9.7,11.1,,,-1.4,-0.1443298969,0.0208311191,,,0.1443298969
+AGH University of Science and TechnologyPoland,3.7,11,,,-7.3,-1.972972973,3.8926223521,,,1.972972973
+Saitama UniversityJapan,9.6,11,,,-1.4,-0.1458333333,0.0212673611,,,0.1458333333
+University of SzegedHungary,10.5,11,,,-0.5,-0.0476190476,0.0022675737,,,0.0476190476
+University of A CoruÃ±aSpain,10,10.9,,,-0.9,-0.09,0.0081,,,0.09
+Suranaree University of TechnologyThailand,11.6,10.9,,,0.7,0.0603448276,0.0036414982,,,0.0603448276
+Rio de Janeiro State University (UERJ)Brazil,9.1,10.8,,,-1.7,-0.1868131868,0.0348991668,,,0.1868131868
+Federico Santa MarÃ­a Technical UniversityChile,10.1,10.8,,,-0.7,-0.0693069307,0.0048034506,,,0.0693069307
+University of Castilla-La ManchaSpain,10.3,10.8,,,-0.5,-0.0485436893,0.0023564898,,,0.0485436893
+Nagasaki UniversityJapan,10.8,10.8,,,0,0,0,,,0
+"University of Santiago, Chile (USACH)Chile",11.3,10.8,,,0.5,0.0442477876,0.0019578667,,,0.0442477876
+Federal University of Rio Grande do SulBrazil,13.7,10.8,,,2.9,0.2116788321,0.044807928,,,0.2116788321
+Pontifical Catholic University of ValparaÃ­soChile,8,10.7,,,-2.7,-0.3375,0.11390625,,,0.3375
+Glasgow Caledonian UniversityUnited Kingdom,10.4,10.7,,,-0.3,-0.0288461538,0.0008321006,,,0.0288461538
+Taras Shevchenko National University of KyivUkraine,11,10.7,,,0.3,0.0272727273,0.0007438017,,,0.0272727273
+Nottingham Trent UniversityUnited Kingdom,8.9,10.6,,,-1.7,-0.191011236,0.0364852923,,,0.191011236
+Niigata UniversityJapan,10.1,10.6,,,-0.5,-0.0495049505,0.0024507401,,,0.0495049505
+Hacettepe UniversityTurkey,11.8,10.5,,,1.3,0.1101694915,0.0121373169,,,0.1101694915
+Kyushu Institute of TechnologyJapan,12.5,10.5,,,2,0.16,0.0256,,,0.16
+Dublin Institute of TechnologyIreland,8.8,10.4,,,-1.6,-0.1818181818,0.0330578512,,,0.1818181818
+Sophia UniversityJapan,9.4,10.4,,,-1,-0.1063829787,0.0113173382,,,0.1063829787
+Adam Mickiewicz UniversityPoland,11,10.4,,,0.6,0.0545454545,0.0029752066,,,0.0545454545
+Sheffield Hallam UniversityUnited Kingdom,9.4,10.3,,,-0.9,-0.0957446809,0.0091670439,,,0.0957446809
+Shantou UniversityChina,9.1,10.2,,,-1.1,-0.1208791209,0.0146117619,,,0.1208791209
+University of Modena and Reggio EmiliaItaly,15.6,10.2,,,5.4,0.3461538462,0.1198224852,,,0.3461538462
+Erciyes UniversityTurkey,10.9,10.1,,,0.8,0.0733944954,0.005386752,,,0.0733944954
+University of NairobiKenya,9,10,,,-1,-0.1111111111,0.012345679,,,0.1111111111
+Warsaw University of TechnologyPoland,8.5,9.9,,,-1.4,-0.1647058824,0.0271280277,,,0.1647058824
+Fu Jen Catholic UniversityTaiwan,9.8,9.9,,,-0.1,-0.0102040816,0.0001041233,,,0.0102040816
+University of South AfricaSouth Africa,11.3,9.9,,,1.4,0.1238938053,0.015349675,,,0.1238938053
+Central Queensland UniversityAustralia,11.4,9.9,,,1.5,0.1315789474,0.0173130194,,,0.1315789474
+Austral University of ChileChile,9.7,9.8,,,-0.1,-0.0103092784,0.0001062812,,,0.0103092784
+University of IndonesiaIndonesia,8,9.7,,,-1.7,-0.2125,0.04515625,,,0.2125
+University of La LagunaSpain,10,9.6,,,0.4,0.04,0.0016,,,0.04
+Sultan Qaboos UniversityOman,10.6,9.6,,,1,0.0943396226,0.0088999644,,,0.0943396226
+Slovak University of Technology in BratislavaSlovakia,8.6,9.5,,,-0.9,-0.1046511628,0.0109518659,,,0.1046511628
+Aligarh Muslim UniversityIndia,10,9.5,10,9.5,0.5,0.05,0.0025,,,0.05
+Coventry UniversityUnited Kingdom,7.7,9.2,,,-1.5,-0.1948051948,0.0379490639,,,0.1948051948
+Panjab UniversityIndia,8.8,9.2,8.8,9.2,-0.4,-0.0454545455,0.0020661157,,,0.0454545455
+GdaÅ„sk University of TechnologyPoland,9.5,9.2,,,0.3,0.0315789474,0.0009972299,,,0.0315789474
+"Chungnam National UniversityKorea, Republic of",17.7,9.2,,,8.5,0.4802259887,0.2306170002,,,0.4802259887
+University of PÃ©csHungary,9,9.1,,,-0.1,-0.0111111111,0.0001234568,,,0.0111111111
+Belarusian State UniversityBelarus,8.7,9,,,-0.3,-0.0344827586,0.0011890606,,,0.0344827586
+Anadolu UniversityTurkey,22.6,8.9,,,13.7,0.6061946903,0.3674720025,,,0.6061946903
+Federal University of ViÃ§osaBrazil,14.5,8.8,,,5.7,0.3931034483,0.154530321,,,0.3931034483
+Alexandria UniversityEgypt,8.2,8.7,,,-0.5,-0.0609756098,0.003718025,,,0.0609756098
+"University of SeoulKorea, Republic of",17.5,8.7,,,8.8,0.5028571429,0.2528653061,,,0.5028571429
+Tokai UniversityJapan,7.6,8.6,,,-1,-0.1315789474,0.0173130194,,,0.1315789474
+Universiti Teknologi MARAMalaysia,7.7,8.6,,,-0.9,-0.1168831169,0.013661663,,,0.1168831169
+Khon Kaen UniversityThailand,7.4,8.5,,,-1.1,-0.1486486486,0.0220964207,,,0.1486486486
+University of Southern MississippiUnited States,11.8,8.5,,,3.3,0.2796610169,0.0782102844,,,0.2796610169
+Tottori UniversityJapan,10.1,8.4,,,1.7,0.1683168317,0.0283305558,,,0.1683168317
+Kindai UniversityJapan,7.9,8.3,,,-0.4,-0.0506329114,0.0025636917,,,0.0506329114
+Showa UniversityJapan,7.9,8.3,,,-0.4,-0.0506329114,0.0025636917,,,0.0506329114
+V.N. Karazin Kharkiv National UniversityUkraine,8.9,8.3,,,0.6,0.0674157303,0.0045448807,,,0.0674157303
+Andhra UniversityIndia,6.9,8.1,6.9,8.1,-1.2,-0.1739130435,0.0302457467,,,0.1739130435
+National University of Sciences and TechnologyPakistan,7,8.1,,,-1.1,-0.1571428571,0.0246938776,,,0.1571428571
+YÄ±ldÄ±z Technical UniversityTurkey,7.6,8.1,,,-0.5,-0.0657894737,0.0043282548,,,0.0657894737
+Pontifical Catholic University of ParanÃ¡Brazil,6.5,8,,,-1.5,-0.2307692308,0.0532544379,,,0.2307692308
+Southern Federal UniversityRussian Federation,8.2,8,,,0.2,0.0243902439,0.000594884,,,0.0243902439
+University of Nice Sophia AntipolisFrance,16.1,8,,,8.1,0.5031055901,0.2531152348,,,0.5031055901
+West University of TimiÅŸoaraRomania,3.9,7.9,,,-4,-1.0256410256,1.0519395135,,,1.0256410256
+University of Urbino Carlo BoItaly,8.7,7.9,,,0.8,0.091954023,0.0084555423,,,0.091954023
+University of Silesia in KatowicePoland,8,7.7,,,0.3,0.0375,0.00140625,,,0.0375
+Jordan University of Science and TechnologyJordan,6.2,7.6,,,-1.4,-0.2258064516,0.0509885536,,,0.2258064516
+Prince of Songkla UniversityThailand,7,7.6,,,-0.6,-0.0857142857,0.0073469388,,,0.0857142857
+Catholic University of the Sacred HeartItaly,11.3,7.6,,,3.7,0.3274336283,0.107212781,,,0.3274336283
+University of Cergy-PontoiseFrance,6.3,7.5,,,-1.2,-0.1904761905,0.0362811791,,,0.1904761905
+"Birla Institute of Technology and Science, PilaniIndia",8.3,7.5,8.3,7.5,0.8,0.0963855422,0.0092901727,,,0.0963855422
+University of BucharestRomania,11.5,7.4,,,4.1,0.3565217391,0.1271077505,,,0.3565217391
+Marche Polytechnic UniversityItaly,11,7.2,,,3.8,0.3454545455,0.119338843,,,0.3454545455
+"University of Chemistry and Technology, PragueCzech Republic",12,7.2,,,4.8,0.4,0.16,,,0.4
+University of Marrakech Cadi AyyadMorocco,6.3,6.8,,,-0.5,-0.0793650794,0.0062988158,,,0.0793650794
+Federal University of SÃ£o CarlosBrazil,10.8,6.8,,,4,0.3703703704,0.1371742112,,,0.3703703704
+University of Electronic Science and Technology of ChinaChina,12.9,6.6,,,6.3,0.488372093,0.2385073012,,,0.488372093
+Yokohama City UniversityJapan,10.2,6.4,,,3.8,0.3725490196,0.138792772,,,0.3725490196
+Amrita UniversityIndia,5.8,6,5.8,6,-0.2,-0.0344827586,0.0011890606,,,0.0344827586
+University of JordanJordan,7.7,6,,,1.7,0.2207792208,0.0487434643,,,0.2207792208
+Ã–rebro UniversitySweden,10.4,5.9,,,4.5,0.4326923077,0.1872226331,,,0.4326923077
+Federal University of BahiaBrazil,8.1,5.2,,,2.9,0.3580246914,0.1281816796,,,0.3580246914
+University of DebrecenHungary,11.4,4.3,,,7.1,0.6228070175,0.3878885811,,,0.6228070175
+,,,,,,,,,,
+,,,,,,,47.8109477992,,,110.2482087527
+,,,,,,,0.0618511614,,,0.1426238147
+,,,,,,,0.2486989374,,,

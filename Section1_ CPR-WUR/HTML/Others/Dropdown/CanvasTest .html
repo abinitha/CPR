@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+ <!--<meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex, nofollow">-->
+
+  <script type="text/javascript" src="http://code.jquery.com/jquery-2.2.3.js"></script>
+  <script type="text/javascript" src="http://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+  <style type="text/css">
+    .button {
+      background-color: #228C3A;
+      border: none;
+      color: white;
+      padding: 10px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+  </style>
+
+  <title>Charts</title>
+
+
+</head>
+
+<body>
+  <br/>
+  <button class="button" id="chart1">Click to Render Chart 1</button>
+  <button class="button" id="chart2">Click to Render Chart 2</button>
+  <br/>
+  <br/>
+  <div id="chartContainer1" style="height: 900px; width: 100%;"></div>
+  <br/>
+  <div id="chartContainer2" style="height: 500px; width: 100%;"></div>
+
+  <script type="text/javascript" src="canvasjs.min.js"></script>
+
+  <script type='text/javascript'>
+    //<![CDATA[
+    window.onload=function(){
+    var data = [];
+    }
+    
+    function processData(csvurl,chart) {
+        var allText;
+        $.ajax({
+            type: "GET",
+            url: csvurl,
+            dataType: "text",
+            async: false,
+            success: function (dataCSV) { allText = dataCSV;}
+        });
+        var allLinesArray = allText.split('\n');
+        if (allLinesArray.length > 0) {
+        var dataPoints = [];  
+          for (var i = 0; i <= allLinesArray.length - 1; i++) {
+            var rowData = allLinesArray[i].split(',');
+            if(rowData && rowData.length > 1)
+              dataPoints.push({ x: parseInt(rowData[2]), y: parseInt(rowData[1]), name:rowData[0] });
+                }
+                chart.options.data[0].dataPoints = dataPoints;
+          }
+        }
+    document.getElementById("chart1").onclick = function() {
+      data = [];
+      var chart1 = new CanvasJS.Chart("chartContainer1", {
+       
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:false,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "THE-Rank 14-15"
+            },
+        axisX: {            
+          title: "THE-Rank 15",
+          minimum:0,
+          maximum:203
+        },
+        axisY: {            
+          title: "THE-Rank 14",
+          minimum:0,
+          maximum:200
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>THE-Rank 2015:</strong> {y} <br/> <strong>THE-Rank 2014:</strong> {x} ",
+          color:"darkblue",
+          dataPoints: []
+        },
+        {        
+          type: "line",  
+          lineThickness: 2,
+          color: "black",
+          dataPoints: [
+          
+          { x:  0, y:200},
+          { x:200, y:200}
+                ]
+        },
+        {        
+          type: "line",  
+          lineThickness: 1,
+          color: "black",
+          dataPoints: [
+          {x: 200, y:200},
+          { x:  200, y: 0 }
+                ]
+        },
+        {
+          type: "area",
+          fillOpacity: .5,
+          color:"orange",
+          dataPoints: [
+          {x:0, y:0},
+          {x:180, y:200},
+          {x:200, y:200},
+          {x:200, y:180},
+          {x:0, y:0}
+          ]
+        }    
+            ]    
+        });
+      var dataCsv1="Rank1.csv";
+       processData(dataCsv1,chart1);
+      chart1.render();
+       
+    }
+    document.getElementById("chart2").onclick = function() {
+      data = [];
+      var chart2 = new CanvasJS.Chart("chartContainer2", {
+        
+        height:600,
+        width:600,
+        zoomEnabled: true,
+        panEnabled:true,
+        animationEnabled:false,
+        theme: "theme6",
+            title: {
+                text: "QS-Rank 14-15"
+            },
+        axisX: {            
+          title: "QS-Rank 15",
+          minimum:0,
+          maximum:203
+          },
+        axisY: {            
+          title: "QS-Rank 14",
+          minimum:0,
+          maximum:200
+        },
+            data: [
+            {
+                type: "scatter",
+          toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>QS-Rank 2015:</strong> {y} <br/> <strong>QS-Rank 2014:</strong> {x} ",
+          color:"darkblue",
+                dataPoints: []
+            },
+        {        
+            type: "line",  
+            lineThickness: 2,
+            color: "black",
+            dataPoints: [
+            
+            { x:  0, y:200},
+            { x:200, y:200}
+                        ]
+        },
+        {        
+            type: "line",  
+            lineThickness: 1,
+            color: "black",
+            dataPoints: [
+            {x: 200, y:200},
+            { x:  200, y: 0 }
+                        ]
+        },
+        {
+            type: "area",
+            fillOpacity: .5,
+            color:"orange",
+            dataPoints: [
+            {x:0, y:0},
+            {x:180, y:200},
+            {x:200, y:200},
+            {x:200, y:180},
+            {x:0, y:0}
+            ]
+        }
+        
+            ]
+        
+        });
+      var dataCsv2="Rank2.csv";
+      processData(dataCsv2,chart2);
+      chart2.render();
+    }
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+#!/usr/bin/gnuplot
+
+set xlabel "Overall score" font "Verdana,16"
+set ylabel "Metric score" font "Verdana,16"
+set ylabel offset -0.10
+set title "QS 2015-16 Indian Universities" font "Verdana,16" 
+set border lw 2
+set lmargin at screen 0.15
+set xtics font ",14"
+set ytics font ",14"
+set xtics nomirror
+set ytics nomirror
+set xrange[0:50]
+set yrange[0:90]
+set key left top box 1
+
+plot "abc.txt" using 6:1 pt 7 ps 2 lc rgb "#008800" title "Teaching" ,\
+"abc.txt" using 6:2 pt 3 ps 2 lc rgb "red" title "Int_Outlook",\
+"abc.txt" using 6:3 pt 9 ps 2 lc rgb "#800080" title "Reseach" ,\
+"abc.txt" using 6:4 pt 7 ps 2 lc rgb "blue" title "Citation",\
+"abc.txt" using 6:5 pt 7 ps 2 lc rgb "red" title "Ind_Income",\
+"ab.txt" w l lc rgb "red" lw 2 notitle
+
+

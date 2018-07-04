@@ -1,0 +1,24 @@
+set xlabel "Rank score-16" font "Verdana,18"
+set ylabel "Rank score-15" font "Verdana,18"
+set ylabel offset 1,0
+set title "THE 2015-2016" font "Verdana,18" 
+set border lw 3
+set lmargin at screen 0.15
+set xtics font ",14"
+set ytics font ",14"
+set xtics nomirror
+set ytics nomirror
+set xrange[0:200]
+set yrange[0:200]
+set key left top box 1
+set datafile separator ","
+set term png
+set output "Rank.png"
+set label "Variability Index=0.3539" at 150,45 right 
+
+
+set label "σ1=0.24197" at 80,25 right
+set label "σ2=0.35399" at 80,21 right 
+
+plot "Rank.csv" using 3:2 pt 20 ps 1 title "Top200-Non Indian", "line.csv" using 1:2 with line lw 1.85 lc rgb "black" notitle,"Rank.csv" using 5:4 pt 9 title "Top200-Indian"
+

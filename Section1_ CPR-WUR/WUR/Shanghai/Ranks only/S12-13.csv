@@ -1,0 +1,513 @@
+,Rank12,Rank13
+Harvard University,1,1
+Stanford University,2,2
+Massachusetts Institute of Technology (MIT),3,4
+"University of California, Berkeley",4,3
+University of Cambridge,5,5
+California Institute of Technology,6,6
+Princeton University,7,7
+Columbia University,8,8
+University of Chicago,9,9
+University of Oxford,10,10
+Yale University,11,11
+"University of California, Los Angeles",12,12
+Cornell University,13,13
+University of Pennsylvania,14,15
+"University of California, San Diego",15,14
+University of Washington,16,16
+The Johns Hopkins University,17,17
+"University of California, San Francisco",18,18
+University of Wisconsin - Madison,19,19
+The University of Tokyo,20,21
+University College London,21,21
+University of Michigan - Ann Arbor,22,23
+Swiss Federal Institute of Technology Zurich,23,20
+"The Imperial College of Science, Technology and Medicine",24,24
+University of Illinois at Urbana-Champaign,25,25
+Kyoto University,26,26
+New York University,27,27
+University of Toronto,27,28
+"University of Minnesota, Twin Cities",29,29
+Northwestern University,30,30
+Washington University in St. Louis,31,32
+Rockefeller University,32,34
+University of Colorado at Boulder,33,33
+"University of California, Santa Barbara",34,35
+The University of Texas at Austin,35,36
+Duke University,36,31
+University of Paris Sud (Paris 11),37,39
+"University of Maryland, College Park",38,38
+University of British Columbia,39,40
+The University of Manchester,40,41
+University of North Carolina at Chapel Hill,41,43
+Karolinska Institute,42,44
+Pierre and Marie  Curie University - Paris 6,42,37
+University of Copenhagen,44,42
+"University of California, Irvine",45,45
+University of Southern California,46,47
+"University of California, Davis",47,47
+The University of Texas Southwestern Medical Center at Dallas,48,46
+Pennsylvania State University - University Park,49,54
+Vanderbilt University,50,49
+Carnegie Mellon University,51,52
+The University of Edinburgh,51,51
+Technical University Munich,53,50
+The Hebrew University of Jerusalem,53,59
+Utrecht University,53,52
+Purdue University - West Lafayette,56,57
+University of Melbourne,57,54
+University of Pittsburgh,58,61
+University of Zurich,59,60
+University of Munich,60,61
+"Rutgers, The State University of New Jersey - New Brunswick",61,61
+University of Heidelberg,62,54
+McGill University,63,58
+The Australian National University,64,66
+Brown University,65,67
+The Ohio State University - Columbus,65,65
+University of Oslo,67,69
+King's College London,68,67
+University of Geneva,69,69
+University of Bristol,70,64
+Boston University,71,75
+University of Florida,72,71
+Ecole Normale Superieure - Paris,73,71
+Leiden University,73,74
+University of Helsinki,73,76
+Uppsala University,73,73
+University of Arizona,77,78
+Technion-Israel Institute of Technology,78,77
+Arizona State University - Tempe,79,79
+Moscow State University,80,79
+Stockholm University,81,82
+University of Utah,82,85
+Osaka University,83,85
+Indiana University Bloomington,84,85
+University of Basel,85,83
+Aarhus University,86,81
+University of Nottingham,86,83
+University of Rochester,86,90
+Ghent University,89,85
+The University of Queensland,90,85
+Rice University,91,92
+McMaster University,92,92
+Texas A&M University - College Station,93,
+University of Sydney,93,97
+Weizmann Institute of Science,93,92
+Michigan State University,96,92
+Nagoya University,96,
+The University of Western Australia,96,91
+Case Western Reserve University,99,99
+University of Freiburg,99,100
+Aix Marseille University,,
+Baylor College of Medicine,,
+Catholic University of Leuven,,
+Catholic University of Louvain,,
+Emory University,,
+Georgia Institute of Technology,,
+Hokkaido University,,
+Joseph Fourier University (Grenoble 1),,
+London School of Economics and Political Science,,
+Lund University,,
+Mayo Medical School,,
+Monash University,,
+National Taiwan University,,
+National University of Singapore,,
+Radboud University Nijmegen,,
+Seoul National University,,
+Swiss Federal Institute of Technology of Lausanne,,
+Tel Aviv University,,
+The University of Georgia,,
+The University of Sheffield,,
+Tohoku University,,
+Tokyo Institute of Technology,,
+Tufts University,,
+University of Alberta,,
+University of Amsterdam,,
+University of Birmingham,,
+University of Bonn,,
+"University of California, Riverside",,
+"University of California, Santa Cruz",,
+University of Delaware,,
+University of Frankfurt,,
+University of Goettingen,,
+University of Groningen,,92
+University of Hawaii at Manoa,,
+University of Iowa,,
+University of Liverpool,,
+University of Massachusetts Amherst,,
+University of Massachusetts Medical School - Worcester,,
+University of Montreal,,
+University of Muenster,,
+University of New South Wales,,
+University of Paris Diderot (Paris 7),,
+University of Pisa,,
+University of Roma - La Sapienza,,
+University of Sao Paulo,,
+University of Strasbourg,,97
+University of Sussex,,
+University of Virginia,,
+University of Wageningen,,
+VU University Amsterdam,,
+Cardiff University,,
+Colorado State University,,
+Dartmouth College,,
+Erasmus University,,
+George Mason University,,
+Iowa State University,,
+Kyushu University,,
+Mount Sinai School of Medicine,,
+National Autonomous University of Mexico,,
+North Carolina State University - Raleigh,,
+Oregon Health and Science University,,
+Oregon State University,,
+Peking University,,
+Shanghai Jiao Tong University,,
+State University of New York at Stony Brook,,
+Technical University of Denmark,,
+The Chinese University of Hong Kong,,
+The University of Auckland,,
+The University of Glasgow,,
+The University of Hong Kong,,
+The University of Texas Health Science Center at Houston,,
+The University of Texas M. D. Anderson Cancer Center,,
+Tsinghua University,,
+University Libre Bruxelles,,
+University of Bern,,
+University of Buenos Aires,,
+University of Gothenburg,,
+University of Hamburg,,
+University of Illinois at Chicago,,
+University of Kiel,,
+University of Koeln,,
+University of Leeds,,
+University of Mainz,,
+"University of Maryland, Baltimore",,
+University of Miami,,
+University of Milan,,
+University of Nebraska - Lincoln,,
+University of Padua,,
+University of Paris Descartes (Paris 5),,
+University of Southampton,,
+University of Tennessee - Knoxville,,
+University of Tsukuba,,
+University of Tuebingen,,
+University of Vienna,,
+University of Warwick,,
+University of Waterloo,,
+University of Wuerzburg,,
+Virginia Commonwealth University,,
+Virginia Polytechnic Institute and State University,,
+Zhejiang University,,
+Autonomous University of Madrid,,
+Brandeis University,,
+Charles University in Prague,,
+City University of Hong Kong,,
+Claude Bernard University Lyon 1,,
+Complutense University of Madrid,,
+Dalhousie University,,
+Delft University of Technology,,
+Dresden University of Technology,,
+Florida State University,,
+Fudan University,,
+Karlsruhe Institute of Technology (KIT),,
+King Saud University,,
+Korea Advanced Institute of Science and Technology,,
+Lancaster University,,
+Laval University,,
+Louisiana State University - Baton Rouge,,
+Macquarie University,,
+Medical University of Vienna,,
+Nanjing University,,
+Nanyang Technological University,,
+National Cheng Kung University,,
+National Tsing Hua University,,
+Newcastle University,,
+Norwegian University of Science and Technology,,
+Paul Sabatier University (Toulouse 3),,
+Polytechnic Institute of Milan,,
+"Queen Mary, U. of London",,
+Queen's University,,
+Rensselaer Polytechnic Institute,,
+Royal Institute of Technology,,
+RWTH Aachen University,,
+Scuola Normale Superiore - Pisa,,
+Simon Fraser University,,
+State University of Campinas,,
+State University of New York at Buffalo,,
+Sungkyunkwan University,,
+Technical University of Berlin,,
+The George Washington University,,
+The Hong Kong Polytechnic University,,
+The Hong Kong University of Science and Technology,,
+The University of Adelaide,,
+The University of Alabama at Birmingham,,
+The University of Calgary,,
+The University of Connecticut - Storrs,,
+The University of New Mexico - Albuquerque,,
+The University of Reading,,
+Thomas Jefferson University,,
+Trinity College Dublin,,
+Umea University,,
+University of Aberdeen,,
+University of Antwerp,,
+University of Barcelona,,
+University of Bergen,,
+University of Bochum,,
+University of Bologna,,
+University of Bordeaux,,
+University of Cape Town,,
+University of Central Florida,,
+University of Cincinnati,,
+University of Colorado at Denver,,
+University of Duesseldorf,,
+University of Durham,,
+University of East Anglia,,
+University of Erlangen-Nuremberg,,
+University of Exeter,,
+University of Florence,,
+University of Guelph,,
+University of Houston,,
+University of Innsbruck,,
+University of Kansas - Lawrence,,
+University of Kentucky,,
+University of Lausanne,,
+University of Leicester,,
+University of Leipzig,,
+University of Liege,,
+University of Lorraine,,
+University of Maastricht,,
+University of Manitoba,,
+University of Marburg,,
+University of Medicine and Dentistry New Jersey,,
+University of Missouri - Columbia,,
+University of Montpellier 2,,
+University of Notre Dame,,
+University of Oregon,,
+University of Otago,,
+University of Ottawa,,
+University of Paris Dauphine (Paris 9),,
+University of Saskatchewan,,
+University of Science and Technology of China,,
+University of South Carolina - Columbia,,
+University of South Florida,,
+University of Southern Denmark,,
+University of St Andrews,,
+University of Stuttgart,,
+University of Turin,,
+University of York,,
+Washington State University - Pullman,,
+Western University,,
+Yeshiva University,,
+Yonsei University,,
+Aristotle University of Thessaloniki,,
+Autonomous University of Barcelona,,
+Bar-Ilan University,,
+Ben-Gurion University of the Negev,,
+Brigham Young University,,
+Chalmers University of Technology,,
+Chang Gung University,,
+China Agricultural University,,
+City University of New York City College,,
+Clemson University,,
+Drexel University,,
+Ecole Normale Superieure - Lyon,,
+Ecole Polytechnique,,
+Eindhoven University of Technology,,
+Eotvos Lorand University,,
+Federal University of Minas Gerais,,
+Federal University of Rio de Janeiro,,
+Flinders University,,
+Georgetown University,,
+Griffith University,,
+Hanyang University,,
+Hiroshima University,,
+Huazhong University of Science and Technology,,
+Indian Institute of Science,,
+Hannover Medical School,,
+Indiana University-Purdue University at Indianapolis,,
+Industrial Physics and Chemistry Higher Educational Institution - Paris,,
+Jagiellonian University,,
+James Cook University,,
+Jilin University,,
+Kanazawa University,,
+Kansas State University,,
+Keio University,,
+King Abdulaziz University,,
+King Fahd University of Petroleum & Minerals,,
+Kobe University,,
+Korea University,,
+Linkoping University,,
+Medical University of South Carolina,,
+National and Kapodistrian University of Athens,,
+National Chiao Tung University,,
+Northeastern University,,
+Okayama University,,
+Pohang University of Science and Technology,,
+Polytechnic University of Valencia,,
+Queen's University Belfast,,
+Saint Louis University,,
+San Diego State University,,
+Sao Paulo State University,,
+Shandong University,,
+Sichuan University,,
+State University of New York at Albany,,
+State University of New York Health Science Center at Brooklyn,,
+Stockholm School of Economics,,
+Sun Yat-sen University,,
+Swedish University of Agricultural Sciences,,
+Swinburne University of Technology,,
+Syracuse University,,
+Technical University Darmstadt,,
+Temple University,,
+The University of Dundee,,
+The University of Montana - Missoula,,
+The University of Texas at Dallas,,
+The University of Texas Health Science Center at San Antonio,,
+The University of Texas Medical Branch at Galveston,,
+Tokyo Medical and Dental University,,
+Tulane University,,
+University College Cork,,
+University College Dublin,,
+University of Alaska - Fairbanks,,
+University of Bath,,
+University of Bordeaux 1,,
+University of Genova,,
+University of Giessen,,
+University of Halle-Wittenberg,,
+University of Konstanz,,
+University of Naples Federico II,,
+University of Nebraska Medical Center,,
+University of New Hampshire - Durham,,
+University of Newcastle,,
+University of Oklahoma - Norman,,
+University of Oulu,,
+University of Porto,,
+University of Regensburg,,
+University of Rhode Island,,
+University of Roma - Tor Vergata,,
+University of Tasmania,,
+University of Tehran,,
+University of the Basque Country,,
+University of the Witwatersrand,,
+University of Turku,,
+University of Twente,,
+University of Ulm,,
+University of Valencia,,
+University of Vermont,,
+University of Victoria,,
+University of Warsaw,,
+University of Wollongong,,
+Wake Forest University,,
+Waseda University,,
+Wayne State University,,
+Xian Jiao Tong University,,
+Auburn University,,
+Beihang University,,
+Beijing Normal University,,
+Boston College,,
+Cairo University,,
+Carleton University,,
+Catholic University of Chile,,
+Catholic University of Korea,,
+Catholic University of the Sacred Heart,,
+Central South University,,
+Chiba University,,
+China Medical University,,
+Concordia University,,
+Curtin University of Technology,,
+Dalian University of Technology,,
+Ecole National Superieure Mines - Paris,,
+Federal University of Rio Grande do Sul,,
+Harbin Institute of Technology,,
+Istanbul University,,
+Kent State University,,
+King Abdullah University of Science and Technology,,
+Kyung Hee University,,
+Kyungpook National University,,
+La Trobe University,,
+Lanzhou University,,
+Lehigh University,,
+London School of Hygiene and Tropical Medicine,,
+Massey University,,
+Medical College of Wisconsin,,
+Medical University of Graz,,
+Medical University of Innsbruck,,
+Montana State University - Bozeman,,
+Nagasaki University,,
+Nankai University,,
+Nara Institute of Science and Technology,,
+National Central University,,
+National Sun Yat-Sen University,,
+National Yang Ming University,,
+Niigata University,,
+Osaka City University,,
+Peking Union Medical College,,
+Polytechnic University of Turin,,
+Pusan National University,,
+Saint Petersburg State University,,
+South China University of Technology,,
+Southeast University,,
+Southern Methodist University,,
+Swansea Univ,,
+Technical University of Braunschweig,,
+Technical University of Lisbon,,
+Texas Tech University,,
+The Open University,,
+The University of Texas at San Antonio,,
+The University of Tokushima,,
+Tianjin University,,
+Tilburg University,,
+Tongji University,,
+University of Arkansas at Fayetteville,,
+University of Bari,,
+University of Bayreuth,,
+University of Belgrade,,
+University of Bielefeld,,
+University of Bremen,,
+University of Canterbury,,
+University of Chile,,
+University of Coimbra,,
+University of Duisburg-Essen,,
+University of Eastern Finland,,
+University of Essex,,
+University of Ferrara,,
+University of Granada,,
+University of Graz,,
+University of Haifa,,
+University of Hannover,,
+University of Idaho,,
+University of Jena,,
+University of Jyvaskyla,,
+University of KwaZulu-Natal,,
+University of Lille 1,,
+University of Lisbon,,
+University of Ljubljana,,
+University of Louisville,,
+University of Malaya,,
+"University of Maryland, Baltimore County",,
+University of Milan - Bicocca,,
+University of Nice Sophia Antipolis,,
+University of Palermo,,
+University of Parma,,
+University of Perugia,,
+University of Pompeu Fabra,,
+University of Pavia,,
+University of Quebec,,
+University of Rennes 1,,
+University of Sherbrooke,,
+University of Surrey,,
+University of Szeged,,
+"University of Technology, Sydney",,
+University of Tromso,,
+University of Vigo,,
+University of Wyoming,,
+University of Zagreb,,
+University of Zaragoza,,
+Utah State University,,
+Victoria University of Wellington,,
+Vienna University of Technology,,
+Vrije University Brussel,,
+Wuhan University,,
+Xiamen University,,
+York University,,

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var dataPoints1 = [];
+            var dataPoints2 = [];
+
+            $.ajax({
+                type: "GET",
+                url: "Rank1.csv",
+                dataType: "text",
+                success: function (data) { processData1(data); }
+            });
+
+            
+            function processData1(allText) {
+                var allLinesArray = allText.split('\n');
+                if (allLinesArray.length > 0) {
+
+                    for (var i = 0; i <= allLinesArray.length - 1; i++) {
+                        var rowData = allLinesArray[i].split(',');
+                        if(rowData && rowData.length > 1)
+                            dataPoints1.push({ x: rowData[2], y: parseInt(rowData[1]), name:rowData[0] });
+                    }
+                    chart.options.data[0].dataPoints1 = dataPoints1;
+                }   
+                requestTempCsv();
+            }
+
+           function requestTempCsv() {
+                $.ajax({
+                    type: "GET",
+                    url: "Rank2.csv",
+                    dataType: "text",
+                    success: function (data) { processData2(data); }
+                });
+           }
+            function processData2(allText) {
+                var allLinesArray = allText.split('\n');
+                if (allLinesArray.length > 0) {
+
+                    for (var i = 0; i <= allLinesArray.length - 1; i++) {
+                        var rowData = allLinesArray[i].split(',');
+                        if(rowData && rowData.length > 1)
+                            dataPoints2.push({ x: rowData[2], y: parseInt(rowData[1]), name:rowData[0] });
+                    }
+                    chart.options.data[0].dataPoints2 = dataPoints2;
+                    drawChart(dataPoints1, dataPoints2);                   
+                }   
+                
+            }
+
+            function drawChart(dataPoints1, dataPoints2) {
+                var chart = new CanvasJS.Chart("GP01", {
+                    theme: "theme6",
+                    title: {
+                        text: "Master bedroom temperature and heating demand"
+                    },                  
+                    zoomEnabled: true,
+                    data: [
+                    {
+                        type: "line",
+                        dataPoints: dataPoints1
+                    },
+                    {
+                        type: "scatter",
+                        dataPoints: dataPoints2
+                    }
+
+                    ]
+                });
+                chart.render();
+            }
+        });
+
+    </script>
+    <script type="text/javascript" src="canvasjs.js"></script>
+</head>
+<body>
+<div id="GP01" style="height: 300px; width:100%;"></div>
+</body>
+</html> 

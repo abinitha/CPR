@@ -1,0 +1,160 @@
+University,Research(QS),Reseach(THE)
+Massachusetts Institute of Technology,100,88.6
+Harvard University,100,99
+University of Cambridge,100,96.7
+Stanford University,100,96.2
+California Institute of Technology,99.8,97.6
+University of Oxford,100,98.9
+University College London,99.9,91
+Imperial College London,99.9,88.5
+ETH Zurich - Swiss Federal Institute of Technology,99.9,95
+University of Chicago,99.9,88.9
+Princeton University,100,91.9
+National University of Singapore,100,84.5
+Nanyang Technological University,95.3,61.3
+Yale University,100,87.8
+Johns Hopkins University,97.2,90.4
+Cornell University,99.9,86.1
+University of Pennsylvania,98.8,86.9
+Australian National University,99.6,77.3
+King's College London,95.2,75.8
+University of Edinburgh,99.7,77.2
+Columbia University,100,82.2
+Ecole Normale Superieure,89.6,47.7
+McGill University,99.1,72.1
+Tsinghua University,99.6,83
+University of California Berkeley,100,91.1
+University of California Los Angeles,100,88.6
+Hong Kong University of Science and Technology,94.3,66.1
+Duke University,96.4,78
+University of Hong Kong,99.5,72.8
+University of Michigan,99.9,85.2
+Northwestern University,94,78.4
+University of Manchester,99.3,66
+University of Toronto,99.9,89.3
+London School of Economics and Political Science,93.8,80.6
+Seoul National University,99.2,70.5
+University of Bristol,92.1,51.6
+Kyoto University,99.9,69.3
+University of Tokyo,100,83
+Peking University,99.9,72.4
+University of Melbourne,99.8,75.5
+Korea Advanced Institute of Science & Technology,89.4,40.5
+University of California San Diego,98,69.8
+University of Sydney,99.5,68.1
+University of New South Wales,96.9,53.9
+University of Queensland,95.6,62.8
+University of Warwick,90.4,53.1
+Brown University,81.9,55.7
+University of British Columbia,99.6,73.2
+Chinese University of Hong Kong,95.4,48.5
+New York University,98.8,72.3
+Ecole Polytechnique,89.1,67.5
+University of Wisconsin Madison,97.4,68.2
+University of Amsterdam,95.1,64.7
+University of Illinois at Urbana Champaign,97.7,81.2
+Technical University of Munich,90.4,66
+Durham University,75.4,51.9
+University of Glasgow,87.5,48.3
+Carnegie Mellon University,88.1,88.8
+Delft University of Technology,83.9,73.8
+University of Washington,95.5,70
+Heidelberg University,95.5,69.6
+Monash University,94.5,58.5
+University of St Andrews,65.9,47.3
+University of Copenhagen,89.1,42.7
+National Taiwan University,98,58
+University of Nottingham,80.6,39
+Lund University,89.3,53.6
+Ludwig Maximilians University Munich,98.1,77.4
+University of Birmingham,82.4,41.8
+University of Texas at Austin,98.5,69.7
+Trinity College Dublin,82.5,30.8
+University of North Carolina Chapel Hill,84.1,54.5
+University of Sheffield,79,48.8
+University of Southampton,72.9,43.6
+University of Auckland,92.7,39.5
+KU Leuven,92.4,76.9
+Georgia Institute of Technology,81.8,72.7
+University of Zurich,78.1,31.5
+University of California Davis,85.8,72.7
+University of Leeds,81.7,39
+Pohang University of Science And Technology,56.1,47.1
+University of Geneva,69.8,40.5
+Purdue University,81,57.7
+Boston University,78.5,49.5
+KTH Royal Institute of Technology,64.1,44.3
+Karlsruhe Institute of Technology,64,47.5
+Utrecht University,83.7,64.3
+Leiden University,87.1,63.1
+University of Alberta,79.5,48.1
+University of Helsinki,83.7,60.4
+University of Western Australia,79.3,46.1
+Ohio State University,82,46.6
+University of Groningen,69.1,56.9
+Pennsylvania State University,85.7,61.9
+Uppsala University,85.7,61
+University of York,67.7,46.3
+Rice University,50.5,35.1
+Aarhus University,74.9,39.2
+Lomonosov Moscow State University,84.2,66.7
+Queen Mary University of London,63.4,41.3
+Washington University in St Louis,60.4,55.6
+Technical University of Denmark,44.1,29.9
+University of Adelaide,75.2,43.2
+University of Montreal,79.5,45.5
+Eindhoven University of Technology,50.5,41
+Sungkyunkwan University,68.9,53.5
+Free University of Berlin,93.3,72.2
+Lancaster University,59.1,41.4
+Cardiff University,63.8,31.6
+University of Minnesota,84.1,61
+Ghent University,71.5,54.5
+University of Maryland College Park,70,42.1
+Erasmus University Rotterdam,55.1,55.2
+Humboldt University of Berlin,96.6,77
+University of California Santa Barbara,84.4,66
+University of Southern California,70.4,58.9
+University of Freiburg,74.1,51.1
+University of Pittsburgh,58.2,50.3
+University of Oslo,71.5,44.7
+Wageningen University,55.6,66.9
+University of Aberdeen,53.6,31.4
+Pierre and Marie Curie University,72.3,32.7
+University of Basel,54.5,33.1
+University of Lausanne,53.2,45.6
+RWTH Aachen University,78.5,56.3
+Hebrew University of Jerusalem,66.9,41.4
+Universite catholique de Louvain,76.5,40.6
+McMaster University,61.7,44.8
+University of Liverpool,55.1,30.9
+University of Waterloo,61,43.9
+University of Vienna,82.5,50.5
+University College Dublin,62.2,38.5
+University of Reading,51.1,37.3
+Dartmouth College,41.1,35.8
+Texas A&M University,76.3,52.4
+University of Exeter,52,40
+Newcastle University,49.6,27.5
+University of California Irvine,63.3,41.8
+Michigan State University,69.8,52.6
+Emory University,41.8,37.1
+University of Barcelona,86.9,37.4
+University of Bern,43.8,42.5
+Georg-August-University Gottingen,74.2,54.5
+Maastricht University,37.5,47.7
+University of Cape Town,68.9,38.7
+University of Virginia,53.7,37.5
+Eberhard Karls University of Tubingen,64.5,59.8
+University of Colorado Boulder,56,37.6
+Vrije University Amsterdam,64.3,37.1
+Radboud University,47,48.5
+University of Florida,65.3,56.8
+University of Bergen,47.3,31.5
+Queen's University Belfast,49.9,33.3
+Stockholm University,76.9,51.2
+University of Sussex,48.4,37.2
+University of Twente,37.4,45.6
+University of Rochester,38.9,27.9
+Autonomous University of Barcelona,78,40
+University of Notre Dame,42.2,48.1

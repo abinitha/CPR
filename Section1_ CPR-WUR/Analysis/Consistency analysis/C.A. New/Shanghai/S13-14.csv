@@ -1,0 +1,97 @@
+University,Rank11,Rank12,R11-R12,D2/ R11,E2^2,,ABS
+Harvard University,1,1,0,0,0,,0
+Stanford University,2,2,0,0,0,,0
+Massachusetts Institute of Technology (MIT),4,3,1,0.25,0.0625,,0.25
+"University of California, Berkeley",3,4,-1,-0.3333333333,0.1111111111,,0.3333333333
+University of Cambridge,5,5,0,0,0,,0
+Princeton University,7,6,1,0.1428571429,0.0204081633,,0.1428571429
+California Institute of Technology,6,7,-1,-0.1666666667,0.0277777778,,0.1666666667
+Columbia University,8,8,0,0,0,,0
+University of Chicago,9,9,0,0,0,,0
+University of Oxford,10,9,1,0.1,0.01,,0.1
+Yale University,11,11,0,0,0,,0
+"University of California, Los Angeles",12,12,0,0,0,,0
+Cornell University,13,13,0,0,0,,0
+"University of California, San Diego",14,14,0,0,0,,0
+University of Washington,16,15,1,0.0625,0.00390625,,0.0625
+University of Pennsylvania,15,16,-1,-0.0666666667,0.0044444444,,0.0666666667
+The Johns Hopkins University,17,17,0,0,0,,0
+"University of California, San Francisco",18,18,0,0,0,,0
+Swiss Federal Institute of Technology Zurich,20,19,1,0.05,0.0025,,0.05
+University College London,21,20,1,0.0476190476,0.0022675737,,0.0476190476
+The University of Tokyo,21,21,0,0,0,,0
+University of Michigan - Ann Arbor,23,22,1,0.0434782609,0.0018903592,,0.0434782609
+"The Imperial College of Science, Technology and Medicine",24,22,2,0.0833333333,0.0069444444,,0.0833333333
+University of Wisconsin - Madison,19,24,-5,-0.2631578947,0.0692520776,,0.2631578947
+University of Toronto,28,24,4,0.1428571429,0.0204081633,,0.1428571429
+Kyoto University,26,26,0,0,0,,0
+New York University,27,27,0,0,0,,0
+University of Illinois at Urbana-Champaign,25,28,-3,-0.12,0.0144,,0.12
+Northwestern University,30,28,2,0.0666666667,0.0044444444,,0.0666666667
+"University of Minnesota, Twin Cities",29,30,-1,-0.0344827586,0.0011890606,,0.0344827586
+Duke University,31,31,0,0,0,,0
+Washington University in St. Louis,32,32,0,0,0,,0
+Rockefeller University,34,33,1,0.0294117647,0.0008650519,,0.0294117647
+University of Colorado at Boulder,33,34,-1,-0.0303030303,0.0009182736,,0.0303030303
+Pierre and Marie  Curie University - Paris 6,37,35,2,0.0540540541,0.0029218408,,0.0540540541
+University of North Carolina at Chapel Hill,43,36,7,0.1627906977,0.0265008112,,0.1627906977
+University of British Columbia,40,37,3,0.075,0.005625,,0.075
+The University of Manchester,41,38,3,0.0731707317,0.005353956,,0.0731707317
+The University of Texas at Austin,36,39,-3,-0.0833333333,0.0069444444,,0.0833333333
+University of Copenhagen,42,39,3,0.0714285714,0.0051020408,,0.0714285714
+"University of California, Santa Barbara",35,41,-6,-0.1714285714,0.0293877551,,0.1714285714
+University of Paris Sud (Paris 11),39,42,-3,-0.0769230769,0.0059171598,,0.0769230769
+"University of Maryland, College Park",38,43,-5,-0.1315789474,0.0173130194,,0.1315789474
+University of Melbourne,54,44,10,0.1851851852,0.0342935528,,0.1851851852
+The University of Texas Southwestern Medical Center at Dallas,46,45,1,0.0217391304,0.0004725898,,0.0217391304
+University of Edinburgh,51,45,6,0.1176470588,0.0138408304,,0.1176470588
+Karolinska Institute,44,47,-3,-0.0681818182,0.0046487603,,0.0681818182
+"University of California, Irvine",45,47,-2,-0.0444444444,0.0019753086,,0.0444444444
+Heidelberg University,54,49,5,0.0925925926,0.0085733882,,0.0925925926
+University of Munich,61,49,12,0.1967213115,0.0386992744,,0.1967213115
+University of Southern California,47,51,-4,-0.085106383,0.0072430964,,0.085106383
+"Rutgers, The State University of New Jersey - New Brunswick",61,52,9,0.1475409836,0.0217683418,,0.1475409836
+Technical University Munich,50,53,-3,-0.06,0.0036,,0.06
+Vanderbilt University,49,54,-5,-0.1020408163,0.0104123282,,0.1020408163
+"University of California, Davis",47,55,-8,-0.170212766,0.0289723857,,0.170212766
+University of Zurich,60,56,4,0.0666666667,0.0044444444,,0.0666666667
+Utrecht University,52,57,-5,-0.0961538462,0.0092455621,,0.0961538462
+Pennsylvania State University - University Park,54,58,-4,-0.0740740741,0.0054869684,,0.0740740741
+King's College London,67,59,8,0.1194029851,0.0142570728,,0.1194029851
+Purdue University - West Lafayette,57,60,-3,-0.0526315789,0.0027700831,,0.0526315789
+Uppsala University,73,60,13,0.1780821918,0.031713267,,0.1780821918
+Carnegie Mellon University,52,62,-10,-0.1923076923,0.0369822485,,0.1923076923
+University of Bristol,64,63,1,0.015625,0.0002441406,,0.015625
+The Ohio State University - Columbus,65,64,1,0.0153846154,0.0002366864,,0.0153846154
+University of Pittsburgh,61,65,-4,-0.0655737705,0.0042999194,,0.0655737705
+University of Geneva,69,66,3,0.0434782609,0.0018903592,,0.0434782609
+McGill University,58,67,-9,-0.1551724138,0.024078478,,0.1551724138
+Ecole Normale Superieure - Paris,71,67,4,0.0563380282,0.0031739734,,0.0563380282
+University of Oslo,69,69,0,0,0,,0
+The Hebrew University of Jerusalem,59,70,-11,-0.186440678,0.0347601264,,0.186440678
+Ghent University,85,70,15,0.1764705882,0.0311418685,,0.1764705882
+Boston University,75,72,3,0.04,0.0016,,0.04
+University of Helsinki,76,73,3,0.0394736842,0.0015581717,,0.0394736842
+The Australian National University,66,74,-8,-0.1212121212,0.0146923783,,0.1212121212
+Brown University,67,74,-7,-0.1044776119,0.0109155714,,0.1044776119
+Aarhus University,81,74,7,0.0864197531,0.0074683737,,0.0864197531
+Leiden University,74,77,-3,-0.0405405405,0.0016435354,,0.0405405405
+University of Florida,71,78,-7,-0.0985915493,0.0097202936,,0.0985915493
+Technion-Israel Institute of Technology,77,78,-1,-0.012987013,0.0001686625,,0.012987013
+Stockholm University,82,78,4,0.0487804878,0.002379536,,0.0487804878
+Osaka University,85,78,7,0.0823529412,0.0067820069,,0.0823529412
+Rice University,92,82,10,0.1086956522,0.0118147448,,0.1086956522
+University of Groningen,92,82,10,0.1086956522,0.0118147448,,0.1086956522
+Moscow State University,79,84,-5,-0.0632911392,0.0040057683,,0.0632911392
+The University of Queensland,85,85,0,0,0,,0
+University of Arizona,78,86,-8,-0.1025641026,0.0105193951,,0.1025641026
+University of Utah,85,87,-2,-0.0235294118,0.0005536332,,0.0235294118
+Arizona State University,79,88,-9,-0.1139240506,0.0129786893,,0.1139240506
+The University of Western Australia,91,88,3,0.032967033,0.0010868253,,0.032967033
+University of Basel,83,90,-7,-0.0843373494,0.0071127885,,0.0843373494
+University of Rochester,90,90,0,0,0,,0
+McMaster University,92,90,2,0.0217391304,0.0004725898,,0.0217391304
+University of Strasbourg,97,95,2,0.0206185567,0.0004251249,,0.0206185567
+,,,,SUM,0.9672311117,,7.0734543536
+,,,,V^2,0.0104003345,V*,0.076058649
+,,,,V,0.1019820304,,

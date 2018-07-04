@@ -1,0 +1,59 @@
+#!/usr/bin/gnuplot
+
+plot 'Austria' using 6:2 pt 5 lc rgb '#9400d3' title 'Austria', \
+'Australia' using 6:2 pt 8 lc rgb '#e9967a' title 'Australia', \
+'Belgium' using 6:2 pt 7 lc rgb '#ee82ee' title 'Belgium', \
+'Canada' using 6:2 pt 5 lc rgb '#c71585' title 'Canada', \
+'China' using 6:2 pt 7 lc rgb '#b03060' title 'China', \
+'Denmark' using 6:2 pt 4 lc rgb '#db7093' title 'Denmark', \
+'France' using 6:2 pt 7 lc rgb '#ff69b4' title 'France', \
+'Finland' using 6:2 pt 4 lc rgb '#00bfff' title 'Finland', \
+'Hong Kong' using 6:2 pt 7 lc rgb '#6a5acd' title 'Hong Kong', \
+'Ireland' using 6:2 pt 7 lc rgb '#ff8c00' title 'Ireland', \
+'Israel' using 6:2 pt 7 lc rgb '#ff6347' title 'Israel', \
+'Germany' using 6:2 pt 7 lc rgb '#000080' title 'Germany', \
+'Italy' using 6:2 pt 7 lc rgb '#a52a2a' title 'Italy', \
+'Japan' using 6:2 pt 7 lc rgb '#a0522d' title 'Japan', \
+'Luxembourg' using 6:2 pt 7 lc rgb '#8b4513' title 'Luxembourg', \
+'Netherlands' using 6:2 pt 7 lc rgb '#40e0d0' title 'Netherlands', \
+'New Zealand' using 6:2 pt 7 lc rgb '#ff0000' title 'New Zealand', \
+'Norway' using 6:2 pt 7 lc rgb '#696969' title 'Norway', \
+'Russian Federation' using 6:2 pt 7 lc rgb '#ff4500' title 'Russian Federation', \
+'Singapore' using 6:2 pt 7 lc rgb '#ffff00' title 'Singapore', \
+'South Korea' using 6:2 pt 7 lc rgb '#6b8e23' title 'South Korea', \
+'South Africa' using 6:2 pt 7 lc rgb '#9acd32' title 'South Africa', \
+'Spain' using 6:2 pt 7 lc rgb '#32cd32' title 'Spain', \
+'USA' using 6:2 pt 7 lc rgb '#ffd700' title 'USA', \
+'UK' using 6:2 pt 7 lc rgb '#006400' title 'UK', \
+'Switzerland' using 6:2 pt 7 lc rgb '#5f9ea0' title 'Switzerland', \
+'Taiwan' using 6:2 pt 7 lc rgb '#bebebe' title 'Taiwan', \
+'Sweden' using 6:2 pt 7 lc rgb '#000000' title 'Sweden', \
+'ab.txt' w l lc rgb 'red'
+
+set xlabel 'Overall'
+set ylabel 'International Outlook'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

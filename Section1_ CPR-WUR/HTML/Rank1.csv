@@ -1,0 +1,177 @@
+name,x,y
+California Institute of TechnologyUnited States of America,1,1
+University of OxfordUnited Kingdom,3,2
+Stanford UniversityUnited States of America,4,3
+University of CambridgeUnited Kingdom,5,4
+Massachusetts Institute of TechnologyUnited States of America,6,5
+Harvard UniversityUnited States of America,2,6
+Princeton UniversityUnited States of America,7,7
+Imperial College LondonUnited Kingdom,9,8
+ETH Zurich – Swiss Federal Institute of Technology ZurichSwitzerland,13,9
+University of ChicagoUnited States of America,11,10
+Johns Hopkins UniversityUnited States of America,15,11
+Yale UniversityUnited States of America,9,12
+"University of California, BerkeleyUnited States of America",8,13
+University College LondonUnited Kingdom,22,14
+Columbia UniversityUnited States of America,14,15
+"University of California, Los AngelesUnited States of America",12,16
+University of PennsylvaniaUnited States of America,16,17
+Cornell UniversityUnited States of America,19,18
+University of TorontoCanada,20,19
+Duke UniversityUnited States of America,18,20
+University of MichiganUnited States of America,17,21
+Carnegie Mellon UniversityUnited States of America,24,22
+London School of Economics and Political ScienceUnited Kingdom,34,23
+University of EdinburghUnited Kingdom,36,24
+Northwestern UniversityUnited States of America,21,25
+National University of SingaporeSingapore,25,26
+King’s College LondonUnited Kingdom,40,27
+Karolinska InstituteSweden,44,28
+LMU MunichGermany,29,29
+New York UniversityUnited States of America,38,30
+École Polytechnique Fédérale de LausanneSwitzerland,34,31
+University of WashingtonUnited States of America,26,32
+University of MelbourneAustralia,33,33
+University of British ColumbiaCanada,32,34
+KU LeuvenBelgium,55,35
+University of Illinois at Urbana-ChampaignUnited States of America,29,36
+Heidelberg UniversityGermany,70,37
+McGill UniversityCanada,39,38
+"University of California, Santa BarbaraUnited States of America",37,39
+"University of California, San DiegoUnited States of America",41,39
+Georgia Institute of TechnologyUnited States of America,27,41
+Peking UniversityChina,48,42
+University of TokyoJapan,23,43
+University of Hong KongHong Kong,43,44
+"University of California, DavisUnited States of America",55,44
+University of Texas at AustinUnited States of America,28,46
+Tsinghua UniversityChina,49,47
+Wageningen University and Research CenterNetherlands,73,47
+Humboldt University of BerlinGermany,80,49
+University of Wisconsin-MadisonUnited States of America,29,50
+Brown UniversityUnited States of America,54,51
+Australian National UniversityAustralia,45,52
+Technical University of MunichGermany,98,53
+École Normale SupérieureFrance,78,54
+Nanyang Technological UniversitySingapore,61,55
+University of ManchesterUnited Kingdom,52,56
+University of SydneyAustralia,60,56
+University of AmsterdamNetherlands,77,58
+Hong Kong University of Science and TechnologyHong Kong,51,59
+Washington University in St LouisUnited States of America,42,60
+The University of QueenslandAustralia,65,60
+Utrecht UniversityNetherlands,79,62
+University of North Carolina at Chapel HillUnited States of America,46,63
+Boston UniversityUnited States of America,57,64
+University of MinnesotaUnited States of America,46,65
+Delft University of TechnologyNetherlands,71,65
+Leiden UniversityNetherlands,64,67
+University of Southern CaliforniaUnited States of America,75,68
+University of BristolUnited Kingdom,74,69
+Durham UniversityUnited Kingdom,83,70
+Erasmus University RotterdamNetherlands,72,71
+Free University of BerlinGermany,81,72
+Monash UniversityAustralia,83,73
+University of GroningenNetherlands,117,74
+Pennsylvania State UniversityUnited States of America,58,75
+University of GlasgowUnited Kingdom,94,76
+University of HelsinkiFinland,103,76
+University of TübingenGermany,113,78
+University of PittsburghUnited States of America,91,79
+University of WarwickUnited Kingdom,103,80
+Uppsala UniversitySweden,98,81
+University of New South WalesAustralia,109,82
+University of CopenhagenDenmark,160,82
+University of FreiburgGermany,163,84
+Seoul National UniversitySouth Korea,50,85
+University of St AndrewsUnited Kingdom,111,86
+Vanderbilt UniversityUnited States of America,96,87
+Kyoto UniversityJapan,59,88
+Maastricht UniversityNetherlands,101,88
+Ohio State UniversityUnited States of America,68,90
+Emory UniversityUnited States of America,93,90
+Lund UniversitySweden,119,90
+University of ExeterUnited Kingdom,154,93
+McMaster UniversityCanada,94,94
+Georgetown UniversityUnited States of America,173,94
+University of BonnGermany,195,94
+University of SheffieldUnited Kingdom,121,97
+Queen Mary University of LondonUnited Kingdom,107,98
+University of GöttingenGermany,67,99
+Michigan State UniversityUnited States of America,82,99
+École PolytechniqueFrance,61,101
+Rice UniversityUnited States of America,69,101
+University of BaselSwitzerland,75,101
+University of ZurichSwitzerland,103,104
+Dartmouth CollegeUnited States of America,152,104
+"University of California, IrvineUnited States of America",88,106
+University of Notre DameUnited States of America,86,108
+University of Western AustraliaAustralia,157,109
+University of SouthamptonUnited Kingdom,132,110
+RWTH Aachen UniversityGermany,156,110
+Scuola Normale Superiore di PisaItaly,63,112
+Purdue UniversityUnited States of America,102,113
+Pierre and Marie Curie UniversityFrance,103,113
+University of MontrealCanada,113,113
+Pohang University of Science and TechnologySouth Korea,66,116
+"University of Maryland, College ParkUnited States of America",132,117
+Ghent UniversityBelgium,90,118
+University of BirminghamUnited Kingdom,148,119
+University of Cape TownSouth Africa,124,120
+University of FloridaUnited States of America,126,120
+University of BernSwitzerland,132,120
+"Rutgers, the State University of New JerseyUnited States of America",144,123
+Radboud University NijmegenNetherlands,140,125
+Tufts UniversityUnited States of America,88,127
+University of Colorado BoulderUnited States of America,97,127
+"Royal Holloway, University of LondonUnited Kingdom",118,129
+Lancaster UniversityUnited Kingdom,131,130
+University of GenevaSwitzerland,107,131
+University of YorkUnited Kingdom,113,131
+Case Western Reserve UniversityUnited States of America,116,133
+University of LeedsUnited Kingdom,146,133
+University of OsloNorway,186,135
+Stockholm UniversitySweden,98,136
+University of AlbertaCanada,124,137
+Chinese University of Hong KongHong Kong,129,138
+Karlsruhe Institute of TechnologyGermany,165,138
+University of SussexUnited Kingdom,111,140
+University of MassachusettsUnited States of America,91,141
+University of ViennaAustria,182,142
+University of NottinghamUnited Kingdom,171,143
+"University of California, Santa CruzUnited States of America",109,144
+University of LausanneSwitzerland,136,144
+University of VirginiaUnited States of America,130,147
+Korea Advanced Institute of Science and Technology (KAIST)South Korea,52,148
+Aarhus UniversityDenmark,153,149
+University of AdelaideAustralia,164,149
+University of East AngliaUnited Kingdom,198,149
+Sungkyunkwan University (SKKU)South Korea,148,153
+VU University AmsterdamNetherlands,136,154
+KTH Royal Institute of TechnologySweden,126,155
+University of LiverpoolUnited Kingdom,157,157
+University of RochesterUnited States of America,121,158
+TU Dresden Germany,135,158
+Trinity College DublinRepublic of Ireland,138,160
+University of MiamiUnited States of America,169,161
+Lomonosov Moscow State UniversityRussian Federation,196,161
+University of ArizonaUnited States of America,86,163
+Pompeu Fabra UniversitySpain,165,164
+Yeshiva UniversityUnited States of America,186,164
+Technical University of DenmarkDenmark,121,167
+"University of California, RiversideUnited States of America",150,167
+National Taiwan UniversityTaiwan,155,167
+Université Catholique de LouvainBelgium,171,167
+University of LeicesterUnited Kingdom,199,167
+University of AucklandNew Zealand,175,172
+University of AberdeenUnited Kingdom,178,172
+Eindhoven University of TechnologyNetherlands,144,176
+University of UtahUnited States of America,162,182
+Brandeis UniversityUnited States of America,147,185
+Paris-Sud UniversityFrance,120,188
+Arizona State UniversityUnited States of America,182,189
+Boston CollegeUnited States of America,126,190
+University of AntwerpBelgium,170,190
+Texas A&M UniversityUnited States of America,141,193
+"St George’s, University of LondonUnited Kingdom",196,196
+Paris Diderot University – Paris 7France,180,199

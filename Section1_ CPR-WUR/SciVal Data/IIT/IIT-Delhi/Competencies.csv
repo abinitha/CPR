@@ -1,0 +1,113 @@
+﻿Data set,"102 competencies of the Indian Institute of Technology, Bombay (2015), based on publications in 2011-2015"
+Entity,"Indian Institute of Technology, Bombay"
+Year,2015
+
+Data source,Scopus
+Date last updated,24 February 2017
+Date exported,17 March 2017
+
+Competency ID,"Authors (Indian Institute of Technology, Bombay)",Keywords,Subject Areas,Publications worldwide,Publications in competencies (fractionalized count),Average annual growth,"Publications (Indian Institute of Technology, Bombay)","Publications from Indian Institute of Technology, Bombay (fractionalized count)",% Share of publications worldwide,"Average annual growth (Indian Institute of Technology, Bombay)","Rank of Indian Institute of Technology, Bombay by number of publications",Relative Publication Share,Relative Reference Share,State of the Art,"Citations of publications from the Indian Institute of Technology, Bombay"
+1 (EC),"Nandi B.K., Varma R., Koyithatta Meethaleveedu G.","collisions; ionic collisions; transverse momentum","Nuclear and High Energy Physics (86.9); General Physics and Astronomy (13.1)",1899,930.5,-17.8%,108,59.2,6.4%,-1.2%,30,0.48,0.06,0.60,2401
+2 (DC),"Singh T.N., Mukherjee S., Radhakrishna M.","Rocks; rock; slope","Geotechnical Engineering and Engineering Geology (68.7); Geology (19.4); Geochemistry and Petrology (7.9)",1582,656.6,5.6%,97,66.8,10.2%,9.2%,1,3.03,3.26,1.06,653
+3 (DC),"Bandyopadhyay B., Kamal S., Chalanga A.","Sliding mode control; Controllers; Control","Control and Systems Engineering (100.0)",1638,683.8,-4.1%,82,54.3,7.9%,-2.9%,1,1.56,0.60,-1.46,163
+4 (DC),"Rajaraman G., Murugavel R., Singh S.K.","Ligands; Magnets; Magnetocaloric effects","Inorganic Chemistry (67.5); General Chemistry (18.2); Physical and Theoretical Chemistry (14.3)",2387,697.9,14.7%,78,43.4,6.2%,49.1%,1,1.19,0.85,0.12,543
+5 (DC),"Agarwal V.K., Wandhare R.G., Sharma P.N.","Photovoltaic cells; Electric potential; Control","Electrical and Electronic Engineering (95.3); Energy Engineering and Power Technology (4.7)",1648,657.5,7.9%,41,28.8,4.4%,2.9%,1,1.91,0.25,0.61,76
+6 (DC),"Srivastava A.K., Agrawal A.M.I.T., Bhapkar U.S.","Jets; Heat transfer; Reynolds number","Mechanical Engineering (51.4); Condensed Matter Physics (48.6)",1212,607.6,-1.0%,22,15.2,2.5%,15.6%,3,0.47,1.13,0.67,94
+7 (EC),"Bandyopadhyay S., Sahu G.C., Garg A.","Optimization; Water; Scheduling","General Chemical Engineering (100.0)",1178,535.8,-5.2%,35,23.9,4.5%,10.9%,2,0.89,0.58,2.25,165
+8 (DC),"Jothiprakash V., Ghosh S., Fathima T.A.","Neural networks; artificial neural network; model","Water Science and Technology (52.2); Computer Science Applications (25.3); Atmospheric Science (22.5)",1340,478.0,-7.4%,31,16.2,3.4%,4.4%,1,1.42,1.17,-0.14,221
+9 (DC),"Choudhury D., Mandal J.N., Padade A.H.","Soils; reinforcement; soil","Geotechnical Engineering and Engineering Geology (89.6); Civil and Structural Engineering (10.4)",900,479.6,5.5%,61,43.8,9.1%,34.5%,1,1.57,1.65,1.38,189
+10 (DC),"Ravikanth M.N., Lakshmi V.V., Chatterjee T.","Dyes; Fluorescence; Boron Compounds","General Chemistry (54.9); Organic Chemistry (37.1); Physical and Theoretical Chemistry (8.0)",1505,438.6,4.8%,65,38.8,8.9%,9.9%,1,2.28,0.42,-1.44,590
+11 (DC),"Panda D., Jindal B., Ray S.","Noscapine; Cell Division; Tubulin","Pharmacology (28.9); Drug Discovery (26.4); Molecular Biology (25.9)",1131,420.2,3.7%,29,20.2,4.8%,9.2%,1,1.24,0.32,-0.54,160
+12 (EC),"Suresh K.G., Sahoo R., Nayak A.K.","Alloys; Manganese; Martensitic transformations","Condensed Matter Physics (100.0)",799,419.6,2.9%,28,17.6,4.2%,12.9%,3,0.84,0.18,0.87,85
+13 (EC),"Singh D.N., Baghini M.S.H., Anvesha A.","Amplifiers (electronic); CMOS integrated circuits; Shear waves","Electrical and Electronic Engineering (64.9); Geotechnical Engineering and Engineering Geology (35.1)",830,388.1,0.4%,7,5.6,1.4%,-22.9%,15,0.43,0.00,-0.07,2
+14 (DC),"Mukherjee J., Kumar G.D., Mishra S.K.","Antennas; Microstrip antennas; Bandwidth","Electrical and Electronic Engineering (100.0)",654,317.8,-14.4%,23,13.5,4.2%,-22.5%,1,1.02,0.13,2.63,118
+15 (DC),"Viswanadham B.V.S., Mandal J.N., Dewaikar D.M.","Soils; Bearing capacity; footing","Geotechnical Engineering and Engineering Geology (100.0)",702,328.2,5.0%,20,11.7,3.6%,-2.0%,1,1.05,0.00,2.40,54
+16 (EC),"Patel P., Mukherjee J., Mukherjee B.","Dielectric resonators; Microwave antennas; Antennas","Electrical and Electronic Engineering (100.0)",559,345.3,0.5%,16,13.5,3.9%,40.0%,8,0.55,0.70,0.15,29
+17 (DC),"Agrawal A.M.I.T., Pradeep A.M., Varade V.V.","Microchannels; Heat transfer; Boiling liquids","Mechanical Engineering (53.8); Condensed Matter Physics (46.2)",870,353.8,-5.7%,22,16.2,4.6%,26.1%,1,1.56,0.79,-1.47,72
+18 (EC),"Darji A.D., Chandorkar A.N., Merchant S.N.","Discrete wavelet transforms; Wavelet transforms; Hardware","Electrical and Electronic Engineering (100.0)",692,319.0,-14.6%,13,12.2,3.8%,12.5%,2,0.88,0.00,1.01,8
+19 (EC),"Garg A., Yadav B.R., Dhakhwa S.","Wastewater; Paper and pulp mills; Effluents","Environmental Engineering (82.3); General Chemical Engineering (17.7)",880,333.7,-12.3%,11,6.6,2.0%,-12.6%,7,0.60,0.00,0.45,27
+20 (EC),"Gharpure S.J., Kotha S., Namboothiri I.N.N.","Cyclization; Synthesis (chemical); Molecular Structure","Organic Chemistry (81.7); Physical and Theoretical Chemistry (18.3)",928,327.1,-4.4%,17,11.3,3.5%,50.7%,2,0.98,0.13,-0.99,62
+21 (DC),"Naik N.K., Pandya K.S., Pothnis J.R.","Ballistics; Composite materials; Projectiles","Mechanical Engineering (100.0)",714,320.0,1.5%,25,19.6,6.1%,13.6%,1,2.28,1.50,0.81,131
+22 (DC),"Namboothiri I.N.N., Maiti D., Maity S.K.","Synthesis (chemical); Cyclization; Alkenes","Organic Chemistry (100.0)",1053,301.2,5.8%,36,21.1,7.0%,14.8%,1,1.68,1.12,2.86,570
+23 (DC),"Sudarshan S., Ramachandra K., Shah S.Y.","Database systems; Applications; Data structures","General Computer Science (72.2); Software (27.8)",654,271.5,-19.0%,8,6.0,2.2%,22.6%,2,0.97,0.00,0.29,15
+24 (DC),"Fernandes R.A., Singh V.K., Mulay S.V.","Synthesis (chemical); Cycloaddition Reaction; Stereoisomerism","Organic Chemistry (72.0); General Chemistry (15.5); Biochemistry (12.5)",955,293.7,-4.4%,46,27.2,9.2%,11.2%,1,2.93,0.47,0.55,238
+25 (EC),"Fernandes B.G., Nikam S.P., Vandana R.","Reluctance motors; Torque; Motors","Electrical and Electronic Engineering (100.0)",481,280.3,2.8%,14,10.3,3.7%,5.1%,3,0.76,0.33,-0.96,58
+26 (DC),"Mukherji S., Ramgopal Rao V., Punjabi N.","Sensors; Biosensors; Fiber optic sensors","Electrical and Electronic Engineering (100.0)",811,284.9,-8.7%,39,23.9,8.4%,18.4%,1,2.14,1.17,0.58,146
+27 (DC),"Singh D.N., Mandal J.N., Uday K.V.","Soils; soil; Engineers","Geotechnical Engineering and Engineering Geology (77.3); Water Science and Technology (12.7); Agronomy and Crop Science (10.0)",587,268.4,14.6%,18,12.1,4.5%,3.9%,1,1.95,0.00,0.19,59
+28 (EC),"Sunoj R.B., Reddi Y., Sharma A.K.","Aldehydes; Catalysis; Enantioselectivity","Organic Chemistry (100.0)",1092,281.2,-10.4%,13,6.4,2.3%,-19.1%,5,0.61,0.58,2.76,164
+29 (DC),"Baghel A.P.S., Kulkarni S.V., Samajdar I.D.","Hysteresis; Hysteresis loops; Models","Electrical and Electronic Engineering (100.0)",589,264.3,-3.8%,9,7.1,2.7%,47.9%,4,0.48,1.67,3.24,41
+30 (DC),"Mahapatra S., Goel N., Mukhopadhyay S.","Degradation; Stresses; Threshold voltage","Electrical and Electronic Engineering (100.0)",585,273.0,1.6%,29,18.5,6.8%,20.0%,4,0.86,1.50,1.93,163
+31 (EC),"Kumar S., Akram M., Deshpande A.A.","Combustion; Combustors; Mixtures","General Chemical Engineering (53.8); Energy Engineering and Power Technology (46.2)",617,276.9,2.2%,18,10.2,3.7%,-15.9%,3,0.86,0.44,-0.44,104
+32 (EC),"Thaokar R.M., Gambhire P., Deshmukh S.D.","Electrohydrodynamics; Electric fields; Drops","Condensed Matter Physics (100.0)",707,270.9,-8.2%,20,11.2,4.1%,-15.6%,3,0.68,0.50,-2.93,72
+33 (EC),"Bandyopadhyay S., Roy A., Kedare S.B.","Solar energy; Photovoltaic cells; Wind","Renewable Energy, Sustainability and the Environment (43.3); Electrical and Electronic Engineering (29.6); Energy Engineering and Power Technology (27.2)",863,244.4,3.4%,13,7.5,3.1%,6.6%,1,1.58,0.40,-0.66,44
+34 (EC),"Patwardhan S.C., Bhushan M., Bimal Raj K.","Boilers; Control; Controllers","Control and Systems Engineering (100.0)",684,254.1,-13.3%,16,8.2,3.2%,25.1%,6,0.46,0.33,-0.50,80
+35 (EC),"Misra D.S., Bajpai R., Roy S.","Solar cells; Dyes; Electrodes","General Materials Science (100.0)",731,266.2,-0.5%,8,6.3,2.4%,-1.3%,9,0.59,0.25,0.48,170
+36 (EC),"Kishore N., Kumar N.D.M., Choudhary S.","Urea; Protein Stability; Methylamines","Physical and Theoretical Chemistry (64.7); Biochemistry (35.3)",988,261.5,-6.9%,13,7.8,3.0%,9.2%,3,0.68,0.14,-0.36,43
+37 (EC),"Karunakaran K.P., Bapat V.P., Raghavender N.","Manufacture; Additives; Welding","Mechanical Engineering (68.1); Philosophy (16.7); Industrial and Manufacturing Engineering (15.2)",660,244.8,4.3%,11,8.0,3.3%,20.7%,5,0.59,0.19,4.36,44
+38 (EC),"Doolla S., Nunna H.S.V.S.K., Kumar Nunna H.S.V.S.K.","Multi agent systems; Agents; Control","Electrical and Electronic Engineering (100.0)",529,253.2,-11.0%,12,7.7,3.0%,-32.1%,1,1.02,0.50,2.60,134
+39 (EC),"Rao Y.S.N.M., Shitole S., Bhattacharya A.K.","Polarimeters; Synthetic aperture radar; Polarization","General Earth and Planetary Sciences (77.9); Electrical and Electronic Engineering (22.1)",544,250.6,13.9%,22,16.4,6.5%,32.7%,4,0.84,1.31,1.76,19
+40 (EC),"Fernandes R.A., Kattanguru P., Chaudhari D.A.","Hydration; Catalysts; Olefins","Organic Chemistry (80.5); General Chemistry (19.5)",837,247.7,8.9%,23,10.5,4.2%,20.7%,2,0.81,0.50,-0.10,196
+41 (EC),"Belur M.N., Pillai H.K., Pal D.B.","Linear systems; Polynomials; Trajectories","Control and Systems Engineering (100.0)",445,232.5,-5.4%,23,17.4,7.5%,-6.8%,3,0.65,0.00,-0.35,16
+42 (EC),"Dusane R.O., Raja V.S., Kumar S.","Coatings; Thermal barrier coatings; Plasma spraying","Materials Chemistry (67.0); Renewable Energy, Sustainability and the Environment (33.0)",585,230.1,-0.7%,10,8.9,3.9%,12.4%,1,1.19,0.56,0.98,37
+43 (EC),"Kotha S., Ali R., Shirbhate M.E.","Alkenes; Olefins; Rings (components)","Organic Chemistry (100.0)",675,225.1,-2.3%,63,45.1,20.0%,31.6%,1,10.64,5.30,0.00,391
+44 (EC),"Singh H.B., Singh V.P., Selvakumar K.","Organoselenium Compounds; Glutathione Peroxidase; Selenium","Organic Chemistry (100.0)",619,222.3,-14.0%,16,11.9,5.4%,-43.0%,4,0.93,0.27,-0.57,111
+45 (EC),"Choudhury D., Dewaikar D.M., Rangari S.M.","Soils; Anchors; anchor","Geotechnical Engineering and Engineering Geology (100.0)",309,209.7,-0.4%,22,18.9,9.0%,-14.7%,2,0.96,0.46,4.61,79
+46 (EC),"Rao C.P., Hinge V.K.U., Pathak R.K.U.","Fluorescence; Calixarenes; Metal ions","General Chemistry (81.9); Electrochemistry (18.1)",733,211.4,0.6%,28,13.9,6.6%,-20.9%,1,1.13,1.42,1.58,377
+47 (EC),"Datta A., Iyer E.S.S., Bellare J.R.","Membranes; Proton conductivity; Protons","Physical and Theoretical Chemistry (100.0)",656,208.2,-11.0%,14,6.9,3.3%,-36.7%,3,0.77,0.50,0.41,83
+48 (EC),"Ghosh P., Shaikh M.M., Rao M.","Ligands; Nickel; carbenes","Inorganic Chemistry (41.2); Physical and Theoretical Chemistry (35.3); General Chemistry (11.8)",678,210.7,-9.5%,25,9.5,4.5%,2.0%,2,1.00,0.28,2.58,156
+49 (EC),"Chandrasekharam D., Singh H.K.U., Trupti G.","Geothermal fields; geothermal system; thermal spring","Renewable Energy, Sustainability and the Environment (73.2); Geophysics (26.8)",457,191.7,5.5%,15,12.6,6.6%,60.5%,2,0.75,0.14,-2.05,27
+50 (EC),"Patil G.R., Kadali B.R., Pawar D.S.","Crosswalks; Vehicles; Intersections","Transportation (56.4); Civil and Structural Engineering (43.6)",420,192.5,7.9%,8,6.9,3.6%,49.6%,3,0.92,0.00,-1.41,9
+51 (EC),"Sharma A., Gada V.H., Lakdawala A.M.","Phase change materials; Heat storage; Heat transfer","Condensed Matter Physics (66.3); Mechanical Engineering (33.7)",551,196.0,0.4%,21,14.4,7.3%,5.4%,1,2.03,1.25,-3.20,73
+52 (EC),"Manchanda R., Appukuttan S., Mahapatra C.","Urinary Bladder; Urinary Bladder, Overactive; Interstitial Cells of Cajal","Urology (65.7); Endocrinology, Diabetes and Metabolism (34.3)",644,197.7,-11.1%,7,5.5,2.8%,66.1%,5,0.55,0.20,-3.42,4
+53 (EC),"Balakrishna M.S., Ananthnag G.S., Siddiqui M.M.","Ligands; Hydroformylation; Palladium","Inorganic Chemistry (65.8); Organic Chemistry (34.2)",761,194.4,1.5%,35,20.3,10.5%,18.0%,1,1.34,1.53,1.70,165
+54 (EC),"Padinhateeri R., Das D.K.U., Das D.","Microtubules; Tubulin; Guanosine Triphosphate","General Physics and Astronomy (39.7); General Biochemistry,Genetics and Molecular Biology (33.5); General Medicine (26.7)",641,194.7,-8.2%,12,7.8,4.0%,27.4%,2,0.91,0.31,0.00,54
+55 (EC),"Dey B.K., Budkuley A.J., Pillai S.R.B.","Jamming; Scheduling; Radio","Computer Networks and Communications (83.3); Electrical and Electronic Engineering (16.7)",529,187.4,-17.1%,15,8.7,4.6%,41.5%,1,1.08,0.00,-2.97,5
+56 (EC),"Vinjamur M., Mandal D., Mandal D.","Lithium; Tritium; Breeder reactors","General Materials Science (78.9); General Chemical Engineering (21.1)",360,186.2,0.6%,8,7.5,4.0%,-55.5%,7,0.37,0.06,-10.15,66
+57 (EC),"Rajaraman G., Sharma S.C., Singh H.B.","Germanium; Ligands; Synthesis (chemical)","Inorganic Chemistry (100.0)",658,181.3,-9.8%,7,5.4,3.0%,13.6%,5,0.57,0.15,0.20,33
+58 (EC),"Nataraj P.S.V., Patil M.D., Jeyasenthil R.","Feedback; Robust control; Controllers","Software (56.6); Control and Systems Engineering (43.4)",466,166.1,-12.8%,14,11.2,6.8%,2.5%,1,1.67,0.00,0.09,22
+59 (EC),"Mukherjee A., Nandi B.K., Varma R.","transverse momentum; partons; production","Nuclear and High Energy Physics (100.0)",440,173.1,-2.6%,24,15.0,8.7%,-8.7%,5,0.59,0.04,1.05,126
+60 (EC),"Chakrabarti S., Adhikary S., Ghadi H.","Semiconductor quantum dots; quantum dots; Photoluminescence","Condensed Matter Physics (100.0)",487,166.0,-17.4%,35,29.9,18.0%,2.1%,1,4.91,1.56,0.77,112
+61 (EC),"Bahadur D., Sahu N.K.U., Jaiswal M.K.","Nanoparticles; clusters; potential","Physical and Theoretical Chemistry (72.1); General Materials Science (27.9)",696,159.7,2.6%,13,7.8,4.9%,49.9%,1,1.02,1.15,3.85,122
+62 (EC),"Murthy S.K., Mavinkurve M., Kenkre A.B.","science; model; student","Education (100.0)",451,154.8,8.9%,9,3.5,2.3%,41.9%,6,0.82,0.00,-1.27,1
+63 (EC),"Prasad S.V.G.V.A., Venkataramani N., Bohra M.","Ferrite; Magnetization; Magnetic properties","Condensed Matter Physics (64.4); Electronic, Optical and Magnetic Materials (35.6)",547,157.9,-11.7%,24,16.2,10.2%,0.1%,1,2.27,0.63,1.80,113
+64 (EC),"Patwardhan S.C., Bavdekar V.A., Deshpande A.P.","Kalman filters; Estimation; Covariance matrix","Control and Systems Engineering (100.0)",372,153.9,6.4%,9,5.0,3.3%,-67.5%,2,0.63,0.30,-0.66,82
+65 (EC),"Kulkarni S.S., Emmadi M., Jana S.","Glycosylation; Disaccharides; Lipopolysaccharides","Organic Chemistry (100.0)",515,154.8,-6.6%,12,7.1,4.6%,36.5%,2,0.98,0.55,2.19,56
+66 (EC),"Kottantharayil A., Saseendran S.S., Kottantharayil A.","Silicon; Solar cells; Passivation","Condensed Matter Physics (54.0); Electrical and Electronic Engineering (46.0)",353,144.3,-3.5%,7,3.6,2.5%,51.2%,8,0.53,0.00,0.18,3
+67 (EC),"Agarwal V.K., Shreelakshmi M.P., Thale S.S.","Energy storage; Control; Controllers","Electrical and Electronic Engineering (100.0)",540,136.9,-18.0%,6,2.5,1.8%,-25.6%,7,0.57,0.00,0.10,12
+68 (EC),"Mitra M., Mujumdar P.M., Yelve N.P.","Cracks; Damage detection; Structural health monitoring","Mechanical Engineering (71.6); General Physics and Astronomy (28.4)",291,139.3,-6.5%,8,5.9,4.2%,83.3%,5,0.71,0.83,2.15,8
+69 (EC),"Shukla A.K., Chakraborty H., Gundra K.","electrons; models; excitation","Condensed Matter Physics (53.2); General Chemistry (46.8)",446,141.0,-0.7%,13,7.2,5.1%,-9.4%,1,1.03,0.00,2.22,48
+70 (EC),"Padhi P., Shaikh I.","Implied volatility; Volatility; Realized volatility","Economics and Econometrics (61.7); Finance (38.3)",355,129.5,7.3%,8,6.3,4.8%,56.7%,1,1.39,1.50,0.92,41
+71 (EC),"Iyer S.R., Pal Y., Khaparde S.A.","student; Students; course","Education (100.0)",368,116.0,3.7%,6,4.8,4.1%,40.3%,2,0.90,0.00,1.99,4
+72 (EC),"Jangid R.S., Sinha R., Narkhede D.I.","Towers; Damping; Earthquakes","Civil and Structural Engineering (72.9); Mechanical Engineering (27.1)",272,126.4,13.0%,7,3.2,2.5%,19.4%,7,0.36,0.00,-5.26,18
+73 (EC),"Maji S.K., Ghosh D., Jacob R.S.","Amyloid; alpha-Synuclein; Proteins","Biochemistry (78.4); General Chemistry (21.6)",618,126.0,-1.8%,16,8.0,6.3%,37.7%,1,1.19,0.96,-0.36,114
+74 (EC),"Suresh K.G., Gupta S.B., Pal L.","Magnetocaloric effects; Entropy; Magnetization","Condensed Matter Physics (100.0)",339,126.0,8.3%,22,15.2,12.0%,67.5%,1,1.59,0.78,1.86,91
+75 (EC),"Raja V.S., Padekar B.S., Pustode M.D.","Stress corrosion cracking; Magnesium alloys; Hydrogen embrittlement","General Materials Science (100.0)",332,123.4,3.1%,9,8.3,6.7%,7.2%,4,0.58,0.35,-7.67,45
+76 (EC),"Mitra M., Mujumdar P.M., Bijudas C.R.","Surface waves; Damage detection; Structural health monitoring","Mechanical Engineering (67.8); Civil and Structural Engineering (32.2)",321,122.6,-15.1%,14,7.4,6.0%,-37.2%,2,0.79,0.00,0.74,43
+77 (EC),"Khaparde S.A., Ravikumar G.V.V., Joshi R.K.","Wind power; Wind; Electric utilities","Electrical and Electronic Engineering (100.0)",327,119.4,12.8%,7,5.3,4.5%,31.2%,2,0.88,0.75,1.83,17
+78 (EC),"Pawaskar D.N., Joglekar M.M., Kulkarni S.S.","Electrostatic actuators; MEMS; Electrostatics","Mechanical Engineering (100.0)",331,118.4,-2.9%,9,4.2,3.6%,-56.5%,5,0.36,0.00,-0.14,58
+79 (EC),"Malakar P., Venkatesh K.V., Karmakar R.","Escherichia coli; Gene expression; Growth","Molecular Biology (100.0)",425,117.2,3.0%,11,5.9,5.0%,58.8%,2,0.59,0.00,-0.09,26
+80 (EC),"Bhattacharyya P., Balamurali A.R., Sharma R.","Semantics; Computational linguistics; Linguistics","General Computer Science (56.7); Software (43.3)",446,114.5,-0.2%,3,2.4,2.1%,0.0%,5,0.67,0.00,1.28,9
+81 (EC),"Srivastava S., Ray S.K., Patankar S.","Malaria; Plasmodium vivax; India","Infectious Diseases (72.7); Biochemistry (27.3)",277,100.1,14.8%,17,8.8,8.8%,11.8%,1,1.25,1.58,1.87,209
+82 (EC),"Khakhar D.V., Tripathi A.K., Gharat S.H.","Granular materials; separation; flow","Condensed Matter Physics (100.0)",271,113.6,4.0%,7,3.7,3.3%,-38.8%,7,0.44,0.05,-1.51,45
+83 (EC),"Bandyopadhyay S., Desai N.B., Kedare S.B.","Solar energy; Solar collectors; Efficiency","Renewable Energy, Sustainability and the Environment (100.0)",316,108.6,28.0%,12,7.3,6.8%,62.0%,1,1.35,0.87,2.91,28
+84 (EC),"Agarwal V.K., Chatterjee K., Duttagupta S.P.","Electric potential; DC-DC converters; Photovoltaic cells","Electrical and Electronic Engineering (100.0)",331,95.7,0.0%,9,4.8,5.0%,15.9%,1,1.03,0.00,0.35,10
+85 (EC),"Rao C.P., Mitra A., Areti S.","Fluorescence; Metal ions; Ions","General Chemistry (100.0)",398,108.9,-17.0%,7,5.4,5.0%,-15.4%,2,0.82,0.00,-0.04,58
+86 (EC),"Sasidhar Y.U., Shukla R.T., Chakrabarti R.","Polymers; Receptor, IGF Type 2; Cyclization","General Medicine (59.2); Biochemistry (40.8)",377,110.2,-4.1%,6,4.2,3.8%,22.6%,3,0.89,0.00,-3.34,11
+87 (EC),"Trivedi A., Krishna S.N., Manasa L.","Model checking; Algorithms; Computability and decidability","General Computer Science (50.2); Theoretical Computer Science (49.8)",354,107.1,-9.5%,5,4.4,4.1%,83.3%,4,0.78,0.00,-5.13,2
+88 (EC),"Wangikar P.P., Singh M.P.V.V., Gupta V.H.","Tuberculosis; Isoniazid; Antitubercular Agents","General Medicine (100.0)",278,95.8,0.9%,4,3.0,3.1%,-7.1%,3,0.71,0.44,0.15,30
+89 (EC),"Kathuria V., Narayanan K.V.","Productivity; Exporting; Firms","Economics and Econometrics (67.0); General Economics,Econometrics and Finance (33.0)",286,94.1,-10.7%,6,4.1,4.3%,-27.2%,1,1.29,0.00,-1.32,8
+90 (EC),"Vasa P., Singh M.S.","Plasmons; polaritons; coupling","Electronic, Optical and Magnetic Materials (100.0)",321,100.8,9.2%,11,9.1,9.0%,30.2%,2,0.95,0.18,0.01,89
+91 (EC),"Asolekar S.R., Kalbar P.P., Karmakar S.","Decision making; sustainable development; sustainability","Geography, Planning and Development (50.1); General Engineering (49.9)",363,89.1,-2.3%,4,2.4,2.7%,-5.5%,5,0.60,0.00,-3.03,30
+92 (EC),"Sarkar S.K., Subbiah A.S., Chowdhury A.A.","Perovskite; Solar cells; Conversion efficiency","General Materials Science (63.9); Electrical and Electronic Engineering (36.1)",321,95.9,39.4%,9,4.6,4.8%,62.7%,3,0.63,1.11,4.59,102
+93 (EC),"Kulkarni P.T., Mishra D., Bellur U.","Data storage equipment; Virtual reality; Program processors","Software (100.0)",240,91.2,14.7%,6,4.3,4.7%,28.7%,2,0.74,0.20,0.78,13
+94 (EC),"Sukhatme S.P., Bandyopadhyay S., Bade M.H.","electricity; energy; poverty","Management, Monitoring, Policy and Law (58.0); General Engineering (42.0)",235,80.9,-1.3%,6,3.9,4.8%,-14.9%,4,0.82,0.00,-4.24,35
+95 (EC),"Joshi S.S., Singh R.K.P., Mastud S.A.","Electric discharge machining; Machining; Electrodes","Industrial and Manufacturing Engineering (68.1); General Materials Science (31.9)",194,85.7,-13.4%,7,5.3,6.1%,-4.1%,1,1.42,0.13,2.30,13
+96 (EC),"Wangikar P.P., Gaudana S.B., Krishnakumar S.","Cyanothece; Cyanobacteria; Photosynthesis","Biotechnology (59.8); Biochemistry (40.2)",340,83.2,4.2%,14,7.7,9.3%,8.7%,2,0.78,0.56,0.75,45
+97 (EC),"Buddhiraju K.M., Banerjee B., Varma S.","Image segmentation; Clustering algorithms; Algorithms","General Computer Science (64.4); General Earth and Planetary Sciences (35.6)",251,75.0,-14.4%,6,4.3,5.7%,-76.9%,1,1.62,0.00,-2.60,13
+98 (EC),"Lahiri G.K.U., Mobin S.M., Agarwala H.","ligands; oxidation; reduction (chemistry)","Inorganic Chemistry (66.1); Physical and Theoretical Chemistry (33.9)",314,76.4,-8.5%,40,21.7,28.5%,-6.0%,2,0.81,1.69,1.26,315
+99 (EC),"Lodha S., Bhatt P., Kothari S.","Germanium; Doping (additives); Chemical activation","Electrical and Electronic Engineering (63.3); Condensed Matter Physics (36.7)",228,69.2,12.7%,14,7.3,10.6%,70.0%,1,1.27,0.21,2.42,64
+100 (EC),"Bhattacharyya A.R., Panwar A.S., Poyekar A.V.","Multiwalled carbon nanotubes (MWCN); Carbon nanotubes; Percolation (computer storage)","General Chemistry (100.0)",248,59.5,8.7%,12,5.3,8.8%,45.8%,1,1.58,0.80,1.79,63
+101 (EC),"Pani A.K., Yadav S.K., Goswami D.","Galerkin methods; Local discontinuous Galerkin method; Integrodifferential equations","Applied Mathematics (100.0)",150,58.7,0.9%,7,5.8,9.9%,20.0%,1,1.17,0.00,-1.99,11
+102 (EC),"Prabhu S.V., Agrawal A.M.I.T., Bhadouriya R.A.M.B.I.R.","Heat transfer; Heat transfer coefficients; Tubes (components)","Mechanical Engineering (57.9); Condensed Matter Physics (42.1)",111,57.8,11.8%,4,3.3,5.6%,56.7%,5,0.59,0.20,-8.15,5
+
+"© 2017 Elsevier B.V. All rights reserved. SciVal, RELX Group and the RE symbol are trade marks of RELX Intellectual Properties SA, used under license."

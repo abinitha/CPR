@@ -1,0 +1,23 @@
+set xlabel "Industry Income score-17" font "Verdana,18"
+set ylabel "Industry Income score-16" font "Verdana,18"
+set ylabel offset 1,0
+set title "THE 2016-2017" font "Verdana,18" 
+set border lw 3
+set lmargin at screen 0.15
+set xtics font ",14"
+set ytics font ",14"
+set xtics nomirror
+set ytics nomirror
+set xrange[0:100]
+set yrange[0:100]
+set key left top box 1
+set datafile separator ","
+set term png
+set output "IndInc.png"
+set label "Variability Index=0.20249" at 80,25 right 
+
+set label "σ1=0.1191" at 80,25 right
+set label "σ2=0.2025" at 80,21 right 
+
+plot "Ind Inc.csv" using 3:2 pt 20 ps 1 title "Top800-Non Indian", "line.csv" using 1:2 with line lw 1.85 lc rgb "black" notitle,"Ind Inc.csv" using 5:4 pt 9 title "Top800-Indian"
+

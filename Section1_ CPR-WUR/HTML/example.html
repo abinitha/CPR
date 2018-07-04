@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function () {
+
+    $.ajax({
+        type: "GET",
+        url: "Rank1.csv",
+        dataType: "text",
+        success: function (data) { processData(data); }
+    });
+
+    function processData(allText) {
+        var allLinesArray = allText.split('\n');
+        if (allLinesArray.length > 0) {
+
+            var dataPoints = [];
+            for (var i = 0; i <= allLinesArray.length - 1; i++) {
+				var rowData = allLinesArray[i].split(',');
+				if(rowData && rowData.length > 1)
+					dataPoints.push({ x: rowData[1], y: parseInt(rowData[2]), name:rowData[0] });
+            }
+            chart.options.data[0].dataPoints = dataPoints;
+            chart.render();
+        }
+    }
+
+            
+    var chart = new CanvasJS.Chart("chartContainer", {
+        height:500,
+		width:500,
+		zoomEnabled: true,
+		panEnabled:false,
+		animationEnabled:true,
+		theme: "theme6",
+        title: {
+            text: "Rank 14-15"
+        },
+		axisX: {						
+			title: "THE-Rank 14",
+			minimum:0,
+			maximum:250
+	    },
+		axisY: {						
+			title: "The-Rank 15",
+			minimum:0
+		},
+        data: [
+        {
+            type: "scatter",
+			toolTipContent: "<span style='\"'color: {color};'\"'><strong>{name}</strong></span> <br/> <strong>The-Rank 2016:</strong> {y} <br/> <strong>THE-Rank 2015:</strong> {x} ",
+			//color:"black",
+            dataPoints: []
+        }
+        ]
+    });
+            
+});
+</script>
+<script type="text/javascript" src="canvasjs.min.js"></script>
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+</body>
+</html>

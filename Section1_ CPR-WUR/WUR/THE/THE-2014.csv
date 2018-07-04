@@ -1,0 +1,401 @@
+Rank,Instituion,Teaching,International Outlook,Research,Citation,Industry Income,Overall
+1,California Institute of TechnologyUnited States of America,94.4,65.8,98.2,99.8,91.2,94.9
+2,Harvard UniversityUnited States of America,95.3,66.2,98.5,99.1,40.6,93.9
+2,University of OxfordUnited Kingdom,89,90.2,98.5,95.4,90.3,93.9
+4,Stanford UniversityUnited States of America,94.7,68,96.8,99.1,61.3,93.8
+5,Massachusetts Institute of TechnologyUnited States of America,92.9,82,89,100,94.3,93
+6,Princeton UniversityUnited States of America,89.9,59.6,97.6,99.7,80.5,92.7
+7,University of CambridgeUnited Kingdom,90.6,86.7,95.3,95.7,52.8,92.3
+8,"University of California, BerkeleyUnited States of America",83.2,57.3,97.5,99.3,59.5,89.8
+9,University of ChicagoUnited States of America,85.6,58.6,88.2,98,-,87.8
+10,Imperial College LondonUnited Kingdom,84.5,91.8,88.1,90,72.3,87.5
+11,Yale UniversityUnited States of America,89.5,57.6,90.5,93.5,38.7,87.4
+12,"University of California, Los AngelesUnited States of America",84.8,46.4,91,95.6,-,86.3
+13,Columbia UniversityUnited States of America,86.6,68,79.1,95.6,-,85.2
+14,ETH Zurich – Swiss Federal Institute of Technology ZurichSwitzerland,77.6,96.7,88.2,85,78.8,84.5
+15,Johns Hopkins UniversityUnited States of America,75.7,59.3,85.1,95,100,83.7
+16,University of PennsylvaniaUnited States of America,79.8,40.6,81.2,95,45.2,81
+17,Duke UniversityUnited States of America,73.9,50,73,96.7,100,79.3
+18,University of MichiganUnited States of America,70,49.5,86.2,90.8,53.5,79.2
+19,Cornell UniversityUnited States of America,72.1,55.6,83.8,90.8,35.8,79.1
+20,University of TorontoCanada,73.6,70,81.5,84.5,45.8,78.3
+21,University College LondonUnited Kingdom,70.5,90.2,77.5,84.1,46.8,77.6
+22,Northwestern UniversityUnited States of America,70.2,34.4,76,97.1,61.9,77.1
+23,University of TokyoJapan,84.7,29.6,88,69.8,56.7,76.4
+24,Carnegie Mellon UniversityUnited States of America,63.1,58.1,77.4,93.9,52.5,76
+25,University of WashingtonUnited States of America,65.6,43.2,69.2,95.6,43.1,73.4
+26,National University of SingaporeSingapore,68,94.3,77.8,66.4,64.3,72.4
+27,University of Texas at AustinUnited States of America,64.7,42.4,69,91.3,59.6,72.2
+28,Georgia Institute of TechnologyUnited States of America,59.4,67.8,68.6,87.9,71.3,71.6
+29,University of Illinois at Urbana-ChampaignUnited States of America,66,41.1,78.9,79.4,-,71.4
+30,University of Wisconsin-MadisonUnited States of America,69.8,32.3,67.7,87.2,51.2,71.1
+31,University of British ColumbiaCanada,59.9,84.2,67.9,83.7,43.1,70.8
+32,London School of Economics and Political ScienceUnited Kingdom,65.2,81.7,74.2,69.2,43.6,69.8
+33,"University of California, Santa BarbaraUnited States of America",47.8,61.8,58.2,99.4,86.7,68.4
+34,University of MelbourneAustralia,57.1,81.3,64.2,80.2,65.1,68.2
+35,McGill UniversityCanada,61.5,77.8,68.1,74.5,40.8,68.1
+36,Karolinska InstituteSweden,58.1,73.2,67.7,76,68.7,67.8
+37,École Polytechnique Fédérale de LausanneSwitzerland,52.9,98.2,48.3,95.9,49.2,67.7
+38,King’s College LondonUnited Kingdom,56.2,86,56.8,87.6,38.3,67.6
+39,University of EdinburghUnited Kingdom,56.6,81.5,56.9,87.6,42.5,67.5
+40,New York UniversityUnited States of America,65.4,41.8,58.4,87.9,29.9,67.4
+40,"University of California, San DiegoUnited States of America",52,35.6,63,96.7,48.4,67.4
+42,Washington University in St LouisUnited States of America,59.5,44.6,52.9,96.4,-,67.2
+43,University of Hong KongHong Kong,61.6,80.3,69.9,61.5,56.9,65.3
+44,Seoul National UniversitySouth Korea,76.4,29.4,79.2,47.3,86,65.2
+45,Peking UniversityChina,72.3,60.6,58.1,62.8,99.9,65
+46,University of MinnesotaUnited States of America,61.4,31.7,62.7,81.2,-,64.9
+47,University of North Carolina at Chapel HillUnited States of America,57.6,35,55.3,90.2,39.1,64.5
+48,Australian National UniversityAustralia,51.8,91.4,65.1,71.2,44.8,64.4
+49,Pennsylvania State UniversityUnited States of America,55.3,33.7,65.9,79.4,60,64.2
+50,Boston UniversityUnited States of America,56.5,44.2,46.1,95.3,31.1,63.5
+50,Tsinghua UniversityChina,66.8,42.6,65.9,59.9,99.9,63.5
+52,Brown UniversityUnited States of America,55.4,37.7,52,91.3,33.5,63.2
+52,Kyoto UniversityJapan,69.5,27.5,69.5,58.2,78.7,63.2
+52,"University of California, DavisUnited States of America",55.5,53.7,56.4,81.2,51.3,63.2
+55,LMU MunichGermany,55.4,56.3,54.1,83.3,41.4,63.1
+56,Korea Advanced Institute of Science and Technology (KAIST)South Korea,65.6,34.3,60,67,100,62.9
+57,Hong Kong University of Science and TechnologyHong Kong,52.4,77,59.7,72.3,58.5,62.5
+58,University of ManchesterUnited Kingdom,54.5,80.9,52.2,77.3,40.8,62.3
+59,Ohio State UniversityUnited States of America,58.3,48.1,52.9,79.4,47.7,62
+60,Pohang University of Science and TechnologySouth Korea,54.2,33.8,49,85.7,100,61.7
+61,KU LeuvenBelgium,48.6,58.6,59.9,72.9,99.9,61.3
+62,Purdue UniversityUnited States of America,53.7,60.6,62.5,67,-,60.7
+63,The University of QueenslandAustralia,43.4,79.7,58,73.3,61,59.9
+63,University of GöttingenGermany,45.1,51.5,48.8,89.6,41.2,59.9
+65,Rice UniversityUnited States of America,44.1,67.7,35.5,99.9,35.2,59.8
+65,École Normale SupérieureFrance,54.6,67.1,37.1,87,44.7,59.8
+67,Leiden UniversityNetherlands,41.9,58.5,53.2,84.2,49.8,59.4
+68,Heidelberg UniversityGermany,57.8,61.3,44.8,76,42.1,59.2
+69,Delft University of TechnologyNetherlands,55.8,74.2,67.3,47.2,100,59.1
+70,University of Southern CaliforniaUnited States of America,58.7,43.4,43.2,81.2,34.6,59
+70,École PolytechniqueFrance,46.3,86.1,40.5,82.3,74,59
+72,University of SydneyAustralia,47.4,84.8,55.4,66.6,66.3,58.8
+73,Erasmus University RotterdamNetherlands,37.8,66.6,53.3,81.2,56,58.1
+74,University of BaselSwitzerland,39.1,91.1,41,81.4,98.5,57.7
+74,Utrecht UniversityNetherlands,36.3,49.2,54.7,82,85.6,57.7
+76,Nanyang Technological UniversitySingapore,37.7,91,54.3,67.5,100,57.2
+77,Wageningen University and Research CenterNetherlands,43.1,78.3,44.3,74.1,100,56.8
+78,University of PittsburghUnited States of America,48.6,29.4,45.4,84.4,39.4,56.7
+79,University of BristolUnited Kingdom,39.6,75,41.2,84.9,38,56.3
+80,Durham UniversityUnited Kingdom,38.3,76.8,38.3,88.2,35.3,56.1
+80,Emory UniversityUnited States of America,50.4,42.4,31.6,90.8,43.2,56.1
+80,Tufts UniversityUnited States of America,46.7,43.4,32.1,93.9,39.1,56.1
+83,Michigan State UniversityUnited States of America,50,52.6,49.1,71.5,32,55.9
+83,University of AmsterdamNetherlands,38.3,58.3,54.1,75,50.2,55.9
+85,Ghent UniversityBelgium,41,49.5,48.9,74.9,94.6,55.5
+86,Free University of BerlinGermany,43.8,58.7,58,64.8,34.4,55.3
+87,Technical University of MunichGermany,48.2,63.1,35.2,80.7,50.1,55.2
+88,Case Western Reserve UniversityUnited States of America,51,35.4,38.6,82.8,-,55
+88,Vanderbilt UniversityUnited States of America,46.8,28.6,38.7,86.5,51,55
+90,University of Notre DameUnited States of America,41.2,47.5,34.7,91.8,31.2,54.7
+91,Monash UniversityAustralia,42.5,78.3,48.9,65.4,67,54.6
+92,McMaster UniversityCanada,35.3,68,42.7,79.4,86.9,54.5
+93,"University of California, IrvineUnited States of America",37.1,36.4,40.8,89.7,44.9,54.1
+94,Humboldt University of BerlinGermany,45.6,54.4,48.7,68.4,-,53.8
+95,University of RochesterUnited States of America,42.8,50.7,29.9,89.7,41.4,53.6
+96,Pierre and Marie Curie UniversityFrance,50.2,65.5,26.7,82.3,34.4,53.5
+97,University of Colorado BoulderUnited States of America,34.2,40.5,33.3,97.3,-,53.4
+98,Maastricht UniversityNetherlands,33.1,89.1,47.1,65.8,98.2,52.9
+98,University of GroningenNetherlands,36,53,48.6,71.1,87.6,52.9
+100,University of HelsinkiFinland,35.5,51.3,46.5,77.8,30.7,52.6
+100,University of YorkUnited Kingdom,31.7,73.6,33.2,89.4,33.3,52.6
+102,"Royal Holloway, University of LondonUnited Kingdom",30.4,92.6,21.2,97.5,33.1,52.5
+103,"Rutgers, the State University of New JerseyUnited States of America",43.4,31.4,50.1,70.4,35.4,52.4
+103,Stockholm UniversitySweden,28.6,53.4,41.4,88.7,31.5,52.4
+103,University of ArizonaUnited States of America,39.4,38,44.4,74.6,82.3,52.4
+106,Eindhoven University of TechnologyNetherlands,37.3,68.7,47.9,63.6,100,52.3
+106,University of MontrealCanada,45.7,75.6,42.9,59.3,90.9,52.3
+108,"University of Maryland, College ParkUnited States of America",39,42.4,37.2,84.4,32.1,52.2
+109,Chinese University of Hong KongHong Kong,45.5,66.9,54.7,52.4,46.4,52
+109,University of AlbertaCanada,44.6,70.1,47.8,59.3,46.8,52
+111,Uppsala UniversitySweden,38.9,57.8,49.7,66.4,40.5,51.9
+112,University of SheffieldUnited Kingdom,40.6,71.6,38.1,72.4,42.7,51.8
+112,University of VirginiaUnited States of America,49.7,30.2,33.9,77.5,49.4,51.8
+114,Paris-Sud UniversityFrance,35.9,62,32.1,86.3,28.8,51.7
+114,Queen Mary University of LondonUnited Kingdom,31,88,29.2,87,37.7,51.7
+114,University of New South WalesAustralia,38.8,83.5,50.1,58,52.6,51.7
+117,KTH Royal Institute of TechnologySweden,45,86.2,41.6,55.6,100,51.6
+117,Technical University of DenmarkDenmark,38.9,77.4,26.9,78.7,98.7,51.6
+117,University of GlasgowUnited Kingdom,34.5,73.7,36.6,79.2,40.8,51.6
+117,University of St AndrewsUnited Kingdom,36.9,88.8,32.2,77.3,40.3,51.6
+121,University of SussexUnited Kingdom,29.5,80.1,32.2,86.3,31.3,51.2
+121,University of ZurichSwitzerland,38,85.5,29.8,78.1,39.2,51.2
+123,Lund UniversitySweden,30.1,67.4,48.6,72,33.5,51.1
+124,University of GenevaSwitzerland,31.4,96.7,33.9,77.2,38.3,51
+125,Tokyo Institute of TechnologyJapan,52.4,32.1,51.4,52,67.5,50.8
+126,Dartmouth CollegeUnited States of America,38.5,32.7,34.5,83.6,42.3,50.5
+126,University of Cape TownSouth Africa,26.3,77.2,31,84.6,85.6,50.5
+128,University of FloridaUnited States of America,48,30.9,49.9,59.9,-,50.4
+129,RWTH Aachen UniversityGermany,40.4,55.5,31.3,76,73.9,50.3
+129,Trinity College DublinRepublic of Ireland,33.1,85.9,25.2,85.4,30.8,50.3
+131,Radboud University NijmegenNetherlands,29.7,58.6,46.1,73.1,42.5,50.2
+132,Indiana UniversityUnited States of America,45.8,38.3,37,71.5,-,50.1
+132,University of LausanneSwitzerland,27.3,84.5,39.7,74.5,52.7,50.1
+132,University of MassachusettsUnited States of America,40.7,33.1,38.9,74.6,52,50.1
+135,Boston CollegeUnited States of America,26.3,54.4,26.4,96.2,49.4,50
+136,"University of California, Santa CruzUnited States of America",25.9,39.4,29.1,99.9,-,49.9
+137,Lancaster UniversityUnited Kingdom,34.8,81.2,32.6,75.4,32.2,49.7
+138,Aarhus UniversityDenmark,30.7,67.2,46.4,65.8,67.5,49.6
+139,Colorado School of MinesUnited States of America,22.7,47.3,27.2,97.1,74.8,49.5
+139,University of LeedsUnited Kingdom,34.9,68.5,38.2,71.3,42.1,49.5
+141,University of WarwickUnited Kingdom,39.8,82.9,42.4,58.7,34.6,49.4
+142,National Taiwan UniversityTaiwan,47.1,27.3,58.3,47.8,47.1,49.2
+143,University of UtahUnited States of America,39.4,25.5,36.1,76.6,61.3,49.1
+144,Osaka UniversityJapan,52.5,27.6,47.6,50.4,71.2,49
+144,VU University AmsterdamNetherlands,33.1,49.2,38.8,74.1,59.8,49
+146,Arizona State UniversityUnited States of America,33.8,28.6,35.9,83.6,31.4,48.9
+146,University of SouthamptonUnited Kingdom,33.2,79.1,31.4,75.4,38.6,48.9
+148,"University of California, RiversideUnited States of America",25.9,62.2,25.8,91.8,37.6,48.7
+148,University of ExeterUnited Kingdom,29.2,76.7,32.8,78.3,37.2,48.7
+150,Tohoku UniversityJapan,51.8,29.3,48.1,47.3,85.9,48.5
+150,University of CopenhagenDenmark,33.9,76,32,73.1,43,48.5
+152,University of FreiburgGermany,40.1,55.9,28.4,71.8,86.6,48.4
+153,University of BirminghamUnited Kingdom,42.8,72.2,39.6,57.5,36.7,48.3
+154,Karlsruhe Institute of TechnologyGermany,39,61.9,33.6,64.8,83,48
+155,Joseph Fourier UniversityFrance,39.1,57.1,27.6,75.6,36.1,47.8
+156,École Normale Supérieure de LyonFrance,37.1,63.3,35.2,67.7,30,47.5
+157,University of BernSwitzerland,38.9,78.5,31.4,64.3,45.1,47.4
+157,University of NottinghamUnited Kingdom,38.4,70.3,36.3,62.3,39.2,47.4
+159,Texas A&M UniversityUnited States of America,43,46.8,50.2,48.6,47.5,47.2
+160,Georgetown UniversityUnited States of America,51.9,43.6,25.6,62.3,71.9,47
+161,University College DublinRepublic of Ireland,27.1,79.6,29,77,33.1,46.7
+161,University of IowaUnited States of America,44.2,29.3,31.6,70.4,-,46.7
+161,University of LeicesterUnited Kingdom,32.5,81.6,32.9,66.9,33.7,46.7
+164,Brandeis UniversityUnited States of America,28.8,50.6,24.3,86.5,36.8,46.6
+164,Pompeu Fabra UniversitySpain,27,51.7,27.1,85.2,37.3,46.6
+164,University of AntwerpBelgium,34.5,61.1,33.2,64.1,100,46.6
+164,University of AucklandNew Zealand,26.7,88,33.5,67,74.5,46.6
+168,University of Western AustraliaAustralia,34.6,88.6,34.7,58,63.3,46.4
+169,University of LiverpoolUnited Kingdom,31.1,75,31.2,70.3,37.7,46.3
+170,University of TwenteNetherlands,32.7,65.5,43.8,54.3,81.8,46.2
+170,University of ViennaAustria,35.8,89.5,36.1,57.4,29.3,46.2
+172,Université Catholique de LouvainBelgium,30.1,63.4,35.3,67.5,57.8,46.1
+172,Yeshiva UniversityUnited States of America,47.3,25.6,20.6,77.5,-,46.1
+174,University of DelawareUnited States of America,27,37.1,35.5,73.6,98.1,46
+174,University of East AngliaUnited Kingdom,27.2,72.3,24,81.7,29.5,46
+176,University at BuffaloUnited States of America,40.2,55.4,39.3,56.2,39.4,45.9
+176,Université Libre de BruxellesBelgium,22.7,77.5,30.4,77.8,-,45.9
+178,Paris Diderot University – Paris 7France,24,67,19.1,90.2,29.1,45.8
+178,Stony Brook UniversityUnited States of America,32.5,57.8,22.9,80.3,32.3,45.8
+180,Wake Forest UniversityUnited States of America,36.1,23.7,21.8,85.1,38.8,45.7
+181,Rensselaer Polytechnic InstituteUnited States of America,30.7,35.6,35.5,71.5,65.6,45.6
+181,University of BonnGermany,35.8,54.2,20.4,80.7,-,45.6
+183,Iowa State UniversityUnited States of America,35.6,38.8,32.4,71.5,28.2,45.5
+184,Northeastern UniversityUnited States of America,34.5,48.5,19.8,82,34.5,45.4
+185,University of MiamiUnited States of America,43.2,32.9,25.8,71.5,-,45.3
+185,University of OsloNorway,32.4,70.3,33,65.4,32.5,45.3
+185,University of OttawaCanada,36.5,62.4,34.8,60.6,41.6,45.3
+188,University of AberdeenUnited Kingdom,27.9,83.6,26.8,71.3,45.1,45.2
+188,University of Texas at DallasUnited States of America,25.5,46.8,28.6,81.2,44.4,45.2
+190,Yonsei UniversitySouth Korea,44.5,35,47,44.2,70.1,45.1
+191,Hebrew University of JerusalemIsrael,42.8,52.9,37,54.3,33.3,45
+191,University of Illinois at ChicagoUnited States of America,45.5,43.3,34.9,56.2,31.1,45
+193,Mines ParisTechFrance,41.6,58.7,22.5,62.7,99.1,44.9
+194,George Washington UniversityUnited States of America,45.6,36,26.3,65.9,30,44.8
+194,University of ReadingUnited Kingdom,36,70.6,34.1,58.7,34.4,44.8
+196,University of DundeeUnited Kingdom,22.5,65.7,21.4,84.9,46.5,44.7
+197,Florida Institute of TechnologyUnited States of America,15.9,61.5,14.5,99,44.7,44.6
+198,Newcastle UniversityUnited Kingdom,29.7,76.3,28.3,68.1,36.9,44.5
+199,Boğaziçi UniversityTurkey,20.5,49.8,22.8,88.2,45.9,44.3
+199,Tel Aviv UniversityIsrael,39.9,43.3,48.3,44.8,44.7,44.3
+201-225,"Birkbeck, University of LondonUnited Kingdom",31.3,83.5,27.4,59.9,29,-
+201-225,Cardiff UniversityUnited Kingdom,28,70.6,30.9,64.6,34.4,-
+201-225,City University of Hong KongHong Kong,30.9,65.9,33.5,60.2,55.7,-
+201-225,Fudan UniversityChina,41.6,37.9,31.9,54.1,46.7,-
+201-225,Goethe University FrankfurtGermany,28.9,56.4,20.4,80.7,39.8,-
+201-225,Istanbul Technical UniversityTurkey,26.2,35.7,19.2,82.3,68.2,-
+201-225,Korea UniversitySouth Korea,46.2,35.5,42.2,41.1,70.3,-
+201-225,Laval UniversityCanada,37.7,54,29.1,59.3,68.5,-
+201-225,Middle East Technical UniversityTurkey,39.2,31.2,30,56.4,57,-
+201-225,Nagoya UniversityJapan,37.4,28,32.1,55.1,80.6,-
+201-225,"St George’s, University of LondonUnited Kingdom",20.5,57.3,22.9,84.1,30.6,-
+201-225,Sungkyunkwan University (SKKU)South Korea,37.6,33.7,38.8,45.8,98.6,-
+201-225,Technion Israel Institute of TechnologyIsrael,35.1,59.7,37.2,48.9,36.2,-
+201-225,Tokyo Metropolitan UniversityJapan,19.3,29.4,9.6,100,31,-
+201-225,Ulm UniversityGermany,38.6,54.6,20.6,68.4,51.1,-
+201-225,University of AdelaideAustralia,28.7,78.2,34.3,56.8,54.1,-
+201-225,University of BergenNorway,30.8,62.9,28.2,66.6,34.7,-
+201-225,University of CalgaryCanada,32.8,62.9,30.2,56.8,45.4,-
+201-225,University of GothenburgSweden,23.4,47.1,35.8,64.1,38,-
+201-225,University of InnsbruckAustria,25.2,91.4,17.2,70.6,40.2,-
+201-225,University of Science and Technology of ChinaChina,38.7,25.8,26.1,69.6,69.4,-
+201-225,University of StrasbourgFrance,25.2,69.2,21.1,76.6,32,-
+201-225,University of TrentoItaly,27.2,54.7,22.9,71.5,42.8,-
+201-225,University of TübingenGermany,31.1,56.6,21.6,71.8,32.3,-
+201-225,University of VictoriaCanada,18.1,67,28.5,75.5,30.1,-
+201-225,William & MaryUnited States of America,37.2,26,18.5,73.6,31.9,-
+226-250,Autonomous University of BarcelonaSpain,30.6,48.3,28,64.2,39.1,-
+226-250,Bilkent UniversityTurkey,24.4,43.7,26,69.2,46.6,-
+226-250,Georgia Health Sciences UniversityUnited States of America,47.2,30.8,12.1,63.5,-,-
+226-250,Lomonosov Moscow State UniversityRussian Federation,54.4,55.7,36.6,27,72.2,-
+226-250,Panjab UniversityIndia,25.8,29.3,14,84.7,28.4,-
+226-250,Queen’s UniversityCanada,36.2,59.8,29.5,51.6,63.5,-
+226-250,Renmin University of ChinaChina,35.5,48.4,13.4,69.6,40.4,-
+226-250,Simon Fraser UniversityCanada,22,58.4,27.9,66.7,41.8,-
+226-250,Technical University of DarmstadtGermany,37.6,66.3,30.7,43.3,88,-
+226-250,Tilburg UniversityNetherlands,32,57.6,45.7,39,55.5,-
+226-250,Tulane UniversityUnited States of America,43,29,20.6,61.1,-,-
+226-250,University of BarcelonaSpain,24.5,45,24.7,74.9,30.3,-
+226-250,University of CincinnatiUnited States of America,31.8,25.4,22.3,69.3,36.5,-
+226-250,University of Erlangen-NurembergGermany,32.7,49.6,16.5,71.8,47.5,-
+226-250,University of KielGermany,29.7,44.2,22.7,69.5,39.8,-
+226-250,University of KonstanzGermany,27,58.9,30.7,59.9,59.5,-
+226-250,University of Milan-BicoccaItaly,25.2,42.8,23.3,76,35.3,-
+226-250,University of MünsterGermany,30,45.1,18.2,70.7,39.5,-
+226-250,University of OtagoNew Zealand,24.6,84.8,26.9,56.9,37.6,-
+226-250,University of São PauloBrazil,47.2,24.9,50.8,29.4,40.1,-
+226-250,University of the WitwatersrandSouth Africa,22.4,68.2,29.3,55.8,99,-
+226-250,University of TriesteItaly,19.1,49.8,15,86.7,32.9,-
+226-250,University of TurinItaly,26.1,39.7,20.9,72.7,41.9,-
+226-250,University of WaterlooCanada,28.9,62,37.4,47.7,38.5,-
+226-250,University of Western OntarioCanada,37.3,62.7,33.7,45.1,52.3,-
+226-250,University of WürzburgGermany,27.1,47.4,16,77,30.4,-
+226-250,Vienna University of TechnologyAustria,39.2,72.4,30.8,40.9,66.6,-
+251-275,Brunel University LondonUnited Kingdom,21.6,89.1,19.1,64.6,34.1,-
+251-275,Dalhousie UniversityCanada,32.6,59.1,28.8,50.3,67.1,-
+251-275,Hong Kong Polytechnic UniversityHong Kong,28.4,62.6,35.7,48.4,40.3,-
+251-275,Medical University of ViennaAustria,25.9,69.4,15.9,68.3,33.7,-
+251-275,Montpellier UniversityFrance,23.4,54.2,24.7,67.7,33.4,-
+251-275,Nanjing UniversityChina,36.8,50.8,23.2,52.6,51.8,-
+251-275,National Chiao Tung UniversityTaiwan,37.3,28.9,42.1,37.3,99.5,-
+251-275,National Tsing Hua UniversityTaiwan,39.5,21.5,35.4,44.7,43.4,-
+251-275,Norwegian University of Science and TechnologyNorway,32.2,54.2,26.7,52.9,46.2,-
+251-275,Queen’s University BelfastUnited Kingdom,26.9,87.5,22.8,53.8,48.5,-
+251-275,Sharif University of TechnologyIran,29.7,20.7,37.2,49,98.3,-
+251-275,Swedish University of Agricultural SciencesSweden,29,45.2,23.9,59.3,99.8,-
+251-275,TU Dresden Germany,28.7,49.5,15,71.8,38.4,-
+251-275,University of CologneGermany,29.7,53.4,18.7,63.6,-,-
+251-275,University of EssexUnited Kingdom,30.6,82.4,30.5,47.6,32.7,-
+251-275,University of IcelandIceland,12.5,59.9,24.3,71.1,78.5,-
+251-275,University of Nebraska-LincolnUnited States of America,32.6,42,30,52.4,34.2,-
+251-275,University of NewcastleAustralia,21.2,70.5,28.2,58,74.2,-
+251-275,University of PaviaItaly,27.9,40.5,20,66.7,63.3,-
+251-275,University of South CarolinaUnited States of America,34.6,34.4,27.9,56.2,31.5,-
+251-275,"University of the Andes, ColombiaColombia",14.5,55.7,10.5,89.3,30.6,-
+251-275,Vrije Universiteit BrusselBelgium,30,54.4,24.9,59.3,44.7,-
+276-300,Carleton UniversityCanada,19.4,57.5,24.1,66.7,-,-
+276-300,Chalmers University of TechnologySweden,26.2,61.5,34.8,44.3,77.3,-
+276-300,Colorado State UniversityUnited States of America,28.6,31.4,29.8,57.4,38.5,-
+276-300,Creighton UniversityUnited States of America,41.3,21.7,10.9,68.2,-,-
+276-300,Koç UniversityTurkey,16.6,57.8,17.1,72.1,41.1,-
+276-300,Macquarie UniversityAustralia,20.9,91.1,23.8,54.2,37.9,-
+276-300,Plymouth UniversityUnited Kingdom,16.4,48.3,16,75.4,28.9,-
+276-300,Polytechnic University of MilanItaly,28.6,36.4,25,56.3,75.9,-
+276-300,Queensland University of TechnologyAustralia,26.6,67.9,32.3,44,65.3,-
+276-300,Tokyo Medical and Dental University (TMDU)Japan,43.3,22,21.1,52,46.6,-
+276-300,University College CorkRepublic of Ireland,27.2,67.1,20.1,56.8,50,-
+276-300,University of Alaska FairbanksUnited States of America,26.1,38.2,25.5,57.4,52.5,-
+276-300,University of BathUnited Kingdom,26.7,77.4,25.2,50.1,35,-
+276-300,University of BolognaItaly,30.7,40.7,18.6,64.2,33.5,-
+276-300,University of FribourgSwitzerland,25.9,84.5,16.3,57.6,30.6,-
+276-300,University of GeorgiaUnited States of America,39.6,35,28.9,46.1,30.7,-
+276-300,University of KansasUnited States of America,33.9,33.6,19.8,59.9,35.9,-
+276-300,University of MilanItaly,25.7,35.6,19.8,65.5,39,-
+276-300,University of MontanaUnited States of America,29.5,22.6,15,74.6,34.5,-
+276-300,University of South FloridaUnited States of America,24.1,38.5,31.1,52.4,95,-
+276-300,University of Southern DenmarkDenmark,18.5,66.4,18.3,64.7,70.9,-
+276-300,University of WollongongAustralia,22.8,83.9,25.2,49.1,59.6,-
+276-300,Victoria University of WellingtonNew Zealand,19.7,82.9,27.7,52.9,46.4,-
+276-300,Virginia Polytechnic Institute and State UniversityUnited States of America,33.7,27.5,40.4,38.7,42,-
+276-300,York UniversityCanada,24.2,55.3,28.1,55.5,36.2,-
+301-350,Aalborg UniversityDenmark,20,70.8,24.5,46,39.8,-
+301-350,Aalto UniversityFinland,26.9,64.3,17,57.4,39.4,-
+301-350,Aberystwyth UniversityUnited Kingdom,19.3,65.5,17.6,57.5,32.8,-
+301-350,Autonomous University of MadridSpain,24.5,46,19.4,55,33.4,-
+301-350,Bangor UniversityUnited Kingdom,20.6,68.8,23.2,50.1,30.7,-
+301-350,Bayreuth UniversityGermany,22.8,54.1,12.7,66,-,-
+301-350,Bielefeld UniversityGermany,22.8,46.9,17.9,59.9,35.8,-
+301-350,Claude Bernard University Lyon 1France,21.2,50.6,16.3,61.4,33.3,-
+301-350,Deakin UniversityAustralia,16.6,73.4,18.7,54.2,31.1,-
+301-350,Drexel UniversityUnited States of America,33.9,38.2,15,56.2,32.5,-
+301-350,Heriot-Watt UniversityUnited Kingdom,24.7,87.8,20.8,39,44.3,-
+301-350,Hokkaido UniversityJapan,41,24.6,28.3,32.3,44.2,-
+301-350,Hong Kong Baptist UniversityHong Kong,20.7,59.5,13.9,65.3,30.2,-
+301-350,Kansas State UniversityUnited States of America,26.1,34.1,15.5,57.4,38.7,-
+301-350,Keele UniversityUnited Kingdom,19.4,71.2,19.4,58.7,30.4,-
+301-350,King Mongkut’s University of Technology ThonburiThailand,13,24.4,10.5,75.4,62.2,-
+301-350,Kyushu UniversityJapan,38.6,24.5,28,30.9,75,-
+301-350,Lehigh UniversityUnited States of America,28.9,35.7,16,53.7,39.7,-
+301-350,Linköping UniversitySweden,20.6,50.2,26,55.6,-,-
+301-350,Murdoch UniversityAustralia,16.7,86.4,16,51.7,49.9,-
+301-350,National Cheng Kung UniversityTaiwan,31.5,24.9,40.7,27.6,100,-
+301-350,National Sun Yat-Sen UniversityTaiwan,27.3,22.1,32.6,43.2,45,-
+301-350,"National University of Ireland, GalwayRepublic of Ireland",24.5,69.5,21,50.6,45.7,-
+301-350,Oregon State UniversityUnited States of America,25.7,35.4,19.7,63.5,31.6,-
+301-350,Sapienza University of RomeItaly,27,36.3,25.2,48.2,36.3,-
+301-350,Shanghai Jiao Tong UniversityChina,35.7,22.8,31.8,32.3,79.2,-
+301-350,State University of CampinasBrazil,41.3,19,37.5,27.9,49,-
+301-350,State University of New York AlbanyUnited States of America,23.8,33.9,26.2,58.7,-,-
+301-350,Stellenbosch UniversitySouth Africa,24.7,46.7,29.3,47.1,95.9,-
+301-350,Umeå UniversitySweden,19.8,50.1,29.6,53.1,30.5,-
+301-350,University of CanterburyNew Zealand,18.2,88,24.4,51.6,52.3,-
+301-350,University of ConnecticutUnited States of America,36.1,38.7,22.8,49.9,31.7,-
+301-350,University of CreteGreece,18.2,47.1,16.6,65.6,35,-
+301-350,University of Eastern FinlandFinland,23.8,39.7,18.6,56.1,33.4,-
+301-350,University of HertfordshireUnited Kingdom,14.1,81.1,10.2,66.9,30.3,-
+301-350,University of HoustonUnited States of America,37,31.5,23.8,42.4,36.9,-
+301-350,University of LiègeBelgium,25.1,67.1,16.4,47,60.7,-
+301-350,University of ManitobaCanada,30.8,40,29.3,45.1,52.8,-
+301-350,University of MissouriUnited States of America,32.6,28.9,31.4,44.9,31.1,-
+301-350,University of PaduaItaly,19.3,38.9,17.3,70.4,32,-
+301-350,University of PisaItaly,20.3,35,18.1,64.2,41.7,-
+301-350,University of SalentoItaly,31,37.4,20.4,48.2,51.2,-
+301-350,University of South AustraliaAustralia,22.5,80,21.8,40.2,83.2,-
+301-350,University of TampereFinland,23.1,33.9,22.2,52.3,45.6,-
+301-350,"University of Technology, SydneyAustralia",22.1,87.3,22,47.8,36.4,-
+301-350,University of TsukubaJapan,36.6,32.6,20.9,48.9,35.3,-
+301-350,University of VermontUnited States of America,26.6,21,19.3,57.4,-,-
+301-350,University of WaikatoNew Zealand,18.4,82.4,18.1,56.9,46.3,-
+301-350,University of WarsawPoland,18.7,42.8,14.3,71.1,28.3,-
+301-350,Washington State UniversityUnited States of America,28.4,35.2,26.5,46.1,55.6,-
+301-350,Wayne State UniversityUnited States of America,35.3,28.2,15.7,59.9,-,-
+301-350,Wuhan University of TechnologyChina,14.8,18.9,7.8,78.1,58.7,-
+301-350,Zhejiang UniversityChina,35.9,21,32.1,36.5,94.5,-
+351-400,Charles Darwin UniversityAustralia,17.9,58.9,18.6,49.1,35.5,-
+351-400,Charles University in PragueCzech Republic,29.1,53.2,19.9,43.6,29,-
+351-400,"China Medical University, TaiwanTaiwan",18.9,20.5,28.1,46.2,60.8,-
+351-400,George Mason UniversityUnited States of America,24.5,37.3,18,54.9,28.8,-
+351-400,Hanyang UniversitySouth Korea,30.4,42.9,27.7,26.9,55.3,-
+351-400,Indian Institute of Technology DelhiIndia,33.8,15.3,23,38.5,-,-
+351-400,Indian Institute of Technology KanpurIndia,31.3,17.3,25.2,41.8,42.4,-
+351-400,Indian Institute of Technology KharagpurIndia,39.3,14.7,30,35.3,-,-
+351-400,Indian Institute of Technology RoorkeeIndia,25.1,15.6,12.3,53.6,64.8,-
+351-400,Johannes Kepler University of LinzAustria,20,57.7,15.3,51,41.9,-
+351-400,King Abdulaziz UniversitySaudi Arabia,18.2,74.3,9.4,58.2,39.7,-
+351-400,King Saud UniversitySaudi Arabia,21.4,72.2,21.1,32.3,93.9,-
+351-400,Leibniz University of HanoverGermany,30.9,47.2,15.4,39.5,42.7,-
+351-400,Liverpool John Moores UniversityUnited Kingdom,14.9,58.1,12.5,57.5,28.8,-
+351-400,Loughborough UniversityUnited Kingdom,30.5,65.4,27.9,22.8,42.6,-
+351-400,National Central UniversityTaiwan,22.6,34.5,22.1,46.2,83.9,-
+351-400,National Taiwan University of Science and Technology (Taiwan Tech)Taiwan,25.5,21.6,40.4,33,47.9,-
+351-400,"National University of Ireland, MaynoothRepublic of Ireland",24.9,70.3,20.9,34.6,33,-
+351-400,Old Dominion UniversityUnited States of America,21.3,30.2,14.3,58.7,-,-
+351-400,Polytechnic University of ValenciaSpain,20.9,28.2,13.1,59,39.8,-
+351-400,Ruhr University BochumGermany,27.8,50.9,20.9,42,45.2,-
+351-400,San Diego State UniversityUnited States of America,15,22.2,23.1,61.1,29.2,-
+351-400,Sun Yat-sen UniversityChina,29.4,25.5,18.2,48.1,43.4,-
+351-400,Swinburne University of TechnologyAustralia,17,68.5,19.4,49.1,46.7,-
+351-400,Temple UniversityUnited States of America,35.4,22.4,15,42.4,-,-
+351-400,UiT The Arctic University of NorwayNorway,20.3,59.6,15.8,54.2,39.2,-
+351-400,University of Bari Aldo MoroItaly,26.8,34.7,21.1,48.2,34.9,-
+351-400,University of Duisburg-EssenGermany,20.4,47.7,12,59.9,41.7,-
+351-400,University of FerraraItaly,15.4,38.6,14.4,64.2,38.5,-
+351-400,University of FlorenceItaly,17.7,37.3,13.2,57.7,34.2,-
+351-400,University of GrazAustria,24.6,59.9,14.4,51,29.5,-
+351-400,University of GuelphCanada,20.6,39.1,22.6,45.1,47.8,-
+351-400,University of JyväskyläFinland,27.5,42.8,16.3,47.2,-,-
+351-400,"University of Maryland, Baltimore CountyUnited States of America",16.9,34.4,15,65.9,32.6,-
+351-400,University of MinhoPortugal,17.2,46.9,18.6,50.3,37.4,-
+351-400,University of NavarraSpain,27.3,45.7,23.4,33.7,86.2,-
+351-400,University of OklahomaUnited States of America,34.1,26.7,14.7,46.1,35.2,-
+351-400,University of PortoPortugal,20.5,43.9,17.8,47.6,36.7,-
+351-400,University of PortsmouthUnited Kingdom,13.7,73.3,11.8,56.3,29.1,-
+351-400,University of Rovira i VirgiliSpain,19,34.3,13.6,64.2,30.6,-
+351-400,University of StirlingUnited Kingdom,19,62.8,22.6,50.1,30.3,-
+351-400,University of SurreyUnited Kingdom,31.1,83.5,22.7,25.7,40.3,-
+351-400,University of TartuEstonia,20.3,43.7,21.2,46.2,30.3,-
+351-400,University of TasmaniaAustralia,18.7,69.9,16.7,49.1,36.9,-
+351-400,University of ValenciaSpain,16.6,39.3,12.4,59,31.7,-
+351-400,University of VigoSpain,19.7,25.9,10.7,62.9,38.2,-
+351-400,University of WyomingUnited States of America,18.9,29.7,28.6,46.1,29.6,-

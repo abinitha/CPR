@@ -1,0 +1,18 @@
+#!/usr/bin/gnuplot
+
+set xlabel "Overall score" font "Verdana,16"
+set ylabel "Metric score" font "Verdana,16"
+set ylabel offset -0.10
+set title "QS 2015-16 Indian Universities" font "Verdana,16" 
+set border lw 2
+set lmargin at screen 0.15
+set xtics font ",14"
+set ytics font ",14"
+set xtics nomirror
+set ytics nomirror
+set xrange[0:50]
+set yrange[0:90]
+set key left top box 1
+
+
+

@@ -1,0 +1,374 @@
+University,Industry Income,Industry Income-16
+Johns Hopkins UniversityUnited States of America,100,100
+Duke UniversityUnited States of America,100,100
+LMU MunichGermany,100,100
+Peking UniversityChina,100,100
+Wageningen University and Research CenterNetherlands,100,100
+Delft University of TechnologyNetherlands,100,100
+Pohang University of Science and TechnologySouth Korea,100,100
+Korea Advanced Institute of Science and Technology (KAIST)South Korea,100,100
+National Cheng Kung UniversityTaiwan,100,100
+Nanyang Technological UniversitySingapore,100,99.9
+KTH Royal Institute of TechnologySweden,100,78.1
+University of AntwerpBelgium,100,60.3
+KU LeuvenBelgium,99.9,100
+Eindhoven University of TechnologyNetherlands,99.9,57.3
+Swedish University of Agricultural SciencesSweden,99.8,80.4
+University of South FloridaUnited States of America,99.8,99.8
+Tsinghua UniversityChina,99.7,100
+University of ArizonaUnited States of America,99.6,32.4
+TU Dresden Germany,99.5,99.7
+University of DelawareUnited States of America,99.3,98.7
+Technical University of DenmarkDenmark,98.6,50
+Korea UniversitySouth Korea,98.5,99.8
+Sungkyunkwan University (SKKU)South Korea,98.5,97.5
+National Chiao Tung UniversityTaiwan,98.2,96.9
+University of BaselSwitzerland,97.7,99.9
+Maastricht UniversityNetherlands,96.1,95.4
+Massachusetts Institute of TechnologyUnited States of America,95.7,95.4
+University of the WitwatersrandSouth Africa,94.8,99.7
+Stellenbosch UniversitySouth Africa,94.7,100
+University of MontrealCanada,91.8,92.6
+University of NavarraSpain,90.2,63.5
+University of TwenteNetherlands,89.2,91.2
+California Institute of TechnologyUnited States of America,89.1,97.8
+Technical University of DarmstadtGermany,88.9,99.1
+University of GroningenNetherlands,88.9,92.4
+Hanyang UniversitySouth Korea,88.7,87.9
+Zhejiang UniversityChina,88.6,96.2
+Shanghai Jiao Tong UniversityChina,88.4,92.9
+University of Cape TownSouth Africa,88,92.7
+"University of California, Santa BarbaraUnited States of America",87.1,90.4
+Nagoya UniversityJapan,86.3,91.4
+Seoul National UniversitySouth Korea,86.3,85.4
+Sharif University of TechnologyIran,86.2,87.8
+Wuhan UniversityChina,85.9,97.8
+Ghent UniversityBelgium,85.3,88.3
+McMaster UniversityCanada,85,88
+Isfahan University of TechnologyIran,84.1,99.5
+Utrecht UniversityNetherlands,84.1,89.1
+University of South AustraliaAustralia,83.9,85.9
+Karlsruhe Institute of TechnologyGermany,82.7,99.5
+Princeton UniversityUnited States of America,82.7,52.1
+National Taiwan University of Science and Technology (Taiwan Tech)Taiwan,82,92.2
+University of FreiburgGermany,81.4,100
+Georgetown UniversityUnited States of America,80,80.7
+Colorado School of MinesUnited States of America,79.4,83.7
+Lomonosov Moscow State UniversityRussian Federation,78.5,95.7
+Northwestern UniversityUnited States of America,77,81.2
+École PolytechniqueFrance,76.8,82.3
+Tohoku UniversityJapan,76.8,74.7
+Chalmers University of TechnologySweden,75.8,79.5
+University of NewcastleAustralia,75.6,64.4
+University of AucklandNew Zealand,74.2,78
+Lappeenranta University of TechnologyFinland,73.8,80.3
+Osaka UniversityJapan,73.6,76.1
+Monash UniversityAustralia,73.4,79.7
+Kyoto UniversityJapan,73.3,79
+ETH Zurich – Swiss Federal Institute of Technology ZurichSwitzerland,73.2,80
+University of OxfordUnited Kingdom,72.9,73.1
+Imperial College LondonUnited Kingdom,72.7,53.7
+University of Southern DenmarkDenmark,72.6,28
+Georgia Institute of TechnologyUnited States of America,72.3,73.7
+Queensland University of TechnologyAustralia,71.9,73.7
+University of Science and Technology of ChinaChina,71.6,80.3
+University of LiègeBelgium,70.4,98.9
+RWTH Aachen UniversityGermany,69.8,98.1
+Yonsei UniversitySouth Korea,69.7,75.9
+Tokyo Institute of TechnologyJapan,69.4,70.9
+Indian Institute of Technology RoorkeeIndia,69,81.4
+Dalhousie UniversityCanada,68.9,50.3
+Kyushu UniversityJapan,68.7,83.2
+Polytechnic University of MilanItaly,67.8,66.3
+University of SydneyAustralia,67.3,72.4
+The University of QueenslandAustralia,66.2,76.7
+Karolinska InstituteSweden,65.5,75.8
+University of AdelaideAustralia,65.3,79.3
+University of GenevaSwitzerland,65.1,72.4
+Aalto UniversityFinland,64.5,61.6
+University of PaviaItaly,64.4,69.4
+Vienna University of TechnologyAustria,64.1,86.5
+University of IcelandIceland,64,28
+University of Western AustraliaAustralia,63.3,64.5
+Stanford UniversityUnited States of America,63.1,63.3
+Laval UniversityCanada,62.7,57.5
+École Polytechnique Fédérale de LausanneSwitzerland,61.9,65.4
+Ewha Womans UniversitySouth Korea,61.3,57.6
+University of MelbourneAustralia,61.2,64.6
+Pennsylvania State UniversityUnited States of America,60.4,56.2
+VU University AmsterdamNetherlands,60,60.1
+Aarhus UniversityDenmark,59.8,28
+Vanderbilt UniversityUnited States of America,59.4,63.2
+Queen’s UniversityCanada,59,54.2
+Sun Yat-sen UniversityChina,58.9,79.4
+Tufts UniversityUnited States of America,58.7,60.7
+University of Texas at AustinUnited States of America,58.1,63.1
+University of UtahUnited States of America,58.1,57.4
+Hong Kong University of Science and TechnologyHong Kong,57.6,68.1
+Tokyo Medical and Dental University (TMDU)Japan,56.9,59.5
+University of AmsterdamNetherlands,56.7,62.8
+Ulm UniversityGermany,56.7,58.4
+King Mongkut’s University of Technology ThonburiThailand,56.5,70.3
+University of Hong KongHong Kong,56,53.7
+University of MichiganUnited States of America,55.7,56.3
+"University of California, DavisUnited States of America",55.4,57.3
+Middle East Technical UniversityTurkey,55.2,60
+Tilburg UniversityNetherlands,55.1,57.4
+University of TübingenGermany,54.7,59.2
+Washington State UniversityUnited States of America,54.5,57.1
+Erasmus University RotterdamNetherlands,54.4,54.6
+Iowa State UniversityUnited States of America,54.4,54
+"University of California, San DiegoUnited States of America",54.2,56.7
+Florida Institute of TechnologyUnited States of America,53.7,33.4
+National University of SingaporeSingapore,53.4,49.8
+University of Wisconsin-MadisonUnited States of America,53.3,48.5
+Carnegie Mellon UniversityUnited States of America,53,57.5
+University of MassachusettsUnited States of America,52.8,52.2
+University of KonstanzGermany,52.5,92.4
+University of AlbertaCanada,51.8,47.4
+Nanjing UniversityChina,51.7,58.6
+University of Illinois at Urbana-ChampaignUnited States of America,51.7,52.8
+University of TokyoJapan,51.2,50.8
+Istanbul Technical UniversityTurkey,51.1,72.1
+University of CambridgeUnited Kingdom,51.1,55
+University of LausanneSwitzerland,50.9,56
+University of Western OntarioCanada,50.7,59.7
+Université Libre de BruxellesBelgium,50.7,39.1
+Koç UniversityTurkey,50.6,82.4
+University of WaikatoNew Zealand,50,30.7
+Rensselaer Polytechnic InstituteUnited States of America,49.9,79.6
+City University of Hong KongHong Kong,49.8,50.1
+University of VirginiaUnited States of America,49.8,37.9
+Victoria University of WellingtonNew Zealand,49.7,45.6
+Indian Institute of Technology BombayIndia,49.7,42.3
+Texas A&M UniversityUnited States of America,49.6,46.4
+University of CanterburyNew Zealand,49.5,52.1
+National Tsing Hua UniversityTaiwan,49.4,49.5
+Fudan UniversityChina,49.4,28
+University of IowaUnited States of America,49.3,54.1
+Dartmouth CollegeUnited States of America,49.1,40.8
+Technical University of MunichGermany,49,99.2
+University of StuttgartGermany,48.2,99.8
+University of FribourgSwitzerland,48.2,60.8
+University of New South WalesAustralia,47.8,50
+University of DundeeUnited Kingdom,47.7,49.5
+Boğaziçi UniversityTurkey,47.7,35.5
+University of BernSwitzerland,47.4,82.9
+Ruhr University BochumGermany,47.4,66.6
+Leiden UniversityNetherlands,47.3,49.8
+National Sun Yat-Sen UniversityTaiwan,47,44.3
+University of Erlangen-NurembergGermany,46.8,99.4
+Ohio State UniversityUnited States of America,46.8,53.1
+Boston CollegeUnited States of America,46.5,46.8
+Bilkent UniversityTurkey,46.4,30.2
+University of BremenGermany,46.3,46
+University College LondonUnited Kingdom,46.2,40.5
+Université Catholique de LouvainBelgium,46.1,51
+University of TorontoCanada,46.1,49.1
+University of TrentoItaly,46,47.1
+University College CorkRepublic of Ireland,45.9,47.1
+University of OttawaCanada,45.9,41.5
+Norwegian University of Science and TechnologyNorway,45,51.8
+University of Milan-BicoccaItaly,45,46.6
+Vrije Universiteit BrusselBelgium,44.8,77.1
+"University of California, BerkeleyUnited States of America",44.8,47.9
+University of WollongongAustralia,44.7,57.9
+University of WashingtonUnited States of America,44.7,43.1
+University of MinhoPortugal,44.5,51.6
+State University of CampinasBrazil,44.5,49.4
+University of New MexicoUnited States of America,44.5,37
+University of CopenhagenDenmark,44.4,45
+University of Duisburg-EssenGermany,44.2,82.3
+Harvard UniversityUnited States of America,44,45.2
+Aalborg UniversityDenmark,43.9,43.7
+Brandeis UniversityUnited States of America,43.9,38.6
+National Taiwan UniversityTaiwan,43.8,49.6
+University of SheffieldUnited Kingdom,43.8,43.4
+Queen’s University BelfastUnited Kingdom,43.7,35.7
+University of ManitobaCanada,43.5,41.8
+Hokkaido UniversityJapan,43.4,53.7
+University of HoustonUnited States of America,43.2,42.3
+"National University of Ireland, GalwayRepublic of Ireland",43.1,41.9
+University of PennsylvaniaUnited States of America,43,47.9
+Sabancı UniversityTurkey,42.9,70
+Renmin University of ChinaChina,42.8,42.5
+Radboud University NijmegenNetherlands,42.8,39.2
+Chinese University of Hong KongHong Kong,42.8,37.5
+Hong Kong Polytechnic UniversityHong Kong,42.6,45.1
+Virginia Polytechnic Institute and State UniversityUnited States of America,42.6,43.3
+Tel Aviv UniversityIsrael,42.6,42.9
+University of TampereFinland,42.5,40
+Emory UniversityUnited States of America,42.3,48.9
+University of AberdeenUnited Kingdom,42.1,43.1
+University of BristolUnited Kingdom,42.1,40
+Yale UniversityUnited States of America,42,43.3
+University of InnsbruckAustria,42,39.9
+Simon Fraser UniversityCanada,41.8,42.3
+University of WaterlooCanada,41.7,39.5
+Heidelberg UniversityGermany,41.6,68.2
+University of Texas at DallasUnited States of America,41.6,41.8
+University of CalgaryCanada,41.5,52
+University of EdinburghUnited Kingdom,41.2,36.1
+University of TurinItaly,40.8,54.2
+University of Illinois at ChicagoUnited States of America,40.7,38
+Syracuse UniversityUnited States of America,40.6,36.3
+London School of Economics and Political ScienceUnited Kingdom,40.6,32.2
+University of North Carolina at Chapel HillUnited States of America,40.5,39.4
+Murdoch UniversityAustralia,40.5,36.5
+University of FerraraItaly,40.4,35.9
+Scuola Normale Superiore di PisaItaly,40.1,52
+University of ZurichSwitzerland,40.1,44
+University of British ColumbiaCanada,40.1,42.6
+University of MilanItaly,40.1,40.9
+University of São PauloBrazil,40.1,30.5
+"University of California, IrvineUnited States of America",40,48.9
+University of LiverpoolUnited Kingdom,40,36.6
+University of GlasgowUnited Kingdom,39.9,31.6
+University of St AndrewsUnited Kingdom,39.8,30.6
+University at BuffaloUnited States of America,39.6,43.8
+University of NottinghamUnited Kingdom,39.6,39.8
+Uppsala UniversitySweden,39.6,39.5
+"University of California, RiversideUnited States of America",39.5,42.5
+University of ManchesterUnited Kingdom,39.4,42
+École Normale SupérieureFrance,39.4,37.1
+University of LeedsUnited Kingdom,39.4,36.7
+Kansas State UniversityUnited States of America,39.2,43.1
+Lehigh UniversityUnited States of America,39.2,38.9
+King’s College LondonUnited Kingdom,39,40.1
+Australian National UniversityAustralia,38.9,48
+University of SouthamptonUnited Kingdom,38.9,37.5
+Colorado State UniversityUnited States of America,38.8,41
+Goethe University FrankfurtGermany,38.8,38.1
+UiT The Arctic University of NorwayNorway,38.8,36.8
+Swinburne University of TechnologyAustralia,38.8,32.2
+McGill UniversityCanada,38.6,40.3
+University of PittsburghUnited States of America,38.5,39.3
+University of SalentoItaly,38.4,36.2
+University of Hawai’i at MānoaUnited States of America,38.3,44.7
+University of MünsterGermany,38.2,58.2
+Wake Forest UniversityUnited States of America,38.2,42.5
+Indian Institute of ScienceIndia,37.9,52.4
+University of Rome IIIItaly,37.7,37.5
+University of PisaItaly,37.7,31.4
+Bielefeld UniversityGermany,37.4,60.9
+Queen Mary University of LondonUnited Kingdom,37.1,36.8
+University of GothenburgSweden,37,30.3
+University of TsukubaJapan,36.9,42.9
+University of ChicagoUnited States of America,36.8,36.6
+University of BathUnited Kingdom,36.7,36.3
+University of OsloNorway,36.6,38.3
+Technion Israel Institute of TechnologyIsrael,36.5,28.8
+"University of the Andes, ColombiaColombia",36.5,28
+University of RochesterUnited States of America,36.4,37
+Macquarie UniversityAustralia,36.2,33.1
+Curtin UniversityAustralia,36.1,37.8
+University of BirminghamUnited Kingdom,36,34.7
+University of CreteGreece,36,34.5
+Pompeu Fabra UniversitySpain,35.9,37.2
+University of ExeterUnited Kingdom,35.8,31.9
+Aston UniversityUnited Kingdom,35.7,34.6
+University of WarwickUnited Kingdom,35.6,37.7
+University of CincinnatiUnited States of America,35.6,35.3
+University of FlorenceItaly,35.4,35.9
+University of Bari Aldo MoroItaly,35.2,45.4
+"Rutgers, the State University of New JerseyUnited States of America",35.2,35.9
+University of Nebraska-LincolnUnited States of America,35,35.6
+Newcastle UniversityUnited Kingdom,35,34.7
+University of BolognaItaly,34.9,34.5
+University of ReadingUnited Kingdom,34.9,34.2
+Bayreuth UniversityGermany,34.8,56.4
+Cardiff UniversityUnited Kingdom,34.8,34.6
+Durham UniversityUnited Kingdom,34.8,34.4
+University of LeicesterUnited Kingdom,34.8,31.7
+Rice UniversityUnited States of America,34.6,41.7
+Drexel UniversityUnited States of America,34.6,36.3
+Autonomous University of BarcelonaSpain,34.6,34.9
+University of Nebraska Medical CenterUnited States of America,34.5,33.6
+University of Southern CaliforniaUnited States of America,34.4,38
+University of MontanaUnited States of America,34.4,31
+University of BergenNorway,34.2,36.2
+Sapienza University of RomeItaly,34.2,32.6
+Lancaster UniversityUnited Kingdom,34.1,33.6
+York UniversityCanada,34.1,33.2
+Northeastern UniversityUnited States of America,34,32.9
+University of LisbonPortugal,33.9,35.4
+"University of California, Santa CruzUnited States of America",33.8,36.1
+University College DublinRepublic of Ireland,33.8,33.5
+Medical University of ViennaAustria,33.7,33.9
+Cornell UniversityUnited States of America,33.7,33.7
+University of MacauMacau,33.6,34.9
+Claude Bernard University Lyon 1France,33.6,34.5
+Montpellier UniversityFrance,33.6,31.9
+Free University of BerlinGermany,33.5,35.1
+Novosibirsk State UniversityRussian Federation,33.4,38.2
+Pierre and Marie Curie UniversityFrance,33.4,37.4
+University of TriesteItaly,33.3,32.3
+"University of Maryland, College ParkUnited States of America",33.2,32.3
+Aberystwyth UniversityUnited Kingdom,33,31.3
+University of PaduaItaly,32.9,32.6
+"Royal Holloway, University of LondonUnited Kingdom",32.8,34.4
+University of Eastern FinlandFinland,32.8,33.3
+University of GöttingenGermany,32.8,31.8
+Charles Darwin UniversityAustralia,32.7,43.2
+Brown UniversityUnited States of America,32.7,31.4
+Lund UniversitySweden,32.6,70.4
+Waseda UniversityJapan,32.6,32.4
+Arizona State UniversityUnited States of America,32.6,32
+"St George’s, University of LondonUnited Kingdom",32.4,37.7
+Stockholm UniversitySweden,32.4,31.1
+Autonomous University of MadridSpain,32.2,33
+University of YorkUnited Kingdom,32.2,31.1
+University of TurkuFinland,32.1,31.2
+University of StrasbourgFrance,32,32.8
+Oregon State UniversityUnited States of America,32,32.1
+Humboldt University of BerlinGermany,31.9,36.1
+Brunel University LondonUnited Kingdom,31.9,34.7
+University of OtagoNew Zealand,31.9,31.5
+University of South CarolinaUnited States of America,31.8,30.3
+Michigan State UniversityUnited States of America,31.7,32.2
+University of VictoriaCanada,31.6,36.6
+Hebrew University of JerusalemIsrael,31.5,31.9
+University of HelsinkiFinland,31.5,31.6
+Stony Brook UniversityUnited States of America,31.3,33.4
+Joseph Fourier UniversityFrance,31.3,31.6
+Umeå UniversitySweden,31.3,31.1
+University of MissouriUnited States of America,31.2,31.1
+University of SussexUnited Kingdom,31.2,30.6
+Bangor UniversityUnited Kingdom,31.1,31
+University of GeorgiaUnited States of America,31.1,30.9
+University of ConnecticutUnited States of America,31.1,30.9
+University of BarcelonaSpain,31,31.1
+Tokyo Metropolitan UniversityJapan,31,30.9
+University of ValenciaSpain,30.8,31.3
+University of StirlingUnited Kingdom,30.7,30.4
+Carleton UniversityCanada,30.7,30.4
+Deakin UniversityAustralia,30.6,30
+Trinity College DublinRepublic of Ireland,30.6,28
+Western Sydney UniversityAustralia,30.4,30.7
+Boston UniversityUnited States of America,30.3,30.3
+New York UniversityUnited States of America,30.2,30.4
+University of GrazAustria,30.2,29.3
+University of WürzburgGermany,30,47.9
+William & MaryUnited States of America,30,29.1
+University of HertfordshireUnited Kingdom,29.6,29.3
+University of ViennaAustria,29.4,30.2
+Charles University in PragueCzech Republic,29.4,28.2
+École Normale Supérieure de LyonFrance,29.3,31.7
+George Washington UniversityUnited States of America,29.3,29.5
+San Diego State UniversityUnited States of America,29.2,29.3
+University of PortsmouthUnited Kingdom,29.2,28.9
+University of East AngliaUnited Kingdom,29.2,28.5
+Paris Diderot University – Paris 7France,29.1,29
+University of EssexUnited Kingdom,29.1,28.9
+University of SeoulSouth Korea,29.1,28.9
+Hong Kong Baptist UniversityHong Kong,29.1,28.8
+Paris-Sud UniversityFrance,28.9,28.8
+University of CologneGermany,28.8,68.5
+Plymouth UniversityUnited Kingdom,28.8,28.5
+George Mason UniversityUnited States of America,28.7,29.1
+"Birkbeck, University of LondonUnited Kingdom",28.7,28.5
+University of Marrakech Cadi AyyadMorocco,28.6,29.2
+University of WarsawPoland,28.5,28.5
+Royal College of Surgeons in IrelandRepublic of Ireland,28.4,33.9
+Panjab UniversityIndia,28.3,28.1
+Federico Santa María Technical UniversityChile,28.1,35.1
