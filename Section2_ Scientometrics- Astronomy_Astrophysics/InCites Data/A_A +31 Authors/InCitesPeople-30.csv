@@ -1,0 +1,39 @@
+Name,Rank,Affiliation,Web of Science Documents,Category Normalized Citation Impact,Times Cited,% Docs Cited
+"Mitra, S.",1,Inter-University Centre for Astronomy & Astrophysics,80,13.61,12110,100.0
+"Dhurandhar, S.",2,Inter-University Centre for Astronomy & Astrophysics,69,3.75,4285,98.55
+"Srianand, R.",3,Inter-University Centre for Astronomy & Astrophysics,60,1.39,1616,100.0
+"Mookerjea, B.",4,Tata Institute of Fundamental Research,33,1.28,975,96.97
+"Subrahmanyan, R.",5,Raman Research Institute,41,1.7,825,100.0
+"Unnikrishnan, C. S.",6,Tata Institute of Fundamental Research,36,2.81,788,80.56
+"Padmanabhan, T.",7,Inter-University Centre for Astronomy & Astrophysics,37,0.88,732,89.19
+"Saikia, D. J.",8,Tata Institute of Fundamental Research,48,0.65,706,100.0
+"Shankar, N. Udaya",9,Raman Research Institute,41,1.59,696,100.0
+"Srivani, K. S.",10,Raman Research Institute,38,1.71,688,100.0
+"Antia, H. M.",11,Tata Institute of Fundamental Research,33,1.2,670,100.0
+"Subramanian, Kandaswamy",12,Inter-University Centre for Astronomy & Astrophysics,32,1.03,655,100.0
+"Anupama, G. C.",13,Indian Institute of Astrophysics,41,0.79,619,100.0
+"Banerjee, D. P. K.",14,Physical Research Laboratory - India,42,0.95,590,97.62
+"Ashok, N. M.",14,Physical Research Laboratory - India,46,0.84,590,95.65
+"Chakrabarti, Sandip K.",16,SN Bose National Centre for Basic Science,67,0.59,585,88.06
+"Souradeep, Tarun",17,Inter-University Centre for Astronomy & Astrophysics,40,0.82,548,95.0
+"Sahu, D. K.",18,Indian Institute of Astrophysics,31,0.82,539,100.0
+"Sarkar, Utpal",19,Physical Research Laboratory - India,31,1.1,490,100.0
+"Ojha, D. K.",20,Tata Institute of Fundamental Research,44,0.64,471,95.45
+"Pandey, A. K.",21,Aryabhatta Research Institute of Observational Sciences,36,0.62,427,100.0
+"Rahaman, Farook",22,Jadavpur University,32,0.89,376,90.63
+"Paul, Biswajit",23,Raman Research Institute,42,0.38,325,95.24
+"Mukhopadhyay, Banibrata",24,Indian Institute of Science (IISC) - Bangalore,35,0.73,318,97.14
+"Debnath, Ujjal",25,Indian Institute of Engineering Science Technology Shibpur (IIEST),36,0.47,303,88.89
+"Nagendra, K. N.",26,Indian Institute of Astrophysics,34,0.38,258,100.0
+"Chakraborty, Subenoy",27,Jadavpur University,39,0.52,254,89.74
+"Rao, A. R.",28,Tata Institute of Fundamental Research,32,0.35,205,87.5
+"Sharma, R. P.",29,Indian Institute of Technology (IIT) - Delhi,32,0.18,82,81.25
+
+Filter Summary:
+Dataset: Astronomy-6909
+Schema:  Web of Science
+Location:  [INDIA]
+"Web of Science Documents:  [31, 50000]"
+
+"Exported date  2017-08-22. "
+"InCites dataset updated  2017-08-19. Includes Web of Science content indexed through 2017-06-30. "

@@ -1,0 +1,161 @@
+Name,Rank,Web of Science Documents,Times Cited,% Docs Cited,Category Normalized Citation Impact,% Documents in Q1 Journals,% Documents in Q2 Journals,% Documents in Q3 Journals,% Documents in Q4 Journals,% International Collaborations,Citation Impact
+Natl Sci Fdn,1,155,15230,99.35,4.88,81.82,17.53,0.65,0.0,100.0,98.26
+National Aeronautics & Space Administration (NASA),2,148,15170,99.32,6.68,93.88,5.44,0.68,0.0,100.0,102.5
+United States Department of Energy (DOE),3,80,14461,100.0,9.99,95.0,5.0,0.0,0.0,100.0,180.76
+European Space Agency,4,44,9836,100.0,20.05,97.73,2.27,0.0,0.0,100.0,223.55
+Max Planck Society,5,84,9520,100.0,8.46,96.39,3.61,0.0,0.0,100.0,113.33
+CENTRE NATIONAL D'ETUDES SPATIALES,6,42,9255,100.0,19.62,100.0,0.0,0.0,0.0,100.0,220.36
+Science & Technology Facilities Council (STFC),7,120,8390,100.0,5.97,90.76,9.24,0.0,0.0,100.0,69.92
+Alfred P. Sloan Foundation,8,77,7818,98.7,5.72,90.79,9.21,0.0,0.0,100.0,101.53
+French National Research Agency,9,85,7008,98.82,4.58,91.67,8.33,0.0,0.0,100.0,82.45
+Istituto Nazionale Astrofisica - Italy,10,41,5472,100.0,11.63,97.56,2.44,0.0,0.0,100.0,133.46
+Portuguese Foundation for Science and Technology,11,48,5416,100.0,10.66,95.83,4.17,0.0,0.0,100.0,112.83
+Italian Space Agency,12,48,5247,100.0,9.81,95.74,4.26,0.0,0.0,100.0,109.31
+Australian Research Council,13,108,5028,100.0,3.48,85.05,14.95,0.0,0.0,100.0,46.56
+Science Foundation Ireland,14,55,4940,100.0,8.34,96.36,3.64,0.0,0.0,100.0,89.82
+"Ministry of Science and Innovation, Spain (MICINN)",15,51,4707,100.0,7.56,96.08,3.92,0.0,0.0,100.0,92.29
+German Aerospace Centre (DLR),16,37,4485,100.0,11.46,100.0,0.0,0.0,0.0,100.0,121.22
+Finnish Funding Agency for Technology and Innovation (TEKES),17,32,4480,100.0,13.15,100.0,0.0,0.0,0.0,100.0,140.0
+Italian National Research Council,18,32,4464,100.0,13.18,100.0,0.0,0.0,0.0,100.0,139.5
+Leverhulme Trust,19,65,4445,100.0,4.67,92.19,7.81,0.0,0.0,100.0,68.38
+Consejo Superior de Investigaciones Cientificas (CSIC),20,32,4437,100.0,13.09,100.0,0.0,0.0,0.0,100.0,138.66
+Istituto Nazionale di Fisica Nucleare,21,76,4423,100.0,4.27,93.33,6.67,0.0,0.0,100.0,58.2
+Japan Society for the Promotion of Science,22,70,4192,100.0,4.23,92.75,7.25,0.0,0.0,100.0,59.89
+Royal Society,23,64,3909,100.0,4.24,93.65,6.35,0.0,0.0,100.0,61.08
+"Ministry of Science and Higher Education, Poland",24,61,3754,100.0,3.92,91.8,8.2,0.0,0.0,100.0,61.54
+Council of Scientific & Industrial Research (CSIR) - India,25,58,3670,100.0,3.92,94.74,5.26,0.0,0.0,100.0,63.28
+The David & Lucile Packard Foundation,26,58,3591,100.0,3.92,92.98,7.02,0.0,0.0,100.0,61.91
+"Ministry of Education, Culture, Sports, Science and Technology, Japan",27,20,3420,100.0,9.21,75.0,25.0,0.0,0.0,100.0,171.0
+Netherlands Organization for Scientific Research (NWO),28,56,3410,100.0,3.83,89.29,10.71,0.0,0.0,100.0,60.89
+Research Corporation for Science Advancement,29,56,2948,100.0,3.8,92.73,7.27,0.0,0.0,100.0,52.64
+"Ministry of Education and Science, Spain",30,37,2856,100.0,3.43,100.0,0.0,0.0,0.0,100.0,77.19
+Higher Education Funding Council for England,31,2,2750,100.0,54.38,100.0,0.0,0.0,0.0,100.0,1375.0
+Foundation for Polish Science,32,37,2052,100.0,3.35,89.19,10.81,0.0,0.0,100.0,55.46
+Natural Sciences and Engineering Research Council of Canada,33,36,1775,100.0,4.55,94.44,5.56,0.0,0.0,100.0,49.31
+FOM (The Netherlands),34,33,1623,100.0,4.26,87.88,12.12,0.0,0.0,100.0,49.18
+University of Florida,35,6,1612,100.0,12.64,66.67,33.33,0.0,0.0,100.0,268.67
+University of Cambridge,35,6,1612,100.0,12.64,66.67,33.33,0.0,0.0,100.0,268.67
+Ohio State University,35,6,1612,100.0,12.64,66.67,33.33,0.0,0.0,100.0,268.67
+University of Washington,35,6,1612,100.0,12.64,66.67,33.33,0.0,0.0,100.0,268.67
+Johns Hopkins University,35,6,1612,100.0,12.64,66.67,33.33,0.0,0.0,100.0,268.67
+Danish Natural Science Research Council,40,14,1506,100.0,10.58,92.86,7.14,0.0,0.0,100.0,107.57
+Centre National de la Recherche Scientifique (CNRS),41,36,1500,100.0,3.23,88.89,11.11,0.0,0.0,100.0,41.67
+National Natural Science Foundation of China,42,27,1485,100.0,4.26,81.48,14.81,3.7,0.0,100.0,55.0
+European Union (EU),43,27,1447,100.0,3.49,77.78,18.52,3.7,0.0,100.0,53.59
+Space Telescope Science Institute,44,8,1405,100.0,8.35,75.0,25.0,0.0,0.0,100.0,175.63
+German Research Foundation (DFG),45,34,1344,100.0,3.75,91.18,5.88,2.94,0.0,100.0,39.53
+Federal Ministry of Education & Research (BMBF),46,26,1090,100.0,4.08,96.15,3.85,0.0,0.0,100.0,41.92
+Australian Government,47,22,1007,100.0,3.33,77.27,22.73,0.0,0.0,100.0,45.77
+Smithsonian Inst,48,56,998,100.0,1.53,76.79,23.21,0.0,0.0,100.0,17.82
+Slovenian Research Agency,49,12,915,100.0,6.39,91.67,8.33,0.0,0.0,100.0,76.25
+OTKA,50,22,897,100.0,4.59,86.36,13.64,0.0,0.0,100.0,40.77
+National Council for Scientific and Technological Development (CNPq),51,18,867,100.0,4.92,77.78,22.22,0.0,0.0,100.0,48.17
+"Ministry of Education, Youth and Sports, Czech Republic",52,13,852,100.0,7.12,76.92,23.08,0.0,0.0,100.0,65.54
+Scientific & Technological Research Council of Turkey (TUBITAK),53,15,829,100.0,3.41,86.67,6.67,0.0,6.67,100.0,55.27
+Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP),54,15,817,100.0,5.73,80.0,20.0,0.0,0.0,100.0,54.47
+Canada Foundation for Innovation,55,12,773,100.0,7.64,91.67,8.33,0.0,0.0,100.0,64.42
+European Research Council (ERC),56,15,768,100.0,5.44,86.67,13.33,0.0,0.0,100.0,51.2
+United Kingdom,56,17,768,100.0,5.2,88.24,11.76,0.0,0.0,100.0,45.18
+National Research Foundation of Korea,58,16,748,100.0,5.88,87.5,12.5,0.0,0.0,100.0,46.75
+Harvard-Smithsonian Ctr Astrophysics,59,39,732,100.0,1.64,66.67,33.33,0.0,0.0,100.0,18.77
+Chinese Academy of Sciences,60,13,712,100.0,6.17,84.62,15.38,0.0,0.0,100.0,54.77
+"Ministry of Science and Technology, China",60,10,712,100.0,7.13,90.0,10.0,0.0,0.0,100.0,71.2
+"Departamento Administrativo de Ciencia, Tecnologia e Innovacion Colciencias",62,13,701,100.0,6.0,84.62,15.38,0.0,0.0,100.0,53.92
+Greek Ministry of Development-GSRT,63,12,692,100.0,6.6,83.33,16.67,0.0,0.0,100.0,57.67
+Enerji ve Tabii Kaynaklar Bakanligi,63,12,692,100.0,6.6,83.33,16.67,0.0,0.0,100.0,57.67
+AFOSR,65,36,678,100.0,1.65,66.67,33.33,0.0,0.0,100.0,18.83
+Netherlands,66,15,657,100.0,5.21,86.67,13.33,0.0,0.0,100.0,43.8
+Comision Nacional de Investigacion Cientifica y Tecnologica (CONICYT),67,10,613,100.0,6.8,90.0,10.0,0.0,0.0,100.0,61.3
+Alexander von Humboldt Foundation,68,11,579,100.0,6.36,81.82,18.18,0.0,0.0,100.0,52.64
+Israel Science Foundation,69,9,563,100.0,8.04,88.89,11.11,0.0,0.0,100.0,62.56
+Austrian Science Fund (FWF),70,11,548,100.0,6.21,81.82,18.18,0.0,0.0,100.0,49.82
+National Science Council of Taiwan,71,11,546,100.0,6.09,90.91,9.09,0.0,0.0,100.0,49.64
+Russian Federation,72,9,528,100.0,6.83,88.89,11.11,0.0,0.0,100.0,58.67
+Czech Republic,73,10,516,100.0,6.29,90.0,10.0,0.0,0.0,100.0,51.6
+Canadian Institute for Advanced Research (CIFAR),74,3,509,100.0,11.49,100.0,0.0,0.0,0.0,100.0,169.67
+ANPCyT,75,9,500,100.0,7.1,77.78,22.22,0.0,0.0,100.0,55.56
+German-Israeli Foundation for Scientific Research and Development,76,9,497,100.0,6.83,88.89,11.11,0.0,0.0,100.0,55.22
+FQRNT,77,2,485,100.0,15.93,100.0,0.0,0.0,0.0,100.0,242.5
+Lundbeck Corporation,78,8,477,100.0,7.55,87.5,12.5,0.0,0.0,100.0,59.63
+Swiss National Science Foundation,79,12,466,100.0,4.26,91.67,8.33,0.0,0.0,100.0,38.83
+Russian Foundation for Basic Research,80,16,438,100.0,2.22,87.5,6.25,0.0,6.25,100.0,27.38
+Academy of Finland,81,13,420,100.0,2.64,84.62,7.69,7.69,0.0,100.0,32.31
+French Atomic Energy Commission,82,8,343,100.0,3.84,100.0,0.0,0.0,0.0,100.0,42.88
+European Community (EC),83,8,310,100.0,1.98,100.0,0.0,0.0,0.0,100.0,38.75
+Danmarks Grundforskningsfond,84,8,287,100.0,3.66,100.0,0.0,0.0,0.0,100.0,35.88
+Department of Science & Technology (India),85,7,277,100.0,2.67,100.0,0.0,0.0,0.0,100.0,39.57
+"Ministry of Education and Science, Russian Federation",86,6,276,100.0,3.93,83.33,16.67,0.0,0.0,100.0,46.0
+Swedish Research Council,87,15,267,100.0,1.6,100.0,0.0,0.0,0.0,100.0,17.8
+CAPES,88,7,259,100.0,3.03,71.43,28.57,0.0,0.0,100.0,37.0
+Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Estado do Rio de Janeiro (FAPERJ),89,7,251,100.0,2.47,85.71,14.29,0.0,0.0,100.0,35.86
+Fonds de la Recherche Scientifique - FNRS,90,4,240,100.0,4.74,75.0,25.0,0.0,0.0,100.0,60.0
+Department of Atomic Energy (DAE),91,5,235,100.0,3.98,80.0,20.0,0.0,0.0,100.0,47.0
+Russian Academy of Sciences,92,5,232,100.0,3.93,60.0,20.0,0.0,20.0,100.0,46.4
+Consejo Nacional de Ciencia y Tecnologia (CONACyT),92,6,232,100.0,2.82,100.0,0.0,0.0,0.0,100.0,38.67
+Academia Sinica - Taiwan,94,6,224,100.0,2.85,100.0,0.0,0.0,0.0,100.0,37.33
+FWO,95,5,210,100.0,3.62,80.0,20.0,0.0,0.0,100.0,42.0
+FONDECYT,96,5,188,100.0,2.45,100.0,0.0,0.0,0.0,100.0,37.6
+National Office for Research and Technology,97,3,181,100.0,4.52,100.0,0.0,0.0,0.0,100.0,60.33
+Commonwealth Scientific & Industrial Research Organisation (CSIRO),98,8,165,100.0,2.42,62.5,37.5,0.0,0.0,100.0,20.63
+KU Leuven,99,1,156,100.0,6.34,100.0,0.0,0.0,0.0,100.0,156.0
+Research Council of Norway,100,4,151,100.0,3.74,100.0,0.0,0.0,0.0,100.0,37.75
+"Ministry of Science, Education and Sports, Republic of Croatia",101,2,139,100.0,4.11,50.0,50.0,0.0,0.0,100.0,69.5
+Engineering & Physical Sciences Research Council (EPSRC),102,3,130,100.0,2.14,100.0,0.0,0.0,0.0,100.0,43.33
+Korea Research Foundation,103,2,125,100.0,2.07,100.0,0.0,0.0,0.0,100.0,62.5
+W.M. Keck Foundation,104,8,120,87.5,1.0,75.0,25.0,0.0,0.0,100.0,15.0
+University of Toronto,105,2,116,100.0,5.28,100.0,0.0,0.0,0.0,100.0,58.0
+University of Chicago,105,4,116,100.0,4.87,75.0,25.0,0.0,0.0,100.0,29.0
+"Ministry of Education, China",107,1,105,100.0,3.03,100.0,0.0,0.0,0.0,100.0,105.0
+Junta de Andalucia,108,3,102,100.0,1.68,100.0,0.0,0.0,0.0,100.0,34.0
+University of Melbourne,109,1,90,100.0,5.85,0.0,100.0,0.0,0.0,100.0,90.0
+National Basic Research Program of China,109,3,90,100.0,2.68,100.0,0.0,0.0,0.0,100.0,30.0
+Hungarian Academy of Sciences,111,3,87,100.0,2.43,100.0,0.0,0.0,0.0,100.0,29.0
+U.S.-Israel Binational Science Foundation,112,4,85,100.0,1.28,50.0,50.0,0.0,0.0,100.0,21.25
+"Ministry of Education, Science and Technology, Republic of Korea",112,2,85,100.0,3.15,50.0,50.0,0.0,0.0,100.0,42.5
+VEGA,114,4,80,100.0,1.03,25.0,50.0,25.0,0.0,100.0,20.0
+University of Sydney,115,1,70,100.0,9.76,100.0,0.0,0.0,0.0,100.0,70.0
+Knut and Alice Wallenberg Foundation,115,4,70,100.0,1.42,100.0,0.0,0.0,0.0,100.0,17.5
+Belgian Federal Science Policy Office,117,3,62,100.0,2.34,66.67,33.33,0.0,0.0,100.0,20.67
+European Social Fund (ESF),118,2,55,100.0,2.51,50.0,50.0,0.0,0.0,100.0,27.5
+Helmholtz Association,119,3,54,100.0,2.26,66.67,33.33,0.0,0.0,100.0,18.0
+Korean Government,120,1,51,100.0,1.1,100.0,0.0,0.0,0.0,100.0,51.0
+Generalitat Valenciana,120,1,51,100.0,1.1,100.0,0.0,0.0,0.0,100.0,51.0
+"Irish Research Council for Science, Engineering and Technology",122,2,50,100.0,0.98,100.0,0.0,0.0,0.0,100.0,25.0
+European Commission Joint Research Centre,122,1,50,100.0,4.32,100.0,0.0,0.0,0.0,100.0,50.0
+Russian Science Foundation (RSF),124,5,48,100.0,1.04,100.0,0.0,0.0,0.0,100.0,9.6
+Grant Agency of the Czech Republic,125,2,46,100.0,1.05,100.0,0.0,0.0,0.0,100.0,23.0
+James S. McDonnell Foundation,126,2,45,100.0,2.37,100.0,0.0,0.0,0.0,100.0,22.5
+Gordon and Betty Moore Foundation,126,2,45,100.0,2.37,100.0,0.0,0.0,0.0,100.0,22.5
+High Energy Accelerator Research Organization (KEK),128,2,42,100.0,1.92,100.0,0.0,0.0,0.0,100.0,21.0
+Federal Agency for Science & Innovations (FASI),129,2,39,100.0,1.28,100.0,0.0,0.0,0.0,100.0,19.5
+Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET),129,2,39,100.0,1.28,100.0,0.0,0.0,0.0,100.0,19.5
+Eesti Teadusfond (ETF),131,1,34,100.0,5.2,0.0,100.0,0.0,0.0,100.0,34.0
+Compagnia di San Paolo,131,1,34,100.0,5.2,0.0,100.0,0.0,0.0,100.0,34.0
+National Research Foundation - South Africa,131,1,34,100.0,2.21,100.0,0.0,0.0,0.0,100.0,34.0
+University of Michigan System,134,1,32,100.0,1.26,100.0,0.0,0.0,0.0,100.0,32.0
+National Science Fund of Bulgaria,135,2,30,100.0,1.35,100.0,0.0,0.0,0.0,100.0,15.0
+Institute for the Promotion of Innovation by Science and Technology in Flanders (IWT),136,2,28,100.0,0.92,100.0,0.0,0.0,0.0,100.0,14.0
+European Cooperation in Science and Technology (COST),137,1,25,100.0,1.32,100.0,0.0,0.0,0.0,100.0,25.0
+University of Bologna,138,1,24,100.0,0.98,100.0,0.0,0.0,0.0,100.0,24.0
+Canada Research Chairs,138,1,24,100.0,2.62,100.0,0.0,0.0,0.0,100.0,24.0
+Det Frie Forskningsrad (DFF),140,1,21,100.0,1.11,100.0,0.0,0.0,0.0,100.0,21.0
+Korea Science and Engineering Foundation,141,1,20,100.0,1.12,100.0,0.0,0.0,0.0,100.0,20.0
+Slovak Research and Development Agency,141,1,20,100.0,1.3,100.0,0.0,0.0,0.0,100.0,20.0
+Region Centre-Val de Loire,143,1,16,100.0,1.38,100.0,0.0,0.0,0.0,100.0,16.0
+MIUR,144,2,14,100.0,0.6,50.0,50.0,0.0,0.0,100.0,7.0
+"Ministry of Research, France",145,1,13,100.0,1.12,100.0,0.0,0.0,0.0,100.0,13.0
+Devlet Hastaneleri,146,1,11,100.0,1.53,100.0,0.0,0.0,0.0,100.0,11.0
+Region Provence-Alpes-Cote d'Azur,146,1,11,100.0,0.84,100.0,0.0,0.0,0.0,100.0,11.0
+Istanbul University,146,1,11,100.0,1.53,100.0,0.0,0.0,0.0,100.0,11.0
+Region Grand-Est,146,1,11,100.0,0.84,100.0,0.0,0.0,0.0,100.0,11.0
+"Ministry of Education, Taiwan",150,1,5,100.0,0.26,100.0,0.0,0.0,0.0,100.0,5.0
+
+Filter Summary:
+Dataset: Astronomy-6909
+Schema:  Web of Science
+Location:  [INDIA]
+"Authors per Document:  [30, 5154]"
+Funding Agency Type:  Funded
+
+"Exported date  2017-09-05. "
+"InCites dataset updated  2017-08-19. Includes Web of Science content indexed through 2017-06-30. "
